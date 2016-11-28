@@ -1,0 +1,64 @@
+英国华人青年联会 ORG
+Number of Documents: 9
+
+All Extractions: 
+
+extraction: 日本	369	371 华侨 华人 联合会	372	379 location.location.contains 3457248.0
+extraction: 华侨 华人 联合会	372	379 日本	369	371 location.location.contains.RE 4169077.0
+extraction: 日本 新 华侨 华人 联合会	400	410 李国夫	412	415 org:top_members_employees 4.4471662E7
+extraction: 李国夫	412	415 日本 新 华侨 华人 联合会	400	410 org:top_members_employees.RE 3.2180447E7
+extraction: 钱华	882	884 华人 社团 联席会	873	880 org:top_members_employees.RE 7.5903014E7
+extraction: 四川	989	991 中国 驻 温哥华 总领事馆	969	980 org:location_of_headquarters.RE 2.1208304E7
+extraction: 澳大利亚 钦廉 同乡会	1401	1410 陈纬球	1412	1415 org:top_members_employees 4.4471662E7
+extraction: 陈纬球	1412	1415 澳大利亚 钦廉 同乡会	1401	1410 org:top_members_employees.RE 3.2180447E7
+extraction: 大本钟 奖 组委会	1466	1473 英国	1457	1459 org:location_of_headquarters 4.5146486E7
+extraction: 世界 青年 华 商会	1474	1481 英国	1457	1459 org:location_of_headquarters 4.5146486E7
+extraction: 中国 政府	1728	1732 菲 华商 联 总会	1719	1725 org:parents.RE 1.8213952E7
+extraction: 中国	460	462 温家宝	464	467 government.governmental_jurisdiction.governing_officials 7.1134303E7
+extraction: 温家宝	464	467 中国	460	462 per:origin 1.19001489E8
+extraction: 牛津 大学	688	692 吴宰钧	697	700 per:employee_or_member_of.RE 6.103117E7
+extraction: 吴宰钧	697	700 韩国	693	695 per:origin 7.1678036E7
+extraction: 英国	796	798 松村	802	804 per:origin.RE 3.689501E7
+extraction: 松村	802	804 英国	796	798 per:origin 3.063253E7
+extraction: 马桂花	137	140 港	146	147 per:origin 3.0591182E7
+extraction: 港	146	147 英国 华人 青年 联会	156	164 org:location_of_headquarters.RE 5.1266075E7
+extraction: 英国 华人 青年 联会	156	164 港	146	147 org:location_of_headquarters 6.0097443E7
+extraction: 英华 医学会	843	849 高武图	851	854 org:top_members_employees 1.28065752E8
+extraction: 高武图	851	854 英华 医学会	843	849 org:top_members_employees.RE 5.7338435E7
+extraction: 顺德 联谊会	889	894 何作军	896	899 org:top_members_employees 1.28065752E8
+extraction: 何作军	896	899 顺德 联谊会	889	894 org:top_members_employees.RE 5.7338435E7
+extraction: 湖北 同乡会	1089	1094 柯松轩	1096	1099 org:top_members_employees 1.50846589E8
+extraction: 英国 华夏 文化 协会	1126	1134 贝学贤	1136	1139 org:top_members_employees 1.50846589E8
+extraction: 伦敦 佛 光 协会	1140	1147 倪世健	1149	1152 org:top_members_employees 1.50846589E8
+extraction: 台独	1180	1182 张�等	1168	1171 people.person.place_lived.RE 4.7760851E7
+extraction: 查良镛	181	184 中国	158	160 per:origin 5.8711141E7
+extraction: 组委会	849	852 李俊辰	854	857 org:top_members_employees 1.7248509E7
+extraction: 李俊辰	854	857 组委会	849	852 org:top_members_employees.RE 4994921.0
+extraction: London Metropolitan University	319	350 英国	361	363 org:member_of.RE 1.2580054E7
+extraction: 叶焕荣	502	505 英国	495	497 per:origin 2.5829033E7
+extraction: 李俊辰	1310	1313 英国 华人 青年 联会	1297	1305 organization.organization.founders.RE 1.8372327E7
+
+Filtered Extractions: 
+
+英国	796	798 松村	802	804 per:origin.RE 3.689501E7
+英国 华人 青年 联会	156	164 港	146	147 org:location_of_headquarters 6.0097443E7
+英华 医学会	843	849 高武图	851	854 org:top_members_employees 1.28065752E8
+英国 华夏 文化 协会	1126	1134 贝学贤	1136	1139 org:top_members_employees 1.50846589E8
+
+SF14_CMN_TRAINING_008	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:city_of_headquarters	UWashington1	XIN_CMN_20070503.0112:146-164	港	XIN_CMN_20070503.0112:146-147	6.0097443E7
+SF14_CMN_TRAINING_008	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:top_members_employees	UWashington1	PDA_CMN_20070319.0003:1126-1139	贝学贤	PDA_CMN_20070319.0003:1136-1139	1.50846589E8
+SF14_CMN_TRAINING_008	org:top_members_employees	UWashington1	PDA_CMN_20070319.0003:843-854	高武图	PDA_CMN_20070319.0003:851-854	1.28065752E8
+SF14_CMN_TRAINING_008	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:stateorprovince_of_headquarters	UWashington1	NIL

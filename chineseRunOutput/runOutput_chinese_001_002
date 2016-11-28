@@ -1,0 +1,71 @@
+SF14_CMN_001	per:spouse	UWashington1	NIL
+SF14_CMN_001	per:religion	UWashington1	NIL
+SF14_CMN_001	per:city_of_death	UWashington1	GMW_CMN_20100708.0294:166-185	北京市	GMW_CMN_20100708.0294:166-169	8140990.0
+SF14_CMN_001	per:other_family	UWashington1	NIL
+SF14_CMN_001	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_001	per:country_of_death	UWashington1	NIL
+SF14_CMN_001	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_001	per:title	UWashington1	NIL
+SF14_CMN_001	per:children	UWashington1	NIL
+SF14_CMN_001	per:origin	UWashington1	GMW_CMN_20100112.0298:221-232	意大利	GMW_CMN_20100112.0298:221-224	9.5904618E7
+SF14_CMN_001	per:city_of_birth	UWashington1	NIL
+SF14_CMN_001	per:date_of_death	UWashington1	NIL
+SF14_CMN_001	per:age	UWashington1	NIL
+SF14_CMN_001	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_001	per:employee_or_member_of	UWashington1	PDA_CMN_20090819.0329:2914-2926	新闻 联播	PDA_CMN_20090819.0329:2914-2918	3.1733059E7
+SF14_CMN_001	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_001	per:cause_of_death	UWashington1	NIL
+SF14_CMN_001	per:alternate_names	UWashington1	NIL
+SF14_CMN_001	per:charges	UWashington1	NIL
+SF14_CMN_001	per:country_of_birth	UWashington1	NIL
+SF14_CMN_001	per:schools_attended	UWashington1	NIL
+SF14_CMN_001	per:parents	UWashington1	PDA_CMN_20090819.0329:3765-3771	张颂	PDA_CMN_20090819.0329:3765-3767	167317.0
+SF14_CMN_001	per:date_of_birth	UWashington1	NIL
+SF14_CMN_001	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_001	per:siblings	UWashington1	NIL
+SF14_CMN_002	org:subsidiaries	UWashington1	NIL
+SF14_CMN_002	org:alternate_names	UWashington1	NIL
+SF14_CMN_002	org:date_founded	UWashington1	NIL
+SF14_CMN_002	org:website	UWashington1	NIL
+SF14_CMN_002	org:country_of_headquarters	UWashington1	XIN_CMN_20090810.0194:239-253	台湾	XIN_CMN_20090810.0194:251-253	4.9351877E7
+SF14_CMN_002	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_002	org:date_dissolved	UWashington1	NIL
+SF14_CMN_002	org:founded_by	UWashington1	XIN_CMN_19961124.0061:225-244	米玛石达	XIN_CMN_19961124.0061:225-229	3.1404911E7
+SF14_CMN_002	org:founded_by	UWashington1	CNS_CMN_20091112.1018:372-387	学诚	CNS_CMN_20091112.1018:385-387	1.8255626E7
+SF14_CMN_002	org:founded_by	UWashington1	CNS_CMN_20100412.0199:314-335	乐法王	CNS_CMN_20100412.0199:314-317	1.8255626E7
+SF14_CMN_002	org:founded_by	UWashington1	XIN_CMN_20020224.0048:371-393	圣辉	XIN_CMN_20020224.0048:391-393	8379967.0
+SF14_CMN_002	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_002	org:shareholders	UWashington1	NIL
+SF14_CMN_002	org:city_of_headquarters	UWashington1	XIN_CMN_20090828.0259:922-933	杭州市	XIN_CMN_20090828.0259:930-933	6.78577761E8
+SF14_CMN_002	org:member_of	UWashington1	NIL
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20071026.0187:558-570	赵朴初	XIN_CMN_20071026.0187:567-570	2.73392481E8
+SF14_CMN_002	org:top_members_employees	UWashington1	CNS_CMN_20100208.0959:293-303	传印	CNS_CMN_20100208.0959:301-303	2.28388538E8
+SF14_CMN_002	org:top_members_employees	UWashington1	PDA_CMN_20100201.0348:624-635	嘉木	PDA_CMN_20100201.0348:633-635	2.15745422E8
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_19990511.0051:307-318	净慧	XIN_CMN_19990511.0051:316-318	1.91704762E8
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20010323.0210:953-964	圣辉	XIN_CMN_20010323.0210:962-964	1.82791263E8
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_19991028.0081:533-545	刀述仁	XIN_CMN_19991028.0081:542-545	1.78078018E8
+SF14_CMN_002	org:top_members_employees	UWashington1	PDA_CMN_20100705.0101:307-327	班禅额尔德尼・确吉杰布	PDA_CMN_20100705.0101:316-327	1.42525622E8
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_19940529.0174:480-490	赵朴	XIN_CMN_19940529.0174:488-490	1.28065752E8
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_19921106.0158:183-192	赵	XIN_CMN_19921106.0158:191-192	4.4471662E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20070430.0042:173-184	释一诚	XIN_CMN_20070430.0042:181-184	4.4471662E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_19951130.0080:235-258	嘉木 样・	XIN_CMN_19951130.0080:254-258	1.6287892E7
+SF14_CMN_002	org:top_members_employees	UWashington1	CNS_CMN_20091211.0583:219-231	嘉木样	CNS_CMN_20091211.0583:228-231	1.5511651E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_19960729.0053:394-409	帕巴拉・格列	XIN_CMN_19960729.0053:403-409	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	PDA_CMN_20100514.0195:746-757	学诚	PDA_CMN_20100514.0195:755-757	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20070506.0197:570-581	明生	XIN_CMN_20070506.0197:579-581	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	CNS_CMN_20100605.0222:176-193	第十一 世 班禅额尔	CNS_CMN_20100605.0222:185-193	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20100602.0221:284-296	祜巴龙	XIN_CMN_20100602.0221:293-296	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20010604.0080:152-164	净慧大	XIN_CMN_20010604.0080:161-164	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20081108.0200:274-287	释圣辉	XIN_CMN_20081108.0200:284-287	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	CNS_CMN_20100602.0129:322-337	祜巴龙庄勐	CNS_CMN_20100602.0129:332-337	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20060415.0063:265-276	祜巴	XIN_CMN_20060415.0063:274-276	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_19941028.0189:130-142	茗 山	XIN_CMN_19941028.0189:139-142	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20041231.0017:387-399	圣辉大	XIN_CMN_20041231.0017:396-399	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20070314.0041:984-995	根通	XIN_CMN_20070314.0041:993-995	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_19941216.0167:320-331	真禅	XIN_CMN_19941216.0167:329-331	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20000905.0052:952-966	嘉木 样・洛	XIN_CMN_20000905.0052:961-966	1.4380605E7
+SF14_CMN_002	org:top_members_employees	UWashington1	GMW_CMN_20100612.0217:677-701	第十一 世 班禅额尔德尼・确吉杰布	GMW_CMN_20100612.0217:686-701	1.0397016E7
+SF14_CMN_002	org:top_members_employees	UWashington1	XIN_CMN_20100612.0251:598-618	第十一 世 班禅额尔德尼·	XIN_CMN_20100612.0251:607-618	1.0397016E7
+SF14_CMN_002	org:parents	UWashington1	NIL
+SF14_CMN_002	org:members	UWashington1	NIL
+SF14_CMN_002	org:stateorprovince_of_headquarters	UWashington1	NIL

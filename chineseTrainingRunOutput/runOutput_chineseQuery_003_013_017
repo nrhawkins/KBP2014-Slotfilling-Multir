@@ -1,0 +1,361 @@
+香港教育工作者联会 ORG
+Number of Documents: 77
+
+All Extractions: 
+
+extraction: 杨耀忠	472	475 香港 教育 工作者 联会	461	470 org:top_members_employees.RE 7.5903014E7
+extraction: 钟欣桐	266	269 陈冠希	282	285 people.person.spouse 9.5755306E7
+extraction: 陈冠希	282	285 钟欣桐	266	269 people.person.spouse 3.4626371E7
+extraction: 香港 演艺人 协会	743	750 谭咏麟	752	755 org:top_members_employees 1.28065752E8
+extraction: 谭咏麟	752	755 香港 演艺人 协会	743	750 org:top_members_employees.RE 5.7338435E7
+extraction: 杨耀忠	1083	1086 香港 教育 工作者 联会	1072	1081 org:top_members_employees.RE 7.5903014E7
+extraction: 香港 教育 工作者 联会	132	141 杨	143	144 org:top_members_employees 6.8390921E7
+extraction: 教 联会	226	229 杨耀忠	231	234 org:top_members_employees 4.4471662E7
+extraction: 杨耀忠	231	234 教 联会	226	229 org:top_members_employees.RE 3.2180447E7
+extraction: 港	429	430 中	433	434 location.location.contains 3.2744773E7
+extraction: 中华 总商会	243	248 曾宪梓	250	253 org:top_members_employees 1.28065752E8
+extraction: 曾宪梓	250	253 中华 总商会	243	248 org:top_members_employees.RE 5.7338435E7
+extraction: 杨耀忠	544	547 香港 教育 工作者 联会	533	542 org:top_members_employees.RE 7.5903014E7
+extraction: 杨耀忠	530	533 香港 教育 工作者 联会	519	528 org:top_members_employees.RE 7.5903014E7
+extraction: 香港 教 联会	222	227 杨耀忠	229	232 org:top_members_employees 4.4471662E7
+extraction: 杨耀忠	229	232 香港 教 联会	222	227 org:top_members_employees.RE 3.2180447E7
+extraction: 香港	351	353 新 界 社团 联会	368	375 org:location_of_headquarters.RE 4.0773211E7
+extraction: 新 界 社团 联会	368	375 香港	351	353 org:location_of_headquarters 4.7159315E7
+extraction: 新 界 社团 联会	368	375 香港	390	392 org:location_of_headquarters 2.1863936E7
+extraction: 中华 厂商 联合会	376	383 香港	390	392 org:location_of_headquarters 2.1863936E7
+extraction: 香港 中华 总 商会	397	404 张永珍	407	410 org:top_members_employees 1.4380605E7
+extraction: 张永珍	407	410 香港 中华 总 商会	397	404 per:employee_or_member_of 1.9548167E7
+extraction: 香港	424	426 九龙 总 商会	412	417 org:location_of_headquarters.RE 3.3658324E7
+extraction: 港澳台	58	61 香港	62	64 org:location_of_headquarters 4098926.0
+extraction: 香港	62	64 港澳台	58	61 org:location_of_headquarters.RE 3860688.0
+extraction: 香港 工联会	521	526 李泽添	528	531 org:top_members_employees 1.28065752E8
+extraction: 李泽添	528	531 香港 工联会	521	526 org:top_members_employees.RE 5.7338435E7
+extraction: 杨耀忠	455	458 香港 教育 工作者 联会	444	453 org:top_members_employees.RE 7.5903014E7
+extraction: 香港 电子 协会	591	597 李树强	599	602 org:top_members_employees 1.28065752E8
+extraction: 李树强	599	602 香港 电子 协会	591	597 org:top_members_employees.RE 5.7338435E7
+extraction: 杨耀忠	1025	1028 香港 教育 工作者 联会	1014	1023 org:top_members_employees.RE 7.5903014E7
+extraction: 杨耀忠	434	437 教育 工作者 联会	425	432 org:top_members_employees.RE 7.5903014E7
+extraction: 中国 教育 国际 交流 协会	198	208 黄辛白	210	213 org:top_members_employees 1.28065752E8
+extraction: 黄辛白	210	213 中国 教育 国际 交流 协会	198	208 org:top_members_employees.RE 5.7338435E7
+extraction: 杨耀忠	330	333 香港 教育 工作者 联会	319	328 org:top_members_employees.RE 7.5903014E7
+extraction: 证监会	632	635 沈联涛	637	640 per:employee_or_member_of.RE 2.09567865E8
+extraction: 杨耀忠	1091	1094 香港 教育 工作者 联会	1080	1089 org:top_members_employees.RE 7.5903014E7
+extraction: 政府 教育局	214	219 香港 教育 工作者 联会	234	243 organization.organization.acquisition.RE 3.3682535E7
+extraction: 杨耀忠	882	885 香港 教育 工作者 联会	871	880 org:top_members_employees.RE 7.5903014E7
+extraction: 港 各界 文化 促进会	1119	1127 庄世平	1129	1132 org:top_members_employees 6.9195312E7
+extraction: 香港 教育 工作者 联会	213	222 南洋	231	233 org:location_of_headquarters 1.0957854E7
+extraction: 中银 信用卡 公司	223	230 南洋	231	233 org:location_of_headquarters 6.9826092E7
+extraction: 南洋	231	233 香港 教育 工作者 联会	213	222 org:location_of_headquarters.RE 1.1288066E7
+extraction: 南洋	231	233 中银 信用卡 公司	223	230 org:location_of_headquarters.RE 4.1477064E7
+extraction: 大连	303	305 湖北	316	318 location.location.contains.RE 6.3406655E7
+extraction: 山东	306	308 青岛	309	311 location.location.contains 5.1297441E7
+extraction: 山东	306	308 宜昌	322	324 location.location.contains 6.1002424E7
+extraction: 青岛	309	311 山东	306	308 location.location.contains.RE 4.0145106E7
+extraction: 湖北	316	318 大连	303	305 location.location.contains 6.3845153E7
+extraction: 湖北	316	318 武汉	319	321 location.location.contains 5.1297441E7
+extraction: 武汉	319	321 湖北	316	318 location.location.contains.RE 4.0145106E7
+extraction: 宜昌	322	324 山东	306	308 location.location.contains.RE 6.9040733E7
+extraction: 香港 教育 专业 人员 协会	435	445 冯伟华	447	450 org:top_members_employees 1.28065752E8
+extraction: 冯伟华	447	450 香港 教育 专业 人员 协会	435	445 org:top_members_employees.RE 5.7338435E7
+extraction: 教 联会	277	280 杨耀忠	282	285 org:top_members_employees 4.4471662E7
+extraction: 杨耀忠	282	285 教 联会	277	280 org:top_members_employees.RE 3.2180447E7
+extraction: 香港 教 联会	659	664 杨耀忠	666	669 org:top_members_employees 4.4471662E7
+extraction: 杨耀忠	666	669 香港 教 联会	659	664 org:top_members_employees.RE 3.2180447E7
+extraction: 港澳台	58	61 香港	67	69 org:location_of_headquarters 1.7228124E7
+extraction: 香港	67	69 港澳台	58	61 org:location_of_headquarters.RE 2.4684029E7
+extraction: 杨耀忠	226	229 香港 教育 工作者 联会	215	224 org:top_members_employees.RE 7.5903014E7
+extraction: 大公报	148	151 邓小平	165	168 organization.organization.founders 1.8255626E7
+extraction: 邓小平	165	168 大公报	148	151 organization.organization.founders.RE 1.1233752E7
+extraction: 香港 教育 工作者 联会	450	459 杨耀忠	461	464 org:top_members_employees 1.28065752E8
+extraction: 杨耀忠	461	464 香港 教育 工作者 联会	450	459 org:top_members_employees.RE 5.7338435E7
+extraction: 海峡 两 岸	163	167 港 澳	169	171 location.location.contains 1.0475667E7
+extraction: 澳门 中华 教育会	364	371 台湾 明道 高级 中学	379	387 org:parents.RE 1.7950058E7
+extraction: 苏州	521	523 江阴 华西村	526	531 location.location.contains 4.1361105E7
+extraction: 香港 教育 工作者 联会	419	428 杨耀忠	430	433 org:top_members_employees 1.28065752E8
+extraction: 杨耀忠	430	433 香港 教育 工作者 联会	419	428 org:top_members_employees.RE 5.7338435E7
+extraction: 港岛 东区	273	277 汉华 中学	278	282 org:location_of_headquarters.RE 1.6074679E7
+extraction: 汉华 中学	278	282 港岛 东区	273	277 org:location_of_headquarters 4532511.0
+extraction: 教 联会	259	262 杨耀忠	264	267 org:top_members_employees 4.4471662E7
+extraction: 杨耀忠	264	267 教 联会	259	262 org:top_members_employees.RE 3.2180447E7
+extraction: 杨耀忠	305	308 香港 教育 工作者 联会	287	296 per:schools_attended 4.3643986E7
+extraction: 香港 中华 总商会	608	615 曾宪梓	617	620 org:top_members_employees 1.28065752E8
+extraction: 曾宪梓	617	620 香港 中华 总商会	608	615 org:top_members_employees.RE 5.7338435E7
+extraction: 香港 工会 联合会	717	724 郑耀棠	726	729 org:top_members_employees 1.28065752E8
+extraction: 郑耀棠	726	729 香港 工会 联合会	717	724 org:top_members_employees.RE 5.7338435E7
+extraction: 香港	802	804 荣	808	809 per:origin.RE 1.2870406E7
+extraction: 杨耀忠	833	836 香港 教育 工作者 联会	822	831 org:top_members_employees.RE 7.5903014E7
+extraction: 香港 培侨 中学 校友会	436	445 何英杰	419	422 organization.organization.founders 8379967.0
+extraction: 杨耀忠	494	497 香港 教育 工作者 联会	483	492 org:top_members_employees.RE 7.5903014E7
+extraction: 杨耀忠	215	218 香港 教育 工作者 联会	204	213 org:top_members_employees.RE 7.5903014E7
+extraction: 香港	487	489 陈耀华	479	482 people.person.place_of_birth.RE 1.86664E7
+extraction: 杨耀忠	202	205 香港 教育 工作者 联会	191	200 org:top_members_employees.RE 7.5903014E7
+extraction: 香港 青年 联会	432	438 李宗德	440	443 org:top_members_employees 3.96933159E8
+extraction: 李宗德	440	443 香港 青年 联会	432	438 org:top_members_employees.RE 4.365796E7
+extraction: 杨耀忠	575	578 香港 教育 工作者 联会	564	573 org:top_members_employees.RE 7.5903014E7
+extraction: 南京	71	73 港澳台	58	61 org:member_of 8184594.0
+extraction: 中华 文化 学习 交流团	411	420 香港	395	397 org:location_of_headquarters 7.2911433E7
+extraction: 中央 人民 政府 驻 港 联络 办公室	309	322 高祀仁	324	327 per:schools_attended.RE 2.7313762E7
+extraction: 中央 人民 政府 驻 港 联络 办公室	309	322 杨文昌	339	342 per:schools_attended.RE 2.6670374E7
+extraction: 高祀仁	324	327 中央 人民 政府 驻 港 联络 办公室	309	322 per:schools_attended 3.9038286E7
+extraction: 杨文昌	339	342 中央 人民 政府 驻 港 联络 办公室	309	322 per:schools_attended 4.097073E7
+extraction: 香港 佛教 联合会	463	470 释永惺	473	476 org:top_members_employees 1.4380605E7
+extraction: 释永惺	473	476 香港 佛教 联合会	463	470 per:employee_or_member_of 1.9548167E7
+extraction: 杨耀忠	311	314 香港 教育 工作者 联会	299	309 org:top_members_employees.RE 7.5903014E7
+extraction: 香港 教育 工作者 联会	413	422 杨耀盅	424	427 per:employee_or_member_of.RE 2.22571884E8
+extraction: 张文光	1024	1027 教育 专业 人员 协会	1014	1022 org:top_members_employees.RE 7.5903014E7
+extraction: 香港 电子 协会	568	574 李树强	576	579 org:top_members_employees 1.28065752E8
+extraction: 李树强	576	579 香港 电子 协会	568	574 org:top_members_employees.RE 5.7338435E7
+extraction: 杨耀忠	1002	1005 香港 教育 工作者 联会	991	1000 org:top_members_employees.RE 7.5903014E7
+
+Filtered Extractions: 
+
+香港 演艺人 协会	743	750 谭咏麟	752	755 org:top_members_employees 1.28065752E8
+香港 教育 工作者 联会	132	141 杨	143	144 org:top_members_employees 6.8390921E7
+香港 教 联会	222	227 杨耀忠	229	232 org:top_members_employees 4.4471662E7
+香港	351	353 新 界 社团 联会	368	375 org:location_of_headquarters.RE 4.0773211E7
+香港 中华 总 商会	397	404 张永珍	407	410 org:top_members_employees 1.4380605E7
+香港	424	426 九龙 总 商会	412	417 org:location_of_headquarters.RE 3.3658324E7
+香港	62	64 港澳台	58	61 org:location_of_headquarters.RE 3860688.0
+香港 工联会	521	526 李泽添	528	531 org:top_members_employees 1.28065752E8
+香港 电子 协会	591	597 李树强	599	602 org:top_members_employees 1.28065752E8
+香港 教育 工作者 联会	213	222 南洋	231	233 org:location_of_headquarters 1.0957854E7
+香港 教育 专业 人员 协会	435	445 冯伟华	447	450 org:top_members_employees 1.28065752E8
+香港 教 联会	659	664 杨耀忠	666	669 org:top_members_employees 4.4471662E7
+香港	67	69 港澳台	58	61 org:location_of_headquarters.RE 2.4684029E7
+香港 教育 工作者 联会	450	459 杨耀忠	461	464 org:top_members_employees 1.28065752E8
+香港 教育 工作者 联会	419	428 杨耀忠	430	433 org:top_members_employees 1.28065752E8
+香港 中华 总商会	608	615 曾宪梓	617	620 org:top_members_employees 1.28065752E8
+香港 工会 联合会	717	724 郑耀棠	726	729 org:top_members_employees 1.28065752E8
+香港	802	804 荣	808	809 per:origin.RE 1.2870406E7
+香港 培侨 中学 校友会	436	445 何英杰	419	422 organization.organization.founders 8379967.0
+香港	487	489 陈耀华	479	482 people.person.place_of_birth.RE 1.86664E7
+香港 青年 联会	432	438 李宗德	440	443 org:top_members_employees 3.96933159E8
+香港 佛教 联合会	463	470 释永惺	473	476 org:top_members_employees 1.4380605E7
+香港 教育 工作者 联会	413	422 杨耀盅	424	427 per:employee_or_member_of.RE 2.22571884E8
+香港 电子 协会	568	574 李树强	576	579 org:top_members_employees 1.28065752E8
+
+SF14_CMN_TRAINING_017	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:founded_by	UWashington1	XIN_CMN_19960208.0082:419-445	何英杰	XIN_CMN_19960208.0082:419-422	8379967.0
+SF14_CMN_TRAINING_017	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:city_of_headquarters	UWashington1	XIN_CMN_19961110.0043:351-375	新 界 社团 联会	XIN_CMN_19961110.0043:368-375	4.0773211E7
+SF14_CMN_TRAINING_017	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_19980302.0127:432-443	李宗德	XIN_CMN_19980302.0127:440-443	3.96933159E8
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_19921014.0029:568-579	李树强	XIN_CMN_19921014.0029:576-579	1.28065752E8
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_20021118.0065:717-729	郑耀棠	XIN_CMN_20021118.0065:726-729	1.28065752E8
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_20021118.0065:608-620	曾宪梓	XIN_CMN_20021118.0065:617-620	1.28065752E8
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_19990428.0161:419-433	杨耀忠	XIN_CMN_19990428.0161:430-433	1.28065752E8
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_19930929.0061:450-464	杨耀忠	XIN_CMN_19930929.0061:461-464	1.28065752E8
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	CNS_CMN_20100919.0853:435-450	冯伟华	CNS_CMN_20100919.0853:447-450	1.28065752E8
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_19921013.0167:591-602	李树强	XIN_CMN_19921013.0167:599-602	1.28065752E8
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_19990511.0017:521-531	李泽添	XIN_CMN_19990511.0017:528-531	1.28065752E8
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	PDA_CMN_20080130.0168:743-755	谭咏麟	PDA_CMN_20080130.0168:752-755	1.28065752E8
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_19960411.0082:132-144	杨	XIN_CMN_19960411.0082:143-144	6.8390921E7
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_20010329.0034:659-669	杨耀忠	XIN_CMN_20010329.0034:666-669	4.4471662E7
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_19970126.0071:222-232	杨耀忠	XIN_CMN_19970126.0071:229-232	4.4471662E7
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_20010903.0112:463-476	释永惺	XIN_CMN_20010903.0112:473-476	1.4380605E7
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	XIN_CMN_19910714.0036:397-410	张永珍	XIN_CMN_19910714.0036:407-410	1.4380605E7
+SF14_CMN_TRAINING_017	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:stateorprovince_of_headquarters	UWashington1	NIL
+徐子淇 PER
+Number of Documents: 33
+
+All Extractions: 
+
+extraction: 文汇报	168	171 徐子淇	181	184 per:schools_attended.RE 3.8774868E7
+extraction: 徐子淇	181	184 香港	165	167 people.person.place_of_birth 1.5453033E7
+extraction: 徐子淇	181	184 文汇报	168	171 per:schools_attended 4.566569E7
+extraction: 军中 人权 促进会	385	392 黄妈妈	394	397 org:top_members_employees 6.8064266E7
+extraction: 徐子淇	401	404 日本	381	383 per:origin 4.795253E7
+extraction: 李家诚	605	608 香港	613	615 per:origin 1.0550624E7
+extraction: 香港	613	615 李家诚	605	608 people.person.place_of_birth.RE 1.4022136E7
+extraction: 香港	164	166 李兆基	171	174 people.person.place_of_birth.RE 6213276.0
+extraction: 香港	175	177 郑家纯	183	186 people.person.place_of_birth.RE 1.17369574E8
+extraction: 郑家纯	183	186 香港	175	177 people.person.place_of_birth 1.16206558E8
+extraction: 李兆基	415	418 李家杰	420	423 people.person.parents.RE 5.9038022E7
+extraction: 李家杰	420	423 李兆基	415	418 people.person.parents 2.5943862E7
+extraction: 李兆基	968	971 李家杰	974	977 people.person.parents.RE 5.9038022E7
+extraction: 李家杰	974	977 李兆基	968	971 people.person.parents 2.5943862E7
+extraction: 台湾	145	147 台	152	153 location.location.contains 4062.0
+extraction: 徐子淇	519	522 张柏晨	523	526 people.person.spouse 5.8502481E7
+extraction: 李家诚	154	157 香港	148	150 per:origin 2.5829033E7
+extraction: 李家诚	282	285 李兆基	276	279 people.person.parents 1.7779694E7
+extraction: 徐子淇	461	464 李兆基	467	470 people.person.parents.RE 7.2265922E7
+extraction: 曾志伟	480	483 华	478	479 per:origin 749.0
+extraction: 洪天明	488	491 香港	492	494 per:origin 4.0143385E7
+extraction: 台湾	150	152 台	157	158 location.location.contains 4062.0
+extraction: 徐子淇	525	528 张柏晨	529	532 people.person.spouse 5.8502481E7
+extraction: 香港	448	450 仁安 医院	462	466 org:location_of_headquarters.RE 2.9318201E7
+extraction: 仁安 医院	462	466 徐子淇	455	458 per:schools_attended.RE 4.8278143E7
+extraction: 人民网	278	281 李	298	299 per:schools_attended.RE 5118400.0
+extraction: 李兆基	154	157 李	161	162 people.person.parents.RE 1.9704354E7
+extraction: 香港	145	147 徐子淇	149	152 per:origin.RE 3.8924012E7
+extraction: 徐子淇	149	152 香港	145	147 per:origin 2.6757927E7
+extraction: 徐子淇	149	152 李家诚	158	161 people.person.spouse 1.0530208E7
+extraction: 李兆基	263	266 李家诚	268	271 people.person.parents.RE 5.1873597E7
+extraction: 李家诚	268	271 李兆基	263	266 people.person.parents 3.599139E7
+extraction: 李嫣不幸	369	373 王菲	365	367 people.person.parents 3.6664828E7
+extraction: 李家诚	57	60 徐子淇	61	64 people.person.spouse 9.5737814E7
+extraction: 香港	245	247 徐子淇	270	273 per:origin.RE 5.8629348E7
+extraction: 徐子淇	270	273 香港	245	247 per:origin 5.9817488E7
+extraction: 东方 日报	271	275 香港	268	270 org:location_of_headquarters 1.51279452E8
+
+Filtered Extractions: 
+
+徐子淇	181	184 香港	165	167 people.person.place_of_birth 1.5453033E7
+徐子淇	181	184 文汇报	168	171 per:schools_attended 4.566569E7
+徐子淇	401	404 日本	381	383 per:origin 4.795253E7
+徐子淇	519	522 张柏晨	523	526 people.person.spouse 5.8502481E7
+徐子淇	461	464 李兆基	467	470 people.person.parents.RE 7.2265922E7
+徐子淇	525	528 张柏晨	529	532 people.person.spouse 5.8502481E7
+徐子淇	149	152 香港	145	147 per:origin 2.6757927E7
+徐子淇	149	152 李家诚	158	161 people.person.spouse 1.0530208E7
+徐子淇	270	273 香港	245	247 per:origin 5.9817488E7
+
+SF14_CMN_TRAINING_013	per:spouse	UWashington1	PDA_CMN_20081125.0025:525-532	张柏晨	PDA_CMN_20081125.0025:529-532	5.8502481E7
+SF14_CMN_TRAINING_013	per:spouse	UWashington1	PDA_CMN_20081124.0019:519-526	张柏晨	PDA_CMN_20081124.0019:523-526	5.8502481E7
+SF14_CMN_TRAINING_013	per:spouse	UWashington1	PDA_CMN_20061230.0043:149-161	李家诚	PDA_CMN_20061230.0043:158-161	1.0530208E7
+SF14_CMN_TRAINING_013	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:origin	UWashington1	PDA_CMN_20080331.0136:245-273	香港	PDA_CMN_20080331.0136:245-247	5.9817488E7
+SF14_CMN_TRAINING_013	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:country_of_birth	UWashington1	CNS_CMN_20100120.0805:165-184	香港	CNS_CMN_20100120.0805:165-167	1.5453033E7
+SF14_CMN_TRAINING_013	per:schools_attended	UWashington1	CNS_CMN_20100120.0805:168-184	文汇报	CNS_CMN_20100120.0805:168-171	4.566569E7
+SF14_CMN_TRAINING_013	per:parents	UWashington1	PDA_CMN_20070702.0022:461-470	李兆基	PDA_CMN_20070702.0022:467-470	7.2265922E7
+SF14_CMN_TRAINING_013	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:siblings	UWashington1	NIL
+卓琳 PER
+Number of Documents: 86
+
+All Extractions: 
+
+extraction: 卓琳	234	236 牌坊村	203	206 per:origin 6.6706544E7
+extraction: 邓小平	306	309 卓琳	311	313 people.person.spouse 1.06353232E8
+extraction: 卓琳	311	313 邓小平	306	309 people.person.spouse 3.7286349E7
+extraction: 广安	406	408 卓琳	417	419 per:origin.RE 1.9731481E7
+extraction: 广安 市委	452	456 卓琳	500	502 people.person.place_of_birth.RE 2.7106833E7
+extraction: 市 人大 常委会	459	465 王建军	467	470 org:top_members_employees 1.7248509E7
+extraction: 市 人大 常委会	459	465 卓琳	500	502 per:schools_attended.RE 1.8263699E7
+extraction: 王建军	467	470 市 人大 常委会	459	465 org:top_members_employees.RE 4994921.0
+extraction: 市委	471	473 卓琳	500	502 people.person.place_of_birth.RE 2.7106833E7
+extraction: 英国	395	397 德里克・法彻特	403	410 per:origin.RE 4.7319565E7
+extraction: 德里克・法彻特	403	410 英国	395	397 per:origin 6.0632877E7
+extraction: 宋健	141	143 洪学智	144	147 people.person.spouse 1.0914518E7
+extraction: 新建县	171	174 江西 南昌	163	167 location.location.contains.RE 3.7430491E7
+extraction: 荷兰	331	333 范阿赫特	335	339 government.governmental_jurisdiction.governing_officials 8.1654172E7
+extraction: 范阿赫特	335	339 荷兰	331	333 government.governmental_jurisdiction.governing_officials.RE 9.6854682E7
+extraction: 中共	196	198 胡錦濤	189	192 org:top_members_employees 2.0372287E7
+extraction: 基辛格	1168	1171 美国	1162	1164 per:origin 1.09050967E8
+extraction: 周兆军 邓小平	214	230 卓琳	232	234 people.person.spouse 3.8358906E7
+extraction: 卓琳	369	371 邓林	389	391 people.person.parents.RE 1.11503403E8
+extraction: 卓琳	369	371 邓朴方	392	395 people.person.parents.RE 1.11503403E8
+extraction: 卓琳	369	371 邓楠	396	398 people.person.parents.RE 1.11503403E8
+extraction: 邓林	389	391 卓琳	369	371 people.person.parents 1.34490915E8
+extraction: 邓林	389	391 卓琳	407	409 people.person.parents 348040.0
+extraction: 邓朴方	392	395 卓琳	369	371 people.person.parents 1.34490915E8
+extraction: 邓朴方	392	395 卓琳	407	409 people.person.parents 348040.0
+extraction: 邓楠	396	398 卓琳	369	371 people.person.parents 1.34490915E8
+extraction: 邓楠	396	398 卓琳	407	409 people.person.parents 348040.0
+extraction: 重庆	714	716 卓琳	710	712 people.person.place_of_birth.RE 2662719.0
+extraction: 卓琳	227	229 北京	254	256 people.deceased_person.place_of_death 2.24977552E8
+extraction: 北京	254	256 卓琳	227	229 people.deceased_person.place_of_death.RE 4.12874505E8
+extraction: 人民网	240	243 中国 青基会	207	212 government.governmental_jurisdiction.government_bodies 1.3540157E7
+extraction: 阿沛	790	792 北京	813	815 per:origin 2.2965685E7
+extraction: 北京	813	815 阿沛	790	792 per:origin.RE 2.3441957E7
+extraction: 邓小平	173	176 卓琳	178	180 people.person.spouse 4.7853823E7
+extraction: 卓琳	178	180 邓小平	173	176 people.person.spouse 2.4694443E7
+extraction: 卓琳	289	291 北京	318	320 people.deceased_person.place_of_death 1.95812678E8
+extraction: 邓小平	132	135 卓琳	138	140 people.person.spouse 3.6199139E7
+extraction: 卓琳	138	140 邓小平	132	135 people.person.spouse 4.0511898E7
+extraction: 邓小平	313	316 卓琳	319	321 people.person.spouse 2.1098906E7
+extraction: 邓小平	146	149 卓琳	151	153 people.person.spouse 4.7853823E7
+extraction: 卓琳	151	153 邓小平	146	149 people.person.spouse 2.4694443E7
+extraction: 卓琳	262	264 北京	291	293 people.deceased_person.place_of_death 1.95812678E8
+extraction: 邓小平	538	541 卓琳	544	546 people.person.spouse 1.40894635E8
+extraction: 卓琳	544	546 邓小平	538	541 people.person.spouse 4.4110767E7
+extraction: 邓小平	204	207 卓琳	210	212 people.person.spouse 3.4311828E7
+extraction: 卓琳	210	212 邓小平	204	207 people.person.spouse 3.0517269E7
+extraction: 邓小平	509	512 卓琳	515	517 people.person.spouse 8.9040795E7
+extraction: 卓琳	515	517 邓小平	509	512 people.person.spouse 3.5721571E7
+extraction: 济南 军区	392	396 饶守坤	410	413 per:schools_attended.RE 1.7535465E7
+extraction: 饶守坤	410	413 北海	402	404 per:origin 6.2576472E7
+extraction: 中国	479	481 香港	464	466 location.location.contains 4.4836472E7
+extraction: 欧广源	267	270 广东省 人大 常委会	256	265 organization.organization.founders.RE 5.6456931E7
+extraction: 中共	280	282 浦绍基	276	279 per:schools_attended.RE 1.1989096E7
+extraction: 邓榕	342	344 贺平	348	350 people.person.spouse 9.0760487E7
+extraction: 贺平	348	350 邓榕	342	344 people.person.spouse 2.1249712E7
+extraction: 意大利	130	133 普罗迪	135	138 per:origin.RE 5.1403294E7
+extraction: 普罗迪	135	138 意大利	130	133 per:origin 9.2966161E7
+
+Filtered Extractions: 
+
+卓琳	234	236 牌坊村	203	206 per:origin 6.6706544E7
+卓琳	311	313 邓小平	306	309 people.person.spouse 3.7286349E7
+卓琳	369	371 邓林	389	391 people.person.parents.RE 1.11503403E8
+卓琳	369	371 邓朴方	392	395 people.person.parents.RE 1.11503403E8
+卓琳	369	371 邓楠	396	398 people.person.parents.RE 1.11503403E8
+卓琳	227	229 北京	254	256 people.deceased_person.place_of_death 2.24977552E8
+卓琳	178	180 邓小平	173	176 people.person.spouse 2.4694443E7
+卓琳	289	291 北京	318	320 people.deceased_person.place_of_death 1.95812678E8
+卓琳	138	140 邓小平	132	135 people.person.spouse 4.0511898E7
+卓琳	151	153 邓小平	146	149 people.person.spouse 2.4694443E7
+卓琳	262	264 北京	291	293 people.deceased_person.place_of_death 1.95812678E8
+卓琳	544	546 邓小平	538	541 people.person.spouse 4.4110767E7
+卓琳	210	212 邓小平	204	207 people.person.spouse 3.0517269E7
+卓琳	515	517 邓小平	509	512 people.person.spouse 3.5721571E7
+
+SF14_CMN_TRAINING_003	per:spouse	UWashington1	XIN_CMN_20040812.0032:538-546	邓小平	XIN_CMN_20040812.0032:538-541	4.4110767E7
+SF14_CMN_TRAINING_003	per:spouse	UWashington1	AFP_CMN_20080518.0021:132-140	邓小平	AFP_CMN_20080518.0021:132-135	4.0511898E7
+SF14_CMN_TRAINING_003	per:spouse	UWashington1	CNS_CMN_20090809.0201:306-313	邓小平	CNS_CMN_20090809.0201:306-309	3.7286349E7
+SF14_CMN_TRAINING_003	per:spouse	UWashington1	PDA_CMN_20070625.0039:509-517	邓小平	PDA_CMN_20070625.0039:509-512	3.5721571E7
+SF14_CMN_TRAINING_003	per:spouse	UWashington1	CNS_CMN_20090812.0137:204-212	邓小平	CNS_CMN_20090812.0137:204-207	3.0517269E7
+SF14_CMN_TRAINING_003	per:spouse	UWashington1	PDA_CMN_20090810.0211:146-153	邓小平	PDA_CMN_20090810.0211:146-149	2.4694443E7
+SF14_CMN_TRAINING_003	per:spouse	UWashington1	CNS_CMN_20090810.0404:173-180	邓小平	CNS_CMN_20090810.0404:173-176	2.4694443E7
+SF14_CMN_TRAINING_003	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:city_of_death	UWashington1	CNS_CMN_20090811.0386:227-256	北京	CNS_CMN_20090811.0386:254-256	2.24977552E8
+SF14_CMN_TRAINING_003	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:origin	UWashington1	CNS_CMN_20090809.0201:203-236	牌坊村	CNS_CMN_20090809.0201:203-206	6.6706544E7
+SF14_CMN_TRAINING_003	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:parents	UWashington1	CNS_CMN_20090810.0015:369-398	邓楠	CNS_CMN_20090810.0015:396-398	1.11503403E8
+SF14_CMN_TRAINING_003	per:parents	UWashington1	CNS_CMN_20090810.0015:369-395	邓朴方	CNS_CMN_20090810.0015:392-395	1.11503403E8
+SF14_CMN_TRAINING_003	per:parents	UWashington1	CNS_CMN_20090810.0015:369-391	邓林	CNS_CMN_20090810.0015:389-391	1.11503403E8
+SF14_CMN_TRAINING_003	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:siblings	UWashington1	NIL

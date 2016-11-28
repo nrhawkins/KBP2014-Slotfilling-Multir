@@ -1,0 +1,83 @@
+徐子淇 PER
+Number of Documents: 33
+
+All Extractions: 
+
+extraction: 文汇报	168	171 徐子淇	181	184 per:schools_attended.RE 3.8774868E7
+extraction: 徐子淇	181	184 香港	165	167 people.person.place_of_birth 1.5453033E7
+extraction: 徐子淇	181	184 文汇报	168	171 per:schools_attended 4.566569E7
+extraction: 军中 人权 促进会	385	392 黄妈妈	394	397 org:top_members_employees 6.8064266E7
+extraction: 徐子淇	401	404 日本	381	383 per:origin 4.795253E7
+extraction: 李家诚	605	608 香港	613	615 per:origin 1.0550624E7
+extraction: 香港	613	615 李家诚	605	608 people.person.place_of_birth.RE 1.4022136E7
+extraction: 香港	164	166 李兆基	171	174 people.person.place_of_birth.RE 6213276.0
+extraction: 香港	175	177 郑家纯	183	186 people.person.place_of_birth.RE 1.17369574E8
+extraction: 郑家纯	183	186 香港	175	177 people.person.place_of_birth 1.16206558E8
+extraction: 李兆基	415	418 李家杰	420	423 people.person.parents.RE 5.9038022E7
+extraction: 李家杰	420	423 李兆基	415	418 people.person.parents 2.5943862E7
+extraction: 李兆基	968	971 李家杰	974	977 people.person.parents.RE 5.9038022E7
+extraction: 李家杰	974	977 李兆基	968	971 people.person.parents 2.5943862E7
+extraction: 李	268	269 梁洛施	256	259 people.person.spouse 2.7366588E7
+extraction: 刘嘉玲 谢霆锋	2056	2072 香港 赤柱	2087	2091 per:origin 3.0427389E7
+extraction: 台湾	145	147 台	152	153 location.location.contains 4062.0
+extraction: 徐子淇	519	522 张柏晨	523	526 people.person.spouse 5.8502481E7
+extraction: 李家诚	154	157 香港	148	150 per:origin 2.5829033E7
+extraction: 李家诚	282	285 李兆基	276	279 people.person.parents 1.7779694E7
+extraction: 徐子淇	461	464 李兆基	467	470 people.person.parents.RE 7.2265922E7
+extraction: 曾志伟	480	483 华	478	479 per:origin 749.0
+extraction: 洪天明	488	491 香港	492	494 per:origin 4.0143385E7
+extraction: 台湾	150	152 台	157	158 location.location.contains 4062.0
+extraction: 徐子淇	525	528 张柏晨	529	532 people.person.spouse 5.8502481E7
+extraction: 香港	448	450 仁安 医院	462	466 org:location_of_headquarters.RE 2.9318201E7
+extraction: 仁安 医院	462	466 徐子淇	455	458 per:schools_attended.RE 4.8278143E7
+extraction: 李兆基	154	157 李	161	162 people.person.parents.RE 1.9704354E7
+extraction: 香港	145	147 徐子淇	149	152 per:origin.RE 3.8924012E7
+extraction: 徐子淇	149	152 香港	145	147 per:origin 2.6757927E7
+extraction: 徐子淇	149	152 李家诚	158	161 people.person.spouse 1.0530208E7
+extraction: 李兆基	263	266 李家诚	268	271 people.person.parents.RE 5.1873597E7
+extraction: 李家诚	268	271 李兆基	263	266 people.person.parents 3.599139E7
+extraction: 李嫣不幸	369	373 王菲	365	367 people.person.parents 3.6664828E7
+extraction: 李家诚	57	60 徐子淇	61	64 people.person.spouse 9.5737814E7
+extraction: 香港	245	247 徐子淇	270	273 per:origin.RE 5.8629348E7
+extraction: 徐子淇	270	273 香港	245	247 per:origin 5.9817488E7
+extraction: 东方 日报	271	275 香港	268	270 org:location_of_headquarters 1.51279452E8
+
+Filtered Extractions: 
+
+徐子淇	181	184 香港	165	167 people.person.place_of_birth 1.5453033E7
+徐子淇	181	184 文汇报	168	171 per:schools_attended 4.566569E7
+徐子淇	401	404 日本	381	383 per:origin 4.795253E7
+徐子淇	519	522 张柏晨	523	526 people.person.spouse 5.8502481E7
+徐子淇	461	464 李兆基	467	470 people.person.parents.RE 7.2265922E7
+徐子淇	525	528 张柏晨	529	532 people.person.spouse 5.8502481E7
+徐子淇	149	152 香港	145	147 per:origin 2.6757927E7
+徐子淇	149	152 李家诚	158	161 people.person.spouse 1.0530208E7
+徐子淇	270	273 香港	245	247 per:origin 5.9817488E7
+
+SF14_CMN_TRAINING_013	per:spouse	UWashington1	PDA_CMN_20081125.0025:525-532	张柏晨	PDA_CMN_20081125.0025:529-532	5.8502481E7
+SF14_CMN_TRAINING_013	per:spouse	UWashington1	PDA_CMN_20081124.0019:519-526	张柏晨	PDA_CMN_20081124.0019:523-526	5.8502481E7
+SF14_CMN_TRAINING_013	per:spouse	UWashington1	PDA_CMN_20061230.0043:149-161	李家诚	PDA_CMN_20061230.0043:158-161	1.0530208E7
+SF14_CMN_TRAINING_013	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:origin	UWashington1	PDA_CMN_20080331.0136:245-273	香港	PDA_CMN_20080331.0136:245-247	5.9817488E7
+SF14_CMN_TRAINING_013	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:country_of_birth	UWashington1	CNS_CMN_20100120.0805:165-184	香港	CNS_CMN_20100120.0805:165-167	1.5453033E7
+SF14_CMN_TRAINING_013	per:schools_attended	UWashington1	CNS_CMN_20100120.0805:168-184	文汇报	CNS_CMN_20100120.0805:168-171	4.566569E7
+SF14_CMN_TRAINING_013	per:parents	UWashington1	PDA_CMN_20070702.0022:461-470	李兆基	PDA_CMN_20070702.0022:467-470	7.2265922E7
+SF14_CMN_TRAINING_013	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:siblings	UWashington1	NIL

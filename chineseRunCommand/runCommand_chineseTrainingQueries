@@ -1,0 +1,5 @@
+sbt "run-main 
+edu.washington.cs.knowitall.kbp2014.multir.slotfiller.RunKBPChineseMultirExtractor 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/tac_2014_kbp_chinese_slot_filling_training_queries.xml 0 chinese 
+/homes/gws/nhawkins/KBP2014-Slotfilling-Multir/chineseQuery_relDocs_tac_2014 runOutput_chineseQuery_009"
+

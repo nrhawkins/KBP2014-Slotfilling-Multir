@@ -1,0 +1,308 @@
+SF14_CMN_049	per:spouse	UWashington1	PDA_CMN_20070513.0012:725-735	蒋雯丽	PDA_CMN_20070513.0012:725-728	4073199.0
+SF14_CMN_049	per:spouse	UWashington1	PDA_CMN_20070513.0012:722-735	周迅	PDA_CMN_20070513.0012:722-724	4073199.0
+SF14_CMN_049	per:spouse	UWashington1	PDA_CMN_20070513.0012:718-735	彭丽媛	PDA_CMN_20070513.0012:718-721	4073199.0
+SF14_CMN_049	per:spouse	UWashington1	PDA_CMN_20070513.0012:713-735	宋祖英	PDA_CMN_20070513.0012:713-716	4073199.0
+SF14_CMN_049	per:religion	UWashington1	NIL
+SF14_CMN_049	per:city_of_death	UWashington1	NIL
+SF14_CMN_049	per:other_family	UWashington1	NIL
+SF14_CMN_049	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_049	per:country_of_death	UWashington1	NIL
+SF14_CMN_049	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_049	per:title	UWashington1	NIL
+SF14_CMN_049	per:children	UWashington1	NIL
+SF14_CMN_049	per:origin	UWashington1	NIL
+SF14_CMN_049	per:city_of_birth	UWashington1	NIL
+SF14_CMN_049	per:date_of_death	UWashington1	NIL
+SF14_CMN_049	per:age	UWashington1	NIL
+SF14_CMN_049	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_049	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_049	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_049	per:cause_of_death	UWashington1	NIL
+SF14_CMN_049	per:alternate_names	UWashington1	NIL
+SF14_CMN_049	per:charges	UWashington1	NIL
+SF14_CMN_049	per:country_of_birth	UWashington1	NIL
+SF14_CMN_049	per:schools_attended	UWashington1	NIL
+SF14_CMN_049	per:parents	UWashington1	NIL
+SF14_CMN_049	per:date_of_birth	UWashington1	NIL
+SF14_CMN_049	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_049	per:siblings	UWashington1	NIL
+SF14_CMN_050	org:subsidiaries	UWashington1	NIL
+SF14_CMN_050	org:alternate_names	UWashington1	NIL
+SF14_CMN_050	org:date_founded	UWashington1	NIL
+SF14_CMN_050	org:website	UWashington1	NIL
+SF14_CMN_050	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_050	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_050	org:date_dissolved	UWashington1	NIL
+SF14_CMN_050	org:founded_by	UWashington1	NIL
+SF14_CMN_050	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_050	org:shareholders	UWashington1	NIL
+SF14_CMN_050	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_050	org:member_of	UWashington1	NIL
+SF14_CMN_050	org:top_members_employees	UWashington1	NIL
+SF14_CMN_050	org:parents	UWashington1	NIL
+SF14_CMN_050	org:members	UWashington1	NIL
+SF14_CMN_050	org:stateorprovince_of_headquarters	UWashington1	NIL
+SF14_CMN_051	per:spouse	UWashington1	CNS_CMN_20100519.0895:221-230	邓永佳	CNS_CMN_20100519.0895:227-230	5.8166374E7
+SF14_CMN_051	per:religion	UWashington1	NIL
+SF14_CMN_051	per:city_of_death	UWashington1	NIL
+SF14_CMN_051	per:other_family	UWashington1	NIL
+SF14_CMN_051	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_051	per:country_of_death	UWashington1	NIL
+SF14_CMN_051	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_051	per:title	UWashington1	NIL
+SF14_CMN_051	per:children	UWashington1	NIL
+SF14_CMN_051	per:origin	UWashington1	CNS_CMN_20101209.1241:889-895	台北	CNS_CMN_20101209.1241:889-891	9.012409E7
+SF14_CMN_051	per:city_of_birth	UWashington1	NIL
+SF14_CMN_051	per:date_of_death	UWashington1	NIL
+SF14_CMN_051	per:age	UWashington1	NIL
+SF14_CMN_051	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_051	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_051	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_051	per:cause_of_death	UWashington1	NIL
+SF14_CMN_051	per:alternate_names	UWashington1	NIL
+SF14_CMN_051	per:charges	UWashington1	NIL
+SF14_CMN_051	per:country_of_birth	UWashington1	NIL
+SF14_CMN_051	per:schools_attended	UWashington1	CNS_CMN_20100312.0948:294-334	IBM 集团 邓丽君 长眠 金 宝山	CNS_CMN_20100312.0948:294-317	3929847.0
+SF14_CMN_051	per:parents	UWashington1	CNS_CMN_20100519.0895:295-304	邓长富	CNS_CMN_20100519.0895:301-304	1.79937136E8
+SF14_CMN_051	per:parents	UWashington1	CNS_CMN_20101006.0262:955-976	邓丽君	CNS_CMN_20101006.0262:955-958	2.0517984E7
+SF14_CMN_051	per:date_of_birth	UWashington1	NIL
+SF14_CMN_051	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_051	per:siblings	UWashington1	PDA_CMN_20101213.0069:722-730	邓长富	PDA_CMN_20101213.0069:727-730	5.7162281E7
+SF14_CMN_051	per:siblings	UWashington1	PDA_CMN_20100505.0086:619-630	邓丽君	PDA_CMN_20100505.0086:619-622	3.2568087E7
+SF14_CMN_052	org:subsidiaries	UWashington1	NIL
+SF14_CMN_052	org:alternate_names	UWashington1	NIL
+SF14_CMN_052	org:date_founded	UWashington1	NIL
+SF14_CMN_052	org:website	UWashington1	NIL
+SF14_CMN_052	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_052	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_052	org:date_dissolved	UWashington1	NIL
+SF14_CMN_052	org:founded_by	UWashington1	NIL
+SF14_CMN_052	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_052	org:shareholders	UWashington1	NIL
+SF14_CMN_052	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_052	org:member_of	UWashington1	NIL
+SF14_CMN_052	org:top_members_employees	UWashington1	NIL
+SF14_CMN_052	org:parents	UWashington1	NIL
+SF14_CMN_052	org:members	UWashington1	NIL
+SF14_CMN_052	org:stateorprovince_of_headquarters	UWashington1	NIL
+SF14_CMN_053	org:subsidiaries	UWashington1	NIL
+SF14_CMN_053	org:alternate_names	UWashington1	NIL
+SF14_CMN_053	org:date_founded	UWashington1	NIL
+SF14_CMN_053	org:website	UWashington1	NIL
+SF14_CMN_053	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_053	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_053	org:date_dissolved	UWashington1	NIL
+SF14_CMN_053	org:founded_by	UWashington1	NIL
+SF14_CMN_053	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_053	org:shareholders	UWashington1	NIL
+SF14_CMN_053	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_053	org:member_of	UWashington1	NIL
+SF14_CMN_053	org:top_members_employees	UWashington1	NIL
+SF14_CMN_053	org:parents	UWashington1	NIL
+SF14_CMN_053	org:members	UWashington1	NIL
+SF14_CMN_053	org:stateorprovince_of_headquarters	UWashington1	NIL
+SF14_CMN_054	per:spouse	UWashington1	NIL
+SF14_CMN_054	per:religion	UWashington1	NIL
+SF14_CMN_054	per:city_of_death	UWashington1	NIL
+SF14_CMN_054	per:other_family	UWashington1	NIL
+SF14_CMN_054	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_054	per:country_of_death	UWashington1	NIL
+SF14_CMN_054	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_054	per:title	UWashington1	NIL
+SF14_CMN_054	per:children	UWashington1	NIL
+SF14_CMN_054	per:origin	UWashington1	NIL
+SF14_CMN_054	per:city_of_birth	UWashington1	NIL
+SF14_CMN_054	per:date_of_death	UWashington1	NIL
+SF14_CMN_054	per:age	UWashington1	NIL
+SF14_CMN_054	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_054	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_054	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_054	per:cause_of_death	UWashington1	NIL
+SF14_CMN_054	per:alternate_names	UWashington1	NIL
+SF14_CMN_054	per:charges	UWashington1	NIL
+SF14_CMN_054	per:country_of_birth	UWashington1	NIL
+SF14_CMN_054	per:schools_attended	UWashington1	NIL
+SF14_CMN_054	per:parents	UWashington1	NIL
+SF14_CMN_054	per:date_of_birth	UWashington1	NIL
+SF14_CMN_054	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_054	per:siblings	UWashington1	NIL
+SF14_CMN_055	per:spouse	UWashington1	XIN_CMN_20000923.0056:904-918	伏明霞	XIN_CMN_20000923.0056:904-907	9287189.0
+SF14_CMN_055	per:religion	UWashington1	NIL
+SF14_CMN_055	per:city_of_death	UWashington1	NIL
+SF14_CMN_055	per:other_family	UWashington1	NIL
+SF14_CMN_055	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_055	per:country_of_death	UWashington1	NIL
+SF14_CMN_055	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_055	per:title	UWashington1	NIL
+SF14_CMN_055	per:children	UWashington1	NIL
+SF14_CMN_055	per:origin	UWashington1	XIN_CMN_20011114.0061:927-932	广东	XIN_CMN_20011114.0061:927-929	1.73182274E8
+SF14_CMN_055	per:city_of_birth	UWashington1	XIN_CMN_20080302.0120:430-455	北京	XIN_CMN_20080302.0120:430-432	2.6985244E7
+SF14_CMN_055	per:date_of_death	UWashington1	NIL
+SF14_CMN_055	per:age	UWashington1	NIL
+SF14_CMN_055	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_055	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_055	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_055	per:cause_of_death	UWashington1	NIL
+SF14_CMN_055	per:alternate_names	UWashington1	NIL
+SF14_CMN_055	per:charges	UWashington1	NIL
+SF14_CMN_055	per:country_of_birth	UWashington1	NIL
+SF14_CMN_055	per:schools_attended	UWashington1	XIN_CMN_20080222.0179:707-716	雅典 奥运会	XIN_CMN_20080222.0179:707-712	3.9038286E7
+SF14_CMN_055	per:schools_attended	UWashington1	AFP_CMN_20070504.0026:654-678	印度 国大党	AFP_CMN_20070504.0026:654-659	2.0172406E7
+SF14_CMN_055	per:parents	UWashington1	XIN_CMN_20011110.0211:1036-1048	胡恩	XIN_CMN_20011110.0211:1036-1038	1.8675439E7
+SF14_CMN_055	per:parents	UWashington1	CNA_CMN_20091109.0277:272-281	中國國	CNA_CMN_20091109.0277:272-275	1.3241116E7
+SF14_CMN_055	per:date_of_birth	UWashington1	NIL
+SF14_CMN_055	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_055	per:siblings	UWashington1	NIL
+SF14_CMN_056	org:subsidiaries	UWashington1	NIL
+SF14_CMN_056	org:alternate_names	UWashington1	NIL
+SF14_CMN_056	org:date_founded	UWashington1	NIL
+SF14_CMN_056	org:website	UWashington1	NIL
+SF14_CMN_056	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_056	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_056	org:date_dissolved	UWashington1	NIL
+SF14_CMN_056	org:founded_by	UWashington1	NIL
+SF14_CMN_056	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_056	org:shareholders	UWashington1	NIL
+SF14_CMN_056	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_056	org:member_of	UWashington1	NIL
+SF14_CMN_056	org:top_members_employees	UWashington1	GMW_CMN_20100821.0509:290-303	徐瑞新	GMW_CMN_20100821.0509:300-303	1.50846589E8
+SF14_CMN_056	org:top_members_employees	UWashington1	XIN_CMN_20031118.0028:244-258	徐留根	XIN_CMN_20031118.0028:255-258	1.4380605E7
+SF14_CMN_056	org:parents	UWashington1	NIL
+SF14_CMN_056	org:members	UWashington1	NIL
+SF14_CMN_056	org:stateorprovince_of_headquarters	UWashington1	NIL
+SF14_CMN_057	per:spouse	UWashington1	NIL
+SF14_CMN_057	per:religion	UWashington1	NIL
+SF14_CMN_057	per:city_of_death	UWashington1	NIL
+SF14_CMN_057	per:other_family	UWashington1	NIL
+SF14_CMN_057	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_057	per:country_of_death	UWashington1	NIL
+SF14_CMN_057	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_057	per:title	UWashington1	NIL
+SF14_CMN_057	per:children	UWashington1	NIL
+SF14_CMN_057	per:origin	UWashington1	NIL
+SF14_CMN_057	per:city_of_birth	UWashington1	NIL
+SF14_CMN_057	per:date_of_death	UWashington1	NIL
+SF14_CMN_057	per:age	UWashington1	NIL
+SF14_CMN_057	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_057	per:employee_or_member_of	UWashington1	PDA_CMN_20070127.0019:374-384	江西 建材 集团	PDA_CMN_20070127.0019:374-380	1.1073932E7
+SF14_CMN_057	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_057	per:cause_of_death	UWashington1	NIL
+SF14_CMN_057	per:alternate_names	UWashington1	NIL
+SF14_CMN_057	per:charges	UWashington1	NIL
+SF14_CMN_057	per:country_of_birth	UWashington1	NIL
+SF14_CMN_057	per:schools_attended	UWashington1	NIL
+SF14_CMN_057	per:parents	UWashington1	NIL
+SF14_CMN_057	per:date_of_birth	UWashington1	NIL
+SF14_CMN_057	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_057	per:siblings	UWashington1	NIL
+SF14_CMN_058	per:spouse	UWashington1	NIL
+SF14_CMN_058	per:religion	UWashington1	NIL
+SF14_CMN_058	per:city_of_death	UWashington1	NIL
+SF14_CMN_058	per:other_family	UWashington1	NIL
+SF14_CMN_058	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_058	per:country_of_death	UWashington1	NIL
+SF14_CMN_058	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_058	per:title	UWashington1	NIL
+SF14_CMN_058	per:children	UWashington1	NIL
+SF14_CMN_058	per:origin	UWashington1	NIL
+SF14_CMN_058	per:city_of_birth	UWashington1	NIL
+SF14_CMN_058	per:date_of_death	UWashington1	NIL
+SF14_CMN_058	per:age	UWashington1	NIL
+SF14_CMN_058	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_058	per:employee_or_member_of	UWashington1	XIN_CMN_19910811.0049:412-427	国家 防汛 总指挥部	XIN_CMN_19910811.0049:418-427	2.8193559E7
+SF14_CMN_058	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_058	per:cause_of_death	UWashington1	NIL
+SF14_CMN_058	per:alternate_names	UWashington1	NIL
+SF14_CMN_058	per:charges	UWashington1	NIL
+SF14_CMN_058	per:country_of_birth	UWashington1	NIL
+SF14_CMN_058	per:schools_attended	UWashington1	NIL
+SF14_CMN_058	per:parents	UWashington1	NIL
+SF14_CMN_058	per:date_of_birth	UWashington1	NIL
+SF14_CMN_058	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_058	per:siblings	UWashington1	NIL
+SF14_CMN_059	org:subsidiaries	UWashington1	NIL
+SF14_CMN_059	org:alternate_names	UWashington1	NIL
+SF14_CMN_059	org:date_founded	UWashington1	NIL
+SF14_CMN_059	org:website	UWashington1	NIL
+SF14_CMN_059	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_059	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_059	org:date_dissolved	UWashington1	NIL
+SF14_CMN_059	org:founded_by	UWashington1	NIL
+SF14_CMN_059	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_059	org:shareholders	UWashington1	NIL
+SF14_CMN_059	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_059	org:member_of	UWashington1	NIL
+SF14_CMN_059	org:top_members_employees	UWashington1	NIL
+SF14_CMN_059	org:parents	UWashington1	NIL
+SF14_CMN_059	org:members	UWashington1	NIL
+SF14_CMN_059	org:stateorprovince_of_headquarters	UWashington1	NIL
+SF14_CMN_060	org:subsidiaries	UWashington1	NIL
+SF14_CMN_060	org:alternate_names	UWashington1	NIL
+SF14_CMN_060	org:date_founded	UWashington1	NIL
+SF14_CMN_060	org:website	UWashington1	NIL
+SF14_CMN_060	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_060	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_060	org:date_dissolved	UWashington1	NIL
+SF14_CMN_060	org:founded_by	UWashington1	NIL
+SF14_CMN_060	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_060	org:shareholders	UWashington1	NIL
+SF14_CMN_060	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_060	org:member_of	UWashington1	NIL
+SF14_CMN_060	org:top_members_employees	UWashington1	NIL
+SF14_CMN_060	org:parents	UWashington1	NIL
+SF14_CMN_060	org:members	UWashington1	NIL
+SF14_CMN_060	org:stateorprovince_of_headquarters	UWashington1	NIL
+SF14_CMN_061	per:spouse	UWashington1	NIL
+SF14_CMN_061	per:religion	UWashington1	NIL
+SF14_CMN_061	per:city_of_death	UWashington1	NIL
+SF14_CMN_061	per:other_family	UWashington1	NIL
+SF14_CMN_061	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_061	per:country_of_death	UWashington1	NIL
+SF14_CMN_061	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_061	per:title	UWashington1	NIL
+SF14_CMN_061	per:children	UWashington1	NIL
+SF14_CMN_061	per:origin	UWashington1	CNS_CMN_20100613.0010:311-320	上海	CNS_CMN_20100613.0010:311-313	3.642781E7
+SF14_CMN_061	per:city_of_birth	UWashington1	NIL
+SF14_CMN_061	per:date_of_death	UWashington1	NIL
+SF14_CMN_061	per:age	UWashington1	NIL
+SF14_CMN_061	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_061	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_061	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_061	per:cause_of_death	UWashington1	NIL
+SF14_CMN_061	per:alternate_names	UWashington1	NIL
+SF14_CMN_061	per:charges	UWashington1	NIL
+SF14_CMN_061	per:country_of_birth	UWashington1	NIL
+SF14_CMN_061	per:schools_attended	UWashington1	XIN_CMN_20000516.0233:422-449	日本 旭通 摄影部	XIN_CMN_20000516.0233:441-449	3.7663068E7
+SF14_CMN_061	per:parents	UWashington1	NIL
+SF14_CMN_061	per:date_of_birth	UWashington1	NIL
+SF14_CMN_061	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_061	per:siblings	UWashington1	NIL
+SF14_CMN_062	per:spouse	UWashington1	CNS_CMN_20091015.0909:1072-1079	李月兰	CNS_CMN_20091015.0909:1072-1075	7.7866204E7
+SF14_CMN_062	per:spouse	UWashington1	XIN_CMN_20091022.0191:983-993	陈祚	XIN_CMN_20091022.0191:991-993	2.6995709E7
+SF14_CMN_062	per:religion	UWashington1	NIL
+SF14_CMN_062	per:city_of_death	UWashington1	NIL
+SF14_CMN_062	per:other_family	UWashington1	NIL
+SF14_CMN_062	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_062	per:country_of_death	UWashington1	NIL
+SF14_CMN_062	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_062	per:title	UWashington1	NIL
+SF14_CMN_062	per:children	UWashington1	NIL
+SF14_CMN_062	per:origin	UWashington1	XIN_CMN_20101217.0052:282-296	新疆	XIN_CMN_20101217.0052:282-284	4.3715913E7
+SF14_CMN_062	per:city_of_birth	UWashington1	XIN_CMN_20090819.0291:106-119	北京	XIN_CMN_20090819.0291:106-108	4.3835892E7
+SF14_CMN_062	per:date_of_death	UWashington1	NIL
+SF14_CMN_062	per:age	UWashington1	NIL
+SF14_CMN_062	per:cities_of_residence	UWashington1	XIN_CMN_20100302.0296:127-147	日	XIN_CMN_20100302.0296:146-147	3.4110943E7
+SF14_CMN_062	per:employee_or_member_of	UWashington1	XIN_CMN_20060306.0144:106-129	新华社	XIN_CMN_20060306.0144:106-109	1.6766832E7
+SF14_CMN_062	per:employee_or_member_of	UWashington1	XIN_CMN_20081110.0013:165-187	澳门 日报	XIN_CMN_20081110.0013:183-187	1.1964411E7
+SF14_CMN_062	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_062	per:cause_of_death	UWashington1	NIL
+SF14_CMN_062	per:alternate_names	UWashington1	NIL
+SF14_CMN_062	per:charges	UWashington1	NIL
+SF14_CMN_062	per:country_of_birth	UWashington1	NIL
+SF14_CMN_062	per:schools_attended	UWashington1	XIN_CMN_20101201.0197:1101-1118	清华 大学 国际 问题 研究所	XIN_CMN_20101201.0197:1101-1113	9.2662369E7
+SF14_CMN_062	per:schools_attended	UWashington1	CNS_CMN_20100517.0412:520-530	成都 商报	CNS_CMN_20100517.0412:520-524	1.4715319E7
+SF14_CMN_062	per:schools_attended	UWashington1	XIN_CMN_20060602.0001:200-215	中共	XIN_CMN_20060602.0001:213-215	1.1109811E7
+SF14_CMN_062	per:parents	UWashington1	CNS_CMN_20091014.0497:245-291	李炎	CNS_CMN_20091014.0497:289-291	4.7853307E7
+SF14_CMN_062	per:date_of_birth	UWashington1	NIL
+SF14_CMN_062	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_062	per:siblings	UWashington1	PDA_CMN_20070628.0041:250-279	廖先旺	PDA_CMN_20070628.0041:250-253	1.74993E7

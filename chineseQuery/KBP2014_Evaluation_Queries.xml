@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kbpslotfill>
+  <query id="SF14_CMN_001">
+    <name>罗京</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-179-209682-23263541</docid>
+    <beg>4854</beg>
+    <end>4855</end>
+  </query>
+  <query id="SF14_CMN_002">
+    <name>中国佛教协会</name>
+    <enttype>ORG</enttype>
+    <docid>cmn-NG-31-117658-12073003</docid>
+    <beg>411</beg>
+    <end>416</end>
+  </query>
+  <query id="SF14_CMN_003">
+    <name>国际佛光会</name>
+    <enttype>ORG</enttype>
+    <docid>cmn-NG-31-117658-12073003</docid>
+    <beg>425</beg>
+    <end>429</end>
+  </query>
+  <query id="SF14_CMN_004">
+    <name>茅以新</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-20-191610-15135426</docid>
+    <beg>17863</beg>
+    <end>17865</end>
+  </query>
+  <query id="SF14_CMN_005">
+    <name>中国巴基斯坦友好协会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_19980805.0074</docid>
+    <beg>487</beg>
+    <end>496</end>
+  </query>
+  <query id="SF14_CMN_006">
+    <name>昌明</name>
+    <enttype>PER</enttype>
+    <docid>XIN_CMN_20070205.0125</docid>
+    <beg>155</beg>
+    <end>156</end>
+  </query>
+  <query id="SF14_CMN_007">
+    <name>香港孔教学院</name>
+    <enttype>ORG</enttype>
+    <docid>cmn-WL-5-82854-6557277</docid>
+    <beg>839</beg>
+    <end>844</end>
+  </query>
+  <query id="SF14_CMN_008">
+    <name>本焕</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-21-181075-5900</docid>
+    <beg>2747</beg>
+    <end>2748</end>
+  </query>
+  <query id="SF14_CMN_009">
+    <name>贺红梅</name>
+    <enttype>PER</enttype>
+    <docid>PDA_CMN_20100405.0136</docid>
+    <beg>579</beg>
+    <end>581</end>
+  </query>
+  <query id="SF14_CMN_010">
+    <name>中国印度友好协会</name>
+    <enttype>ORG</enttype>
+    <docid>PDA_CMN_20100114.0369</docid>
+    <beg>181</beg>
+    <end>188</end>
+  </query>
+  <query id="SF14_CMN_011">
+    <name>阿中友协</name>
+    <enttype>ORG</enttype>
+    <docid>PDA_CMN_20101107.0205</docid>
+    <beg>167</beg>
+    <end>170</end>
+  </query>
+  <query id="SF14_CMN_012">
+    <name>邢质斌</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-20-191622-4024405</docid>
+    <beg>62</beg>
+    <end>64</end>
+  </query>
+  <query id="SF14_CMN_013">
+    <name>弘法寺</name>
+    <enttype>ORG</enttype>
+    <docid>bolt-cmn-DF-20-191622-15302620</docid>
+    <beg>168</beg>
+    <end>170</end>
+  </query>
+  <query id="SF14_CMN_014">
+    <name>世界华人协会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20011006.0053</docid>
+    <beg>238</beg>
+    <end>243</end>
+  </query>
+  <query id="SF14_CMN_015">
+    <name>弘一</name>
+    <enttype>PER</enttype>
+    <docid>cmn-WL-5-81851-6550382</docid>
+    <beg>161</beg>
+    <end>162</end>
+  </query>
+  <query id="SF14_CMN_016">
+    <name>中国人民对外友好协会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_19940628.0019</docid>
+    <beg>88</beg>
+    <end>97</end>
+  </query>
+  <query id="SF14_CMN_017">
+    <name>中国武术协会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20071224.0196</docid>
+    <beg>176</beg>
+    <end>181</end>
+  </query>
+  <query id="SF14_CMN_018">
+    <name>陈建斌</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-205-185872-1184999</docid>
+    <beg>1050</beg>
+    <end>1052</end>
+  </query>
+  <query id="SF14_CMN_019">
+    <name>释印法</name>
+    <enttype>PER</enttype>
+    <docid>CNS_CMN_20090925.0081</docid>
+    <beg>170</beg>
+    <end>172</end>
+  </query>
+  <query id="SF14_CMN_020">
+    <name>章艳</name>
+    <enttype>PER</enttype>
+    <docid>CNS_CMN_20090825.0025</docid>
+    <beg>482</beg>
+    <end>483</end>
+  </query>
+  <query id="SF14_CMN_021">
+    <name>中国佛学院</name>
+    <enttype>ORG</enttype>
+    <docid>bolt-cmn-DF-211-187115-4398137</docid>
+    <beg>3968</beg>
+    <end>3972</end>
+  </query>
+  <query id="SF14_CMN_022">
+    <name>侯德榜</name>
+    <enttype>PER</enttype>
+    <docid>cmn-WL-8-89605-10736620</docid>
+    <beg>1098</beg>
+    <end>1100</end>
+  </query>
+  <query id="SF14_CMN_023">
+    <name>英国华人工党</name>
+    <enttype>ORG</enttype>
+    <docid>CNS_CMN_20091025.0007</docid>
+    <beg>209</beg>
+    <end>214</end>
+  </query>
+  <query id="SF14_CMN_024">
+    <name>香港经济机遇委员会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20090917.0245</docid>
+    <beg>215</beg>
+    <end>224</end>
+  </query>
+  <query id="SF14_CMN_025">
+    <name>黄有龙</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-196-185692-2817767</docid>
+    <beg>1081</beg>
+    <end>1083</end>
+  </query>
+  <query id="SF14_CMN_026">
+    <name>香港检测和认证局</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20100531.0203</docid>
+    <beg>119</beg>
+    <end>126</end>
+  </query>
+  <query id="SF14_CMN_027">
+    <name>欧汉声</name>
+    <enttype>PER</enttype>
+    <docid>cmn-NG-4-76549-7892043</docid>
+    <beg>781</beg>
+    <end>783</end>
+  </query>
+  <query id="SF14_CMN_028">
+    <name>京泰发展有限公司</name>
+    <enttype>ORG</enttype>
+    <docid>bolt-cmn-DF-205-185863-573105</docid>
+    <beg>1755</beg>
+    <end>1762</end>
+  </query>
+  <query id="SF14_CMN_029">
+    <name>周培源</name>
+    <enttype>PER</enttype>
+    <docid>cmn-NG-4-76585-5638044</docid>
+    <beg>364</beg>
+    <end>366</end>
+  </query>
+  <query id="SF14_CMN_030">
+    <name>杨丽萍</name>
+    <enttype>PER</enttype>
+    <docid>cmn-WL-10-92952-6628135</docid>
+    <beg>157</beg>
+    <end>159</end>
+  </query>
+  <query id="SF14_CMN_031">
+    <name>英国华人自由民主党</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20080226.0115</docid>
+    <beg>155</beg>
+    <end>164</end>
+  </query>
+  <query id="SF14_CMN_032">
+    <name>谢雨欣</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-196-185692-2818250</docid>
+    <beg>1092</beg>
+    <end>1094</end>
+  </query>
+  <query id="SF14_CMN_033">
+    <name>郭兰英</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-211-187123-5139686</docid>
+    <beg>1783</beg>
+    <end>1785</end>
+  </query>
+  <query id="SF14_CMN_034">
+    <name>中国发明协会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_19920401.0036</docid>
+    <beg>228</beg>
+    <end>233</end>
+  </query>
+  <query id="SF14_CMN_035">
+    <name>宗庆后</name>
+    <enttype>PER</enttype>
+    <docid>PDA_CMN_20101012.0087</docid>
+    <beg>218</beg>
+    <end>220</end>
+  </query>
+  <query id="SF14_CMN_036">
+    <name>李俊辰</name>
+    <enttype>PER</enttype>
+    <docid>PDA_CMN_20080319.0096</docid>
+    <beg>272</beg>
+    <end>274</end>
+  </query>
+  <query id="SF14_CMN_037">
+    <name>远大空调公司</name>
+    <enttype>ORG</enttype>
+    <docid>cmn-WL-5-84726-6568846</docid>
+    <beg>275</beg>
+    <end>280</end>
+  </query>
+  <query id="SF14_CMN_038">
+    <name>世界华人摄影学会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20010825.0134</docid>
+    <beg>314</beg>
+    <end>321</end>
+  </query>
+  <query id="SF14_CMN_039">
+    <name>阜阳市艾滋病贫困儿童救助协会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20070226.0129</docid>
+    <beg>274</beg>
+    <end>288</end>
+  </query>
+  <query id="SF14_CMN_040">
+    <name>朱敏</name>
+    <enttype>PER</enttype>
+    <docid>XIN_CMN_20061206.0341</docid>
+    <beg>910</beg>
+    <end>911</end>
+  </query>
+  <query id="SF14_CMN_041">
+    <name>薛飞</name>
+    <enttype>PER</enttype>
+    <docid>cmn-NG-4-76554-6146894</docid>
+    <beg>707</beg>
+    <end>708</end>
+  </query>
+  <query id="SF14_CMN_042">
+    <name>何晓萌</name>
+    <enttype>PER</enttype>
+    <docid>PDA_CMN_20100803.0624</docid>
+    <beg>161</beg>
+    <end>163</end>
+  </query>
+  <query id="SF14_CMN_043">
+    <name>北京营和蔬菜种植专业合作社</name>
+    <enttype>ORG</enttype>
+    <docid>PDA_CMN_20100803.0624</docid>
+    <beg>226</beg>
+    <end>238</end>
+  </query>
+  <query id="SF14_CMN_044">
+    <name>关贵海</name>
+    <enttype>PER</enttype>
+    <docid>PDA_CMN_20080311.0191</docid>
+    <beg>145</beg>
+    <end>147</end>
+  </query>
+  <query id="SF14_CMN_045">
+    <name>北京舞蹈学院</name>
+    <enttype>ORG</enttype>
+    <docid>GMW_CMN_20091019.0251</docid>
+    <beg>322</beg>
+    <end>327</end>
+  </query>
+  <query id="SF14_CMN_046">
+    <name>英国华人保守党</name>
+    <enttype>ORG</enttype>
+    <docid>PDA_CMN_20080215.0013</docid>
+    <beg>214</beg>
+    <end>220</end>
+  </query>
+  <query id="SF14_CMN_047">
+    <name>任质斌</name>
+    <enttype>PER</enttype>
+    <docid>XIN_CMN_19980623.0057</docid>
+    <beg>293</beg>
+    <end>295</end>
+  </query>
+  <query id="SF14_CMN_048">
+    <name>北京奥组委</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20060331.0093</docid>
+    <beg>63</beg>
+    <end>67</end>
+  </query>
+  <query id="SF14_CMN_049">
+    <name>殷秀梅</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-182-192251-6383957</docid>
+    <beg>145</beg>
+    <end>147</end>
+  </query>
+  <query id="SF14_CMN_050">
+    <name>天津狗不理包子饮食(集团)公司</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20050204.0082</docid>
+    <beg>327</beg>
+    <end>341</end>
+  </query>
+  <query id="SF14_CMN_051">
+    <name>邓长富</name>
+    <enttype>PER</enttype>
+    <docid>PDA_CMN_20100312.0077</docid>
+    <beg>158</beg>
+    <end>160</end>
+  </query>
+  <query id="SF14_CMN_052">
+    <name>桂发祥麻花饮食集团公司</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20021101.0211</docid>
+    <beg>202</beg>
+    <end>212</end>
+  </query>
+  <query id="SF14_CMN_053">
+    <name>中国关心下一代工作委员会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_19931210.0204</docid>
+    <beg>98</beg>
+    <end>109</end>
+  </query>
+  <query id="SF14_CMN_054">
+    <name>李天一</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-20-191622-4018319</docid>
+    <beg>1427</beg>
+    <end>1429</end>
+  </query>
+  <query id="SF14_CMN_055">
+    <name>胡佳</name>
+    <enttype>PER</enttype>
+    <docid>cmn-NG-31-117639-11152593</docid>
+    <beg>161</beg>
+    <end>162</end>
+  </query>
+  <query id="SF14_CMN_056">
+    <name>中国社会工作协会</name>
+    <enttype>ORG</enttype>
+    <docid>GMW_CMN_20100126.0018</docid>
+    <beg>794</beg>
+    <end>801</end>
+  </query>
+  <query id="SF14_CMN_057">
+    <name>魏新安</name>
+    <enttype>PER</enttype>
+    <docid>PDA_CMN_20070420.0061</docid>
+    <beg>258</beg>
+    <end>260</end>
+  </query>
+  <query id="SF14_CMN_058">
+    <name>康世恩</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-196-185667-2981651</docid>
+    <beg>63032</beg>
+    <end>63034</end>
+  </query>
+  <query id="SF14_CMN_059">
+    <name>福禄鞋业有限公司</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_19940727.0003</docid>
+    <beg>218</beg>
+    <end>225</end>
+  </query>
+  <query id="SF14_CMN_060">
+    <name>乌克兰―中国友好协会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_19930711.0128</docid>
+    <beg>90</beg>
+    <end>99</end>
+  </query>
+  <query id="SF14_CMN_061">
+    <name>冯学敏</name>
+    <enttype>PER</enttype>
+    <docid>XIN_CMN_20071017.0131</docid>
+    <beg>182</beg>
+    <end>184</end>
+  </query>
+  <query id="SF14_CMN_062">
+    <name>刘畅</name>
+    <enttype>PER</enttype>
+    <docid>CNS_CMN_20100614.0340</docid>
+    <beg>203</beg>
+    <end>204</end>
+  </query>
+  <query id="SF14_CMN_063">
+    <name>纽约摄影学会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20090901.0034</docid>
+    <beg>129</beg>
+    <end>134</end>
+  </query>
+  <query id="SF14_CMN_064">
+    <name>范冰冰工作室</name>
+    <enttype>ORG</enttype>
+    <docid>CNS_CMN_20101228.1170</docid>
+    <beg>1395</beg>
+    <end>1400</end>
+  </query>
+  <query id="SF14_CMN_065">
+    <name>李烛尘</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-205-185862-208902</docid>
+    <beg>1509</beg>
+    <end>1511</end>
+  </query>
+  <query id="SF14_CMN_066">
+    <name>刘永行</name>
+    <enttype>PER</enttype>
+    <docid>PDA_CMN_20100608.0203</docid>
+    <beg>208</beg>
+    <end>210</end>
+  </query>
+  <query id="SF14_CMN_067">
+    <name>中国作家协会</name>
+    <enttype>ORG</enttype>
+    <docid>bolt-cmn-DF-211-187115-4401049</docid>
+    <beg>2737</beg>
+    <end>2742</end>
+  </query>
+  <query id="SF14_CMN_068">
+    <name>鲁迅文学院</name>
+    <enttype>ORG</enttype>
+    <docid>GMW_CMN_20101223.0046</docid>
+    <beg>167</beg>
+    <end>171</end>
+  </query>
+  <query id="SF14_CMN_069">
+    <name>北京市北冰洋食品公司</name>
+    <enttype>ORG</enttype>
+    <docid>bolt-cmn-DF-211-187115-4411810</docid>
+    <beg>1046</beg>
+    <end>1055</end>
+  </query>
+  <query id="SF14_CMN_070">
+    <name>成克杰</name>
+    <enttype>PER</enttype>
+    <docid>XIN_CMN_20000304.0042</docid>
+    <beg>57</beg>
+    <end>59</end>
+  </query>
+  <query id="SF14_CMN_071">
+    <name>中国出版科学研究所</name>
+    <enttype>ORG</enttype>
+    <docid>CNS_CMN_20100702.0021</docid>
+    <beg>376</beg>
+    <end>384</end>
+  </query>
+  <query id="SF14_CMN_072">
+    <name>周海婴</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-182-192251-6380864</docid>
+    <beg>789</beg>
+    <end>791</end>
+  </query>
+  <query id="SF14_CMN_073">
+    <name>海盐衬衫厂</name>
+    <enttype>ORG</enttype>
+    <docid>cmn-WL-5-81038-6545691</docid>
+    <beg>4148</beg>
+    <end>4152</end>
+  </query>
+  <query id="SF14_CMN_074">
+    <name>绍兴三味书画院</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20010924.0088</docid>
+    <beg>1398</beg>
+    <end>1404</end>
+  </query>
+  <query id="SF14_CMN_075">
+    <name>步鑫生</name>
+    <enttype>PER</enttype>
+    <docid>XIN_CMN_19981203.0182</docid>
+    <beg>224</beg>
+    <end>226</end>
+  </query>
+  <query id="SF14_CMN_076">
+    <name>许广平</name>
+    <enttype>PER</enttype>
+    <docid>XIN_CMN_19980119.0158</docid>
+    <beg>160</beg>
+    <end>162</end>
+  </query>
+  <query id="SF14_CMN_077">
+    <name>年广九</name>
+    <enttype>PER</enttype>
+    <docid>CNS_CMN_20090916.0328</docid>
+    <beg>2767</beg>
+    <end>2769</end>
+  </query>
+  <query id="SF14_CMN_078">
+    <name>老干妈风味食品有限责任公司</name>
+    <enttype>ORG</enttype>
+    <docid>CNS_CMN_20091130.0641</docid>
+    <beg>742</beg>
+    <end>754</end>
+  </query>
+  <query id="SF14_CMN_079">
+    <name>中国宋庆龄基金会</name>
+    <enttype>ORG</enttype>
+    <docid>bolt-cmn-DF-211-187111-4482626</docid>
+    <beg>159</beg>
+    <end>166</end>
+  </query>
+  <query id="SF14_CMN_080">
+    <name>李梓萌</name>
+    <enttype>PER</enttype>
+    <docid>cmn-WL-8-89480-6633287</docid>
+    <beg>328</beg>
+    <end>330</end>
+  </query>
+  <query id="SF14_CMN_081">
+    <name>施光南</name>
+    <enttype>PER</enttype>
+    <docid>XIN_CMN_20000909.0008</docid>
+    <beg>57</beg>
+    <end>59</end>
+  </query>
+  <query id="SF14_CMN_082">
+    <name>红塔集团</name>
+    <enttype>ORG</enttype>
+    <docid>CNS_CMN_20091113.0681</docid>
+    <beg>382</beg>
+    <end>385</end>
+  </query>
+  <query id="SF14_CMN_083">
+    <name>北京爱源汇教育研究中心</name>
+    <enttype>ORG</enttype>
+    <docid>cmn-NG-31-111696-10871016</docid>
+    <beg>12283</beg>
+    <end>12293</end>
+  </query>
+  <query id="SF14_CMN_084">
+    <name>陈野苹</name>
+    <enttype>PER</enttype>
+    <docid>cmn-WL-8-89480-6633284</docid>
+    <beg>1716</beg>
+    <end>1718</end>
+  </query>
+  <query id="SF14_CMN_085">
+    <name>五矿南美控股有限公司</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_19991202.0181</docid>
+    <beg>163</beg>
+    <end>173</end>
+  </query>
+  <query id="SF14_CMN_086">
+    <name>胡如意</name>
+    <enttype>PER</enttype>
+    <docid>CNS_CMN_20100907.0611</docid>
+    <beg>216</beg>
+    <end>218</end>
+  </query>
+  <query id="SF14_CMN_087">
+    <name>巴黎统筹委员会</name>
+    <enttype>ORG</enttype>
+    <docid>cmn-WL-5-77608-6519824</docid>
+    <beg>3372</beg>
+    <end>3378</end>
+  </query>
+  <query id="SF14_CMN_088">
+    <name>马思聪</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-211-187115-4400562</docid>
+    <beg>23542</beg>
+    <end>23544</end>
+  </query>
+  <query id="SF14_CMN_089">
+    <name>北京文化艺术音像出版社</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_19930805.0203</docid>
+    <beg>100</beg>
+    <end>110</end>
+  </query>
+  <query id="SF14_CMN_090">
+    <name>戴思聪</name>
+    <enttype>PER</enttype>
+    <docid>cmn-NG-4-76549-11914258</docid>
+    <beg>489</beg>
+    <end>491</end>
+  </query>
+  <query id="SF14_CMN_091">
+    <name>中国国家核电技术有限公司</name>
+    <enttype>ORG</enttype>
+    <docid>PDA_CMN_20070724.0034</docid>
+    <beg>142</beg>
+    <end>153</end>
+  </query>
+  <query id="SF14_CMN_092">
+    <name>张权</name>
+    <enttype>PER</enttype>
+    <docid>XIN_CMN_19910802.0058</docid>
+    <beg>390</beg>
+    <end>391</end>
+  </query>
+  <query id="SF14_CMN_093">
+    <name>中国文字著作权协会</name>
+    <enttype>ORG</enttype>
+    <docid>CNS_CMN_20101227.0327</docid>
+    <beg>154</beg>
+    <end>162</end>
+  </query>
+  <query id="SF14_CMN_094">
+    <name>张洪波</name>
+    <enttype>PER</enttype>
+    <docid>CNS_CMN_20091124.0521</docid>
+    <beg>617</beg>
+    <end>619</end>
+  </query>
+  <query id="SF14_CMN_095">
+    <name>G14联盟</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20041201.0028</docid>
+    <beg>493</beg>
+    <end>497</end>
+  </query>
+  <query id="SF14_CMN_096">
+    <name>汪曾祺</name>
+    <enttype>PER</enttype>
+    <docid>bolt-cmn-DF-211-187119-4745565</docid>
+    <beg>57</beg>
+    <end>59</end>
+  </query>
+  <query id="SF14_CMN_097">
+    <name>美国中国工程师学会</name>
+    <enttype>ORG</enttype>
+    <docid>cmn-NG-4-76738-6211383</docid>
+    <beg>555</beg>
+    <end>563</end>
+  </query>
+  <query id="SF14_CMN_098">
+    <name>叶向云</name>
+    <enttype>PER</enttype>
+    <docid>CNS_CMN_20100223.1087</docid>
+    <beg>191</beg>
+    <end>194</end>
+  </query>
+  <query id="SF14_CMN_099">
+    <name>严恺</name>
+    <enttype>PER</enttype>
+    <docid>cmn-NG-31-117658-10713450</docid>
+    <beg>1638</beg>
+    <end>1639</end>
+  </query>
+  <query id="SF14_CMN_100">
+    <name>北京富显博――灵克顾问咨询有限公司</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_19940711.0014</docid>
+    <beg>137</beg>
+    <end>154</end>
+  </query>
+  <query id="SF14_CMN_101">
+    <name>中国机械工程学会</name>
+    <enttype>ORG</enttype>
+    <docid>XIN_CMN_20001120.0026</docid>
+    <beg>276</beg>
+    <end>283</end>
+  </query>
+  <query id="SF14_CMN_102">
+    <name>倪光南</name>
+    <enttype>PER</enttype>
+    <docid>CNS_CMN_20091124.0419</docid>
+    <beg>312</beg>
+    <end>314</end>
+  </query>
+  <query id="SF14_CMN_103">
+    <name>美华参政协会</name>
+    <enttype>ORG</enttype>
+    <docid>CNS_CMN_20091208.0236</docid>
+    <beg>418</beg>
+    <end>423</end>
+  </query>
+</kbpslotfill>

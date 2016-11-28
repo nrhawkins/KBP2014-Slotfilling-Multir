@@ -21,6 +21,12 @@ import edu.stanford.nlp.util.Pair;
 public class SolrPopulator {
 	
 	public static void main(String[] args) throws Exception {
+
+		//solr populator: runCommand
+        //
+		// sbt "run-main edu.washington.multirframework.solr.populate.SolrPopulator 
+		// /projects/WebWare5/multir-multilingual/TAC_2013_KBP_Chinese_Corpus/data/Chinese/newswire
+		// http://rv-n16.cs.washington.edu:8468/solr/kbpdev"
 		
 		String inputPath = args[0];
     	String solrUrl = args[1];

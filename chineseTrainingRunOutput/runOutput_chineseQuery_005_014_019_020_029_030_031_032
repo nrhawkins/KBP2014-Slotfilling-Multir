@@ -1,0 +1,1037 @@
+洪一峰 PER
+Number of Documents: 89
+
+All Extractions: 
+
+extraction: 立法院	1117	1120 王金平	1121	1124 per:employee_or_member_of.RE 2.0615311E7
+extraction: 立法院	1160	1163 王金平	1164	1167 per:employee_or_member_of.RE 2.0615311E7
+extraction: 許景淳	189	192 洪榮宏	193	196 per:siblings 6.033301E7
+extraction: 洪榮宏	193	196 許景淳	189	192 per:siblings 7.3401832E7
+extraction: 立法院	1117	1120 王金平	1121	1124 per:employee_or_member_of.RE 2.0615311E7
+extraction: 立法院	1160	1163 王金平	1164	1167 per:employee_or_member_of.RE 2.0615311E7
+extraction: 港澳台	58	61 台湾	62	64 org:location_of_headquarters 4098926.0
+extraction: 台湾	62	64 港澳台	58	61 org:location_of_headquarters.RE 3860688.0
+extraction: 新竹市	417	420 台灣省 政府	435	440 org:location_of_headquarters.RE 1.5031986E7
+extraction: 洪	260	261 洪榮良	264	267 people.person.parents 2.0361887E7
+extraction: 立法院	374	377 王金平	379	382 per:employee_or_member_of.RE 2.0615311E7
+extraction: 台湾	1113	1115 谢芬芬	1107	1110 per:origin.RE 1.7539002E7
+extraction: 台湾 TVBS 电视台	164	173 周美青	183	186 per:schools_attended.RE 3.9418256E7
+extraction: 周美青	183	186 台湾 TVBS 电视台	164	173 per:schools_attended 4.3733246E7
+extraction: 行政院 長吳敦義 與 立法院	308	319 王	320	321 per:employee_or_member_of.RE 2.4627101E7
+extraction: 台灣 世界 展望會會長 杜明翰	479	491 業總會	461	464 per:schools_attended.RE 9613084.0
+extraction: 立法院	1313	1316 王金平	1317	1320 per:employee_or_member_of.RE 2.0615311E7
+extraction: 樓大廳	1950	1953 嘉義 基督教 醫院	1940	1947 organization.organization.founders.RE 4.9483107E7
+extraction: 香港	880	882 黃耀明	884	887 per:origin.RE 7071603.0
+extraction: 黃耀明	884	887 香港	880	882 per:origin 6877741.0
+extraction: 許景淳	200	203 洪榮宏	204	207 per:siblings 4.4816529E7
+extraction: 台北小巨蛋 舉行	258	265 蕭亞軒	301	304 people.person.place_lived.RE 9422780.0
+extraction: 洪	254	255 洪榮良	258	261 influence.influence_node.influenced_by.RE 1.768266E7
+extraction: 洪榮良	258	261 洪	254	255 influence.influence_node.influenced_by 3.0936456E7
+extraction: 立法院	1312	1315 王金平	1316	1319 per:employee_or_member_of.RE 2.0615311E7
+extraction: 樓大廳	1949	1952 嘉義 基督教 醫院	1939	1946 organization.organization.founders.RE 4.9483107E7
+
+Filtered Extractions: 
+
+洪榮宏	193	196 許景淳	189	192 per:siblings 7.3401832E7
+洪	260	261 洪榮良	264	267 people.person.parents 2.0361887E7
+洪	254	255 洪榮良	258	261 influence.influence_node.influenced_by.RE 1.768266E7
+洪榮良	258	261 洪	254	255 influence.influence_node.influenced_by 3.0936456E7
+
+SF14_CMN_TRAINING_005	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:parents	UWashington1	CNA_CMN_20100211.0238:260-267	洪榮良	CNA_CMN_20100211.0238:264-267	2.0361887E7
+SF14_CMN_TRAINING_005	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:siblings	UWashington1	CNA_CMN_20101225.0225:189-196	許景淳	CNA_CMN_20101225.0225:189-192	7.3401832E7
+秦厚修 PER
+Number of Documents: 34
+
+All Extractions: 
+
+extraction: 马英九	143	146 郝龙斌	147	150 people.person.spouse 74538.0
+extraction: 马英九	264	267 周美青	269	272 people.person.spouse 1.03329767E8
+extraction: 周美青	269	272 马英九	264	267 people.person.spouse 4.6464599E7
+extraction: 马英九	367	370 连战	375	377 people.person.parents 2.2465247E7
+extraction: 郝龙斌	453	456 连战	457	459 people.person.spouse 74538.0
+extraction: 马英九	525	528 周美青	530	533 people.person.spouse 1.26535098E8
+extraction: 周美青	530	533 马英九	525	528 people.person.spouse 6.0024904E7
+extraction: 马英九	543	546 秦	548	549 people.person.parents 3625374.0
+extraction: 马英九	177	180 秦	182	183 people.person.parents 4.8642722E7
+extraction: 秦	182	183 马英九	177	180 people.person.parents.RE 2.3745813E7
+extraction: 台北	484	486 李登辉	475	478 people.person.place_of_birth.RE 92755.0
+extraction: 马英九	65	68 秦	70	71 people.person.parents 6.3436275E7
+extraction: 秦	70	71 马英九	65	68 people.person.parents.RE 8789175.0
+extraction: 马英九	524	527 马鹤凌	530	533 people.person.parents 3.4210337E7
+extraction: 马鹤凌	530	533 马英九	524	527 people.person.parents.RE 2.5223677E7
+extraction: 陈水扁	194	197 台南县	199	202 people.person.place_of_birth 1.2041431E7
+extraction: 马英九	316	319 法务 部长	332	336 per:employee_or_member_of 1.1964411E7
+extraction: 马	939	940 秦	942	943 people.person.parents 1.583727E7
+extraction: 秦	942	943 马	939	940 people.person.parents.RE 1.0682034E7
+extraction: 马英九	151	154 秦	166	167 people.person.parents 3625374.0
+extraction: 監察院	177	180 王建	181	183 per:employee_or_member_of.RE 2.0615311E7
+extraction: 马	333	334 秦	336	337 people.person.parents 4.8642722E7
+extraction: 秦	336	337 马	333	334 people.person.parents.RE 2.3001537E7
+extraction: 马	357	358 秦	360	361 people.person.parents 4.8642722E7
+extraction: 秦	360	361 马	357	358 people.person.parents.RE 2.4137145E7
+extraction: 台	150	151 马英九	156	159 per:origin.RE 6.6660234E7
+extraction: 马英九	156	159 台	150	151 per:origin 8.1823678E7
+extraction: 马英九	156	159 马鹤凌	182	185 people.person.parents 7.1441914E7
+extraction: 马鹤凌	182	185 台湾	140	142 per:origin 7.4326891E7
+extraction: 马	408	409 周美青	412	415 people.person.spouse 1.9725743E7
+extraction: 周美青	412	415 马	408	409 people.person.spouse 1.5271365E7
+extraction: 马	416	417 秦	419	420 people.person.parents 6.1574534E7
+extraction: 秦	419	420 马	416	417 people.person.parents.RE 1.1700573E7
+extraction: 马英九	247	250 秦	252	253 people.person.parents 3625374.0
+extraction: 中国 时报	165	169 马英九	218	221 per:schools_attended.RE 4.1317492E7
+extraction: 马英九	173	176 秦	178	179 people.person.parents 3625374.0
+extraction: 旺旺 中时 集团	464	470 蔡绍中	473	476 organization.organization.board_members 3.3865506E7
+extraction: 蔡绍中	473	476 旺旺 中时 集团	464	470 per:employee_or_member_of 1.1073932E7
+extraction: 波士顿	440	443 康桥	444	446 location.location.contains 8.965326E7
+extraction: 康桥	444	446 波士顿	440	443 location.location.contains.RE 3.20735273E8
+extraction: 马英九	154	157 台北 故宫 博物院	162	169 per:schools_attended 1.9395911E7
+extraction: 马英九	246	249 秦	251	252 people.person.parents 3625374.0
+extraction: 刘兆玄	612	615 王金平	622	625 people.person.spouse 2.6995709E7
+extraction: 马秀如	509	512 马振聪	515	518 people.person.parents 2.8133237E7
+extraction: 马振聪	515	518 马秀如	509	512 people.person.parents.RE 3.2133255E7
+extraction: 王建煊	581	584 台湾	586	588 per:origin 2.7276458E7
+
+Filtered Extractions: 
+
+秦	182	183 马英九	177	180 people.person.parents.RE 2.3745813E7
+秦	70	71 马英九	65	68 people.person.parents.RE 8789175.0
+秦	942	943 马	939	940 people.person.parents.RE 1.0682034E7
+秦	336	337 马	333	334 people.person.parents.RE 2.3001537E7
+秦	360	361 马	357	358 people.person.parents.RE 2.4137145E7
+秦	419	420 马	416	417 people.person.parents.RE 1.1700573E7
+
+SF14_CMN_TRAINING_014	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:parents	UWashington1	PDA_CMN_20061220.0185:357-361	马	PDA_CMN_20061220.0185:357-358	2.4137145E7
+SF14_CMN_TRAINING_014	per:parents	UWashington1	PDA_CMN_20080518.0154:177-183	马英九	PDA_CMN_20080518.0154:177-180	2.3745813E7
+SF14_CMN_TRAINING_014	per:parents	UWashington1	PDA_CMN_20061220.0185:333-337	马	PDA_CMN_20061220.0185:333-334	2.3001537E7
+SF14_CMN_TRAINING_014	per:parents	UWashington1	PDA_CMN_20080519.0172:416-420	马	PDA_CMN_20080519.0172:416-417	1.1700573E7
+SF14_CMN_TRAINING_014	per:parents	UWashington1	PDA_CMN_20070815.0228:939-943	马	PDA_CMN_20070815.0228:939-940	1.0682034E7
+SF14_CMN_TRAINING_014	per:parents	UWashington1	PDA_CMN_20061123.0212:65-71	马英九	PDA_CMN_20061123.0212:65-68	8789175.0
+SF14_CMN_TRAINING_014	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:siblings	UWashington1	NIL
+敬一丹 PER
+Number of Documents: 62
+
+All Extractions: 
+
+extraction: 平安 保险 公司	2387	2393 张烨	2380	2382 per:schools_attended.RE 4.8278143E7
+extraction: 季羡林	1619	1622 中国	1610	1612 per:origin 5.7223785E7
+extraction: 王伟力	344	347 北京	333	335 per:origin 5.508905E7
+extraction: 湖南 智源 信息	1970	1976 北京	1984	1986 location.location.contains.RE 6.6834411E7
+extraction: 北京	1984	1986 湖南 智源 信息	1970	1976 location.location.contains 4.0448785E7
+extraction: 许戈辉	172	175 墨	178	179 per:origin 1.9744224E7
+extraction: 阳光 卫视	1001	1005 杨澜	984	986 per:schools_attended.RE 8.6850294E7
+extraction: 兰州 大学 化学 系	1111	1118 美	1126	1127 org:location_of_headquarters 2.1733632E7
+extraction: 邱宝昌	518	521 北京市 汇佳 律师 事务所	522	532 per:schools_attended 1.1109811E7
+extraction: 北京市 汇佳 律师 事务所	522	532 邱宝昌	518	521 per:schools_attended.RE 3447691.0
+extraction: 李伟	1262	1264 潍坊 福城 置业 有限 公司 办公室	1265	1278 per:schools_attended 1.1109811E7
+extraction: 潍坊 福城 置业 有限 公司 办公室	1265	1278 李伟	1262	1264 per:schools_attended.RE 3447691.0
+extraction: 秦皇岛	1077	1080 昌黎 韩愈 酒业 公司	1090	1098 org:location_of_headquarters.RE 1.4595099E7
+extraction: 昌黎 韩愈 酒业 公司	1090	1098 秦皇岛	1077	1080 location.location.contains.RE 1.0458105E7
+extraction: 秦皇岛	837	840 昌黎 韩愈 酒业 公司	850	858 org:location_of_headquarters.RE 1.4595099E7
+extraction: 昌黎 韩愈 酒业 公司	850	858 秦皇岛	837	840 location.location.contains.RE 1.0458105E7
+extraction: 中国	392	394 陈铎	407	409 per:origin.RE 3.4007773E7
+extraction: 陈铎	407	409 中国	392	394 per:origin 3.5216259E7
+extraction: null	2415	2418 null null null null null null	2428	2439 per:schools_attended 1.1109811E7
+extraction: null null null null null null	2428	2439 null	2415	2418 per:schools_attended.RE 3447691.0
+extraction: null	2515	2518 null null null null null null	2528	2539 per:schools_attended 1.1109811E7
+extraction: null null null null null null	2528	2539 null	2515	2518 per:schools_attended.RE 3447691.0
+extraction: 北京 师范 大学	1015	1021 中科院	1033	1036 org:parents 496732.0
+extraction: 中国 农科院	1037	1042 北京市	1022	1025 org:location_of_headquarters 2.5404383E7
+extraction: 陈至立	1908	1911 刘延	1930	1932 people.person.parents 1.4949614E7
+extraction: 刘延	1930	1932 陈至立	1908	1911 people.person.parents.RE 2.1219036E7
+extraction: 王杰	749	751 雷锋	746	748 per:origin 749.0
+extraction: 中央 电视台	507	512 全国 政协	500	504 org:parents 3.0942591E7
+extraction: 深圳 公安 机关	398	404 广东	392	394 org:member_of.RE 8.8328071E7
+
+Filtered Extractions: 
+
+
+SF14_CMN_TRAINING_019	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:siblings	UWashington1	NIL
+肖毅 PER
+Number of Documents: 31
+
+All Extractions: 
+
+extraction: 道教 文化 促进会	347	354 重庆市	355	358 org:location_of_headquarters 5.64343465E8
+extraction: 李军	942	944 李世洪	947	950 per:siblings 1.6097039E7
+extraction: 李世洪	947	950 李军	942	944 per:siblings 8497852.0
+extraction: 大渡口区 乡镇 投资 有限 公司	988	1000 肖毅	982	984 per:schools_attended.RE 5.165939E7
+extraction: 华南 理工	168	172 何镜堂	181	184 organization.organization.founders 8379967.0
+extraction: 飞虎队 ” 协会	303	309 迪克罗	311	314 org:top_members_employees 4.4471662E7
+extraction: 迪克罗	311	314 飞虎队 ” 协会	303	309 org:top_members_employees.RE 3.2180447E7
+extraction: 罗伯特・雷赫	325	331 美国	291	293 per:origin 1.43665592E8
+extraction: 王伟力	335	338 北京	324	326 per:origin 5.508905E7
+extraction: 通领 科技 集团	361	367 美国	382	384 location.location.contains.RE 3.1594545E7
+extraction: 王伟力	344	347 北京	333	335 per:origin 5.508905E7
+extraction: 北碚区 保护 道教 文化 促进会	720	732 李军	717	719 organization.organization.founders 8151920.0
+extraction: 国立 集团	879	883 李军	875	877 per:schools_attended.RE 4.1429084E7
+extraction: 肖毅	998	1000 中国	1003	1005 per:origin 5528177.0
+extraction: 北京	575	577 于道平	581	584 per:origin.RE 1.03679713E8
+extraction: 于道平	581	584 北京	575	577 per:origin 1.08210213E8
+extraction: 广州	620	622 彭东原	623	626 per:origin.RE 8.7235744E7
+extraction: 彭东原	623	626 广州	620	622 per:origin 1.06494854E8
+extraction: 徐金鹏	115	118 沈菁	122	124 per:siblings 4.5607829E7
+extraction: 沈菁	122	124 徐金鹏	115	118 per:siblings 2.1556456E7
+extraction: 李志全	1863	1866 菲	1861	1862 per:origin 749.0
+extraction: 南亚	869	871 日军	872	874 org:location_of_headquarters.RE 1.6074679E7
+extraction: 日军	872	874 南亚	869	871 org:location_of_headquarters 4532511.0
+extraction: 云南	898	900 马王屯	904	907 per:origin.RE 3.689501E7
+extraction: 马王屯	904	907 云南	898	900 per:origin 3.063253E7
+extraction: 欧锡钊	1507	1510 康达尔	1511	1514 per:schools_attended 1.2392187E7
+extraction: 湖南 湘天 地产	675	681 骆宪炳	684	687 organization.organization.board_members 3.3865506E7
+extraction: 骆宪炳	684	687 湖南 湘天 地产	675	681 per:employee_or_member_of 1.1073932E7
+
+Filtered Extractions: 
+
+肖毅	998	1000 中国	1003	1005 per:origin 5528177.0
+
+SF14_CMN_TRAINING_020	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:origin	UWashington1	XIN_CMN_20030911.0245:998-1005	中国	XIN_CMN_20030911.0245:1003-1005	5528177.0
+SF14_CMN_TRAINING_020	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:siblings	UWashington1	NIL
+香港道教联合会 ORG
+Number of Documents: 36
+
+All Extractions: 
+
+extraction: 朱世强	168	171 香港 道教 联合会	175	182 per:schools_attended 2.9578069E7
+extraction: 香港 道教 联合会	175	182 朱世强	168	171 per:schools_attended.RE 3.01852E7
+extraction: 中国 道教 协会	550	556 任法融	558	561 org:top_members_employees 4.4471662E7
+extraction: 任法融	558	561 中国 道教 协会	550	556 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 道教 协会	1021	1027 任法融	1029	1032 org:top_members_employees 1.28065752E8
+extraction: 任法融	1029	1032 中国 道教 协会	1021	1027 org:top_members_employees.RE 5.7338435E7
+extraction: 大陆	246	248 中国 道教 协会	251	257 org:location_of_headquarters.RE 8.6861657E7
+extraction: 中国 道教 协会	251	257 大陆	246	248 org:location_of_headquarters 1.08918543E8
+extraction: 香港 道教 联合会	386	393 汤伟奇	395	398 per:employee_or_member_of.RE 2.09567865E8
+extraction: 中国 预防 性病 艾滋病 基金会	184	197 北京	181	183 org:location_of_headquarters 2.3400752E7
+extraction: 香港	383	385 基督教 联会	388	393 org:location_of_headquarters.RE 4.68356E7
+extraction: 基督教 联会	388	393 香港	383	385 org:location_of_headquarters 1.1340928E8
+extraction: 中国 道教 协会	521	527 黄信阳	530	533 org:top_members_employees 1.4380605E7
+extraction: 黄信阳	530	533 中国 道教 协会	521	527 per:employee_or_member_of 1.9548167E7
+extraction: 恒基 兆业 有限 公司	536	545 汤伟 奇	516	520 per:schools_attended.RE 1.5262544E7
+extraction: 中国 道教 协会	1395	1401 香港	1375	1377 org:location_of_headquarters 1.8477915E7
+extraction: 慧	726	727 中国 佛教 协会	715	722 org:top_members_employees.RE 1.20155482E8
+extraction: 香港 佛教 联合会	791	798 觉光	800	802 org:top_members_employees 4.4471662E7
+extraction: 觉光	800	802 香港 佛教 联合会	791	798 org:top_members_employees.RE 3.2180447E7
+extraction: 李嘉诚	579	582 香港	573	575 per:origin 1.1932904E7
+extraction: 新加坡 道教 协会	587	594 汤恩佳	609	612 per:schools_attended.RE 1.5262544E7
+extraction: 温国平	475	478 世界 道教 法师 联谊会	464	473 org:top_members_employees.RE 7.5903014E7
+extraction: 大陆	266	268 中国 道教 协会	271	277 org:location_of_headquarters.RE 8.6861657E7
+extraction: 中国 道教 协会	271	277 大陆	266	268 org:location_of_headquarters 1.08918543E8
+extraction: 国家 宗教 事务局	197	205 蒋坚永	208	211 per:employee_or_member_of.RE 4255105.0
+extraction: 香港 圆玄 学院	296	302 台北	312	314 org:location_of_headquarters 7.07653695E8
+extraction: 中国 道教 协会	420	426 任法融	428	431 org:top_members_employees 1.28065752E8
+extraction: 任法融	428	431 中国 道教 协会	420	426 org:top_members_employees.RE 5.7338435E7
+extraction: 湖北省 十堰	167	172 国际 宝峰 金融 集团	185	193 org:location_of_headquarters.RE 1.0377605E8
+extraction: 国际 宝峰 金融 集团	185	193 湖北省 十堰	167	172 org:location_of_headquarters 1.68626031E8
+extraction: 香港 道教 联合会	482	489 汤伟奇	491	494 per:employee_or_member_of.RE 2.09567865E8
+
+Filtered Extractions: 
+
+香港 道教 联合会	175	182 朱世强	168	171 per:schools_attended.RE 3.01852E7
+香港 道教 联合会	386	393 汤伟奇	395	398 per:employee_or_member_of.RE 2.09567865E8
+香港	383	385 基督教 联会	388	393 org:location_of_headquarters.RE 4.68356E7
+香港 佛教 联合会	791	798 觉光	800	802 org:top_members_employees 4.4471662E7
+香港 圆玄 学院	296	302 台北	312	314 org:location_of_headquarters 7.07653695E8
+香港 道教 联合会	482	489 汤伟奇	491	494 per:employee_or_member_of.RE 2.09567865E8
+
+SF14_CMN_TRAINING_029	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:city_of_headquarters	UWashington1	XIN_CMN_20090820.0225:296-314	台北	XIN_CMN_20090820.0225:312-314	7.07653695E8
+SF14_CMN_TRAINING_029	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:top_members_employees	UWashington1	XIN_CMN_20070427.0175:791-802	觉光	XIN_CMN_20070427.0175:800-802	4.4471662E7
+SF14_CMN_TRAINING_029	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_029	org:stateorprovince_of_headquarters	UWashington1	NIL
+香港佛教联合会 ORG
+Number of Documents: 95
+
+All Extractions: 
+
+extraction: 张雅诗	134	137 香港	139	141 per:origin 5748589.0
+extraction: 香港 佛教 联合会	253	260 觉光	262	264 org:top_members_employees 1.61442702E8
+extraction: 觉光	262	264 香港 佛教 联合会	253	260 org:top_members_employees.RE 7.2209207E7
+extraction: 中国 佛教 协会	322	328 赵朴初	330	333 org:top_members_employees 4.4471662E7
+extraction: 赵朴初	330	333 中国 佛教 协会	322	328 org:top_members_employees.RE 3.2180447E7
+extraction: 国际 佛光会	261	266 台湾	258	260 org:location_of_headquarters 6.9084296E7
+extraction: 国际 佛光会	261	266 中华 宗教 文化 交流 协会	278	288 government.governmental_jurisdiction.government_bodies.RE 3.5103014E7
+extraction: 香港 佛教 联合会	528	535 觉光	537	539 org:top_members_employees 4.4471662E7
+extraction: 觉光	537	539 香港 佛教 联合会	528	535 org:top_members_employees.RE 3.2180447E7
+extraction: 佛教 联 合会	593	599 永惺	602	604 org:top_members_employees 1.4380605E7
+extraction: 永惺	602	604 佛教 联 合会	593	599 per:employee_or_member_of 1.9548167E7
+extraction: 台湾 佛教会	454	459 净良长	462	465 org:top_members_employees 4.4471662E7
+extraction: 净良长	462	465 台湾 佛教会	454	459 org:top_members_employees.RE 3.2180447E7
+extraction: 香港 佛教 联合会	863	870 觉光	872	874 org:top_members_employees 4.4471662E7
+extraction: 觉光	872	874 香港 佛教 联合会	863	870 org:top_members_employees.RE 3.2180447E7
+extraction: 台湾 佛教会	1172	1177 净良长	1179	1182 org:top_members_employees 1.28065752E8
+extraction: 净良长	1179	1182 台湾 佛教会	1172	1177 org:top_members_employees.RE 5.7338435E7
+extraction: 香港	63	65 日	61	62 location.location.contains.RE 1.69845598E8
+extraction: 香港	136	138 日	134	135 location.location.contains.RE 1.69845598E8
+extraction: 联合会	1091	1094 香港	1086	1088 org:location_of_headquarters 4.8499926E7
+extraction: 中华 宗教 文化 交流 协会	228	238 台湾	251	253 org:location_of_headquarters 4.9351877E7
+extraction: 中国 佛教 协会	239	245 台湾	251	253 org:location_of_headquarters 4.9351877E7
+extraction: 台湾	251	253 中华 宗教 文化 交流 协会	228	238 org:location_of_headquarters.RE 5.3211941E7
+extraction: 台湾	251	253 中国 佛教 协会	239	245 org:location_of_headquarters.RE 5.3211941E7
+extraction: 台湾	251	253 香港 佛教 联合会	260	267 org:location_of_headquarters.RE 3.155024E7
+extraction: 香港 佛教 联合会	260	267 台湾	251	253 org:location_of_headquarters 7.7133172E7
+extraction: 香港 佛教 联合会	540	547 觉光	549	551 org:top_members_employees 4.4471662E7
+extraction: 觉光	549	551 香港 佛教 联合会	540	547 org:top_members_employees.RE 3.2180447E7
+extraction: 泰国	855	857 台湾	870	872 location.location.adjoin 2.1600241E7
+extraction: 港澳台	58	61 香港	62	64 org:location_of_headquarters 4098926.0
+extraction: 香港	62	64 港澳台	58	61 org:location_of_headquarters.RE 3860688.0
+extraction: 香港 佛教 联合会	219	226 永惺	230	232 org:top_members_employees 1.4380605E7
+extraction: 永惺	230	232 香港 佛教 联合会	219	226 per:employee_or_member_of 1.9548167E7
+extraction: 终南山	968	971 圣山	988	990 location.location.contains 7219534.0
+extraction: 圣山	988	990 终南山	968	971 location.location.contains.RE 4482946.0
+extraction: 国际 佛光会 世界 总会	934	943 国际 佛光会 香港 协会	901	910 org:parents 8.1889619E7
+extraction: 台湾	945	947 星云	949	951 per:origin.RE 1.0948744E7
+extraction: 星云	949	951 台湾	945	947 per:origin 1.2836841E7
+extraction: 香港 佛教 联合会	703	710 觉光	712	714 org:top_members_employees 1.59760088E8
+extraction: 觉光	712	714 香港 佛教 联合会	703	710 org:top_members_employees.RE 1.20790642E8
+extraction: 汤伟奇	983	986 道教 联合会	976	981 org:top_members_employees.RE 7.5903014E7
+extraction: 陆辉	1066	1068 基督教 协进会	1058	1064 org:top_members_employees.RE 7.5903014E7
+extraction: 香港 佛教 联合会	217	224 觉光	226	228 org:top_members_employees 4.4471662E7
+extraction: 觉光	226	228 香港 佛教 联合会	217	224 org:top_members_employees.RE 3.2180447E7
+extraction: 香港 社会 服务 联会	798	806 许贤发	809	812 per:employee_or_member_of.RE 2.21349012E8
+extraction: 临时 立法会	1102	1107 香港	1087	1089 org:location_of_headquarters 8.5332533E7
+extraction: 中央 政府 驻 港 联络 办公室	296	307 曾德成	327	330 per:schools_attended.RE 1.5262544E7
+extraction: 政府 民政 事务局	318	325 齐晓飞	341	344 per:schools_attended.RE 1.7535465E7
+extraction: 香港 佛教 联合会	368	375 觉光	377	379 org:top_members_employees 4.4471662E7
+extraction: 觉光	377	379 香港 佛教 联合会	368	375 org:top_members_employees.RE 3.2180447E7
+extraction: 香港 立法会	327	332 梁爱诗	351	354 per:schools_attended.RE 1.6992992E7
+extraction: 香港 基本法 委员会	340	348 何志平	323	326 per:schools_attended.RE 1.5262544E7
+extraction: 梁爱诗	351	354 香港 立法会	327	332 per:schools_attended 1.9475567E7
+extraction: 香港 佛教 联合会	382	389 觉光	391	393 org:top_members_employees 1.28065752E8
+extraction: 觉光	391	393 香港 佛教 联合会	382	389 org:top_members_employees.RE 5.7338435E7
+extraction: 香港 佛教 联合会	774	781 觉光	783	785 org:top_members_employees 1.50092728E8
+extraction: 觉光	783	785 香港 佛教 联合会	774	781 org:top_members_employees.RE 5.1472297E7
+extraction: 吴晶 魏武	118	123 新华社	103	106 per:employee_or_member_of 1.6766832E7
+extraction: 慧	726	727 中国 佛教 协会	715	722 org:top_members_employees.RE 1.20155482E8
+extraction: 香港 佛教 联合会	791	798 觉光	800	802 org:top_members_employees 4.4471662E7
+extraction: 觉光	800	802 香港 佛教 联合会	791	798 org:top_members_employees.RE 3.2180447E7
+extraction: 香 港 佛教 联合会	165	173 觉光	175	177 org:top_members_employees 4.4471662E7
+extraction: 觉光	175	177 香 港 佛教 联合会	165	173 org:top_members_employees.RE 3.2180447E7
+extraction: 江苏省 佛教 协会	621	628 弘法	631	633 org:top_members_employees 1.4380605E7
+extraction: 弘法	631	633 江苏省 佛教 协会	621	628 per:employee_or_member_of 1.9548167E7
+extraction: 香港 佛教 联合会	144	151 觉光	153	155 org:top_members_employees 4.4471662E7
+extraction: 觉光	153	155 香港 佛教 联合会	144	151 org:top_members_employees.RE 3.2180447E7
+extraction: 港澳台	58	61 香港	62	64 org:location_of_headquarters 4098926.0
+extraction: 香港	62	64 港澳台	58	61 org:location_of_headquarters.RE 3860688.0
+extraction: 中国 藏语系 高级 佛学院	144	154 港	165	166 org:location_of_headquarters 2.2238535E7
+extraction: 港	165	166 中国 藏语系 高级 佛学院	144	154 org:location_of_headquarters.RE 1.6449486E7
+extraction: 中国 藏语系 高级 佛学院	199	210 李国清	213	216 per:schools_attended.RE 6.1105304E7
+extraction: 联合会	213	216 觉光	218	220 org:top_members_employees 4.4471662E7
+extraction: 觉光	218	220 联合会	213	216 org:top_members_employees.RE 3.2180447E7
+extraction: 王悦欣	118	121 新华社	102	105 per:employee_or_member_of 1.6766832E7
+extraction: 香港 佛教 联合会	525	532 觉光	534	536 org:top_members_employees 4.4471662E7
+extraction: 觉光	534	536 香港 佛教 联合会	525	532 org:top_members_employees.RE 3.2180447E7
+extraction: 浙江省 佛教 协会	669	676 戒忍	678	680 org:top_members_employees 4.4471662E7
+extraction: 戒忍	678	680 浙江省 佛教 协会	669	676 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 佛协	239	243 香港 佛教 联合会	260	267 org:parents.RE 1.7950058E7
+extraction: 香港 佛教 联合会	260	267 觉光	269	271 org:top_members_employees 4.4471662E7
+extraction: 觉光	269	271 香港 佛教 联合会	260	267 org:top_members_employees.RE 3.2180447E7
+extraction: 港澳台	58	61 香港	62	64 org:location_of_headquarters 4098926.0
+extraction: 香港	62	64 港澳台	58	61 org:location_of_headquarters.RE 3860688.0
+extraction: 香港 佛教 联合会	299	306 觉光	308	310 org:top_members_employees 4.4471662E7
+extraction: 觉光	308	310 香港 佛教 联合会	299	306 org:top_members_employees.RE 3.2180447E7
+extraction: 香港 佛教 联合会	375	382 觉光	384	386 org:top_members_employees 4.4471662E7
+extraction: 觉光	384	386 香港 佛教 联合会	375	382 org:top_members_employees.RE 3.2180447E7
+extraction: 中央 政府 驻 港 联络 办公室	284	295 高祀仁	297	300 org:top_members_employees 1.7248509E7
+extraction: 中央 政府 驻 港 联络 办公室	284	295 叶小文	314	317 per:schools_attended.RE 1.5262544E7
+extraction: 高祀仁	297	300 中央 政府 驻 港 联络 办公室	284	295 org:top_members_employees.RE 4994921.0
+extraction: 宗教 文化 交流 协会	304	312 叶小文	314	317 org:top_members_employees 2.12607657E8
+extraction: 宗教 文化 交流 协会	304	312 何志平	332	335 per:schools_attended.RE 1.7535465E7
+extraction: 叶小文	314	317 中 华	301	304 per:origin 3.2196248E7
+extraction: 叶小文	314	317 宗教 文化 交流 协会	304	312 org:top_members_employees.RE 7.3566546E7
+extraction: 特区	320	322 何志平	332	335 per:schools_attended.RE 12060.0
+extraction: 政府 民政 事务局	323	330 叶小文	314	317 per:schools_attended.RE 1.5262544E7
+extraction: 日中 友好 净土宗 协会	637	646 中村康	648	651 organization.organization.founders 2.4486002E7
+extraction: 美加 佛教译 经 委员会	700	709 释乐渡	711	714 org:top_members_employees 2.50275061E8
+extraction: 释乐渡	711	714 美加 佛教译 经 委员会	700	709 organization.organization.founders.RE 3.3575896E7
+extraction: 政府 政务司	241	246 黎桂康	263	266 per:schools_attended.RE 1.5262544E7
+extraction: 香港 佛教 联合会	295	302 齐晓飞	277	280 per:schools_attended.RE 1.5262544E7
+extraction: 中 国 佛教 协会	973	980 香港 特区	981	985 org:location_of_headquarters 6.7061636E7
+extraction: 香港 特区	981	985 中 国 佛教 协会	973	980 org:location_of_headquarters.RE 4.5429782E7
+extraction: 香港 特区	981	985 香港 佛教 联合会	993	1000 org:location_of_headquarters.RE 8.9286785E7
+extraction: 香港 佛教 联合会	993	1000 香港 特区	981	985 org:location_of_headquarters 8.9561631E7
+extraction: 香港 佛教 联合会	233	240 释觉光	242	245 org:top_members_employees 1.28065752E8
+extraction: 释觉光	242	245 香港 佛教 联合会	233	240 org:top_members_employees.RE 5.7338435E7
+extraction: 中华 回教 博爱社	422	429 哈耀恩	431	434 per:employee_or_member_of.RE 2.09567865E8
+extraction: 高祀仁	178	181 蒋坚永	193	196 people.person.spouse 2.6995709E7
+extraction: 香港	571	573 香港	567	569 location.location.contains 20155.0
+extraction: 香港 培侨 中学 校友会	436	445 何英杰	419	422 organization.organization.founders 8379967.0
+extraction: 全 国 人大 常委会	239	246 齐晓飞	264	267 per:schools_attended.RE 1.5262544E7
+extraction: 香港 佛教 联合会	282	289 齐晓飞	264	267 per:schools_attended.RE 1.5262544E7
+extraction: 唐翔千	410	413 全国 政协	404	408 per:schools_attended 4.5727965E7
+extraction: 唐翔千	410	413 香港 中华 总会	414	420 per:schools_attended 8153920.0
+extraction: 香港 中华 总会	414	420 唐翔千	410	413 per:schools_attended.RE 1845686.0
+extraction: 香港 佛教 联合会	188	195 觉光	197	199 org:top_members_employees 1.59760088E8
+extraction: 觉光	197	199 香港 佛教 联合会	188	195 org:top_members_employees.RE 1.20790642E8
+extraction: 中央 政府 驻 港 联络 办公室	218	229 高祀仁	231	234 organization.organization.founders 6852569.0
+extraction: 立法会	253	256 范徐丽泰	259	263 organization.organization.founders 1.74635631E8
+extraction: 全 国 人大 常委会 香港 特区 基本 法 委员会	264	282 何志平	249	252 per:schools_attended.RE 1.5262544E7
+extraction: 香港 道教 联合会	482	489 汤伟奇	491	494 per:employee_or_member_of.RE 2.09567865E8
+extraction: 香港 佛教 联合会	463	470 释永惺	473	476 org:top_members_employees 1.4380605E7
+extraction: 释永惺	473	476 香港 佛教 联合会	463	470 per:employee_or_member_of 1.9548167E7
+extraction: 国家 宗 教 事务局	697	705 齐晓飞	708	711 per:employee_or_member_of.RE 4255105.0
+extraction: 中国 佛教 协会	712	718 传印	720	722 org:top_members_employees 4.4471662E7
+extraction: 传印	720	722 中国 佛教 协会	712	718 org:top_members_employees.RE 3.2180447E7
+extraction: 香港 佛教 联合会	300	307 觉光	309	311 org:top_members_employees 4.4471662E7
+extraction: 觉光	309	311 香港 佛教 联合会	300	307 org:top_members_employees.RE 3.2180447E7
+extraction: 香港 佛教 联合会	194	201 永惺	204	206 org:top_members_employees 1.4380605E7
+extraction: 永惺	204	206 香港 佛教 联合会	194	201 per:employee_or_member_of 1.9548167E7
+extraction: 潘宗光	501	504 香港 理工 大学	493	499 per:schools_attended 4.5722048E7
+extraction: 香港	165	167 贵州省 铜仁 地区 旅游局	151	161 org:member_of 2.9386589E7
+extraction: 梵净山	178	181 弥勒佛	194	197 per:schools_attended.RE 12060.0
+extraction: 梵净山 佛教 协会	228	235 梵净山 佛教 文化苑	240	248 org:parents.RE 1.7950058E7
+
+Filtered Extractions: 
+
+香港 佛教 联合会	253	260 觉光	262	264 org:top_members_employees 1.61442702E8
+香港 佛教 联合会	528	535 觉光	537	539 org:top_members_employees 4.4471662E7
+香港 佛教 联合会	863	870 觉光	872	874 org:top_members_employees 4.4471662E7
+香港	63	65 日	61	62 location.location.contains.RE 1.69845598E8
+香港	136	138 日	134	135 location.location.contains.RE 1.69845598E8
+香港 佛教 联合会	260	267 台湾	251	253 org:location_of_headquarters 7.7133172E7
+香港 佛教 联合会	540	547 觉光	549	551 org:top_members_employees 4.4471662E7
+香港	62	64 港澳台	58	61 org:location_of_headquarters.RE 3860688.0
+香港 佛教 联合会	219	226 永惺	230	232 org:top_members_employees 1.4380605E7
+香港 佛教 联合会	703	710 觉光	712	714 org:top_members_employees 1.59760088E8
+香港 佛教 联合会	217	224 觉光	226	228 org:top_members_employees 4.4471662E7
+香港 社会 服务 联会	798	806 许贤发	809	812 per:employee_or_member_of.RE 2.21349012E8
+香港 佛教 联合会	368	375 觉光	377	379 org:top_members_employees 4.4471662E7
+香港 立法会	327	332 梁爱诗	351	354 per:schools_attended.RE 1.6992992E7
+香港 基本法 委员会	340	348 何志平	323	326 per:schools_attended.RE 1.5262544E7
+香港 佛教 联合会	382	389 觉光	391	393 org:top_members_employees 1.28065752E8
+香港 佛教 联合会	774	781 觉光	783	785 org:top_members_employees 1.50092728E8
+香港 佛教 联合会	791	798 觉光	800	802 org:top_members_employees 4.4471662E7
+香 港 佛教 联合会	165	173 觉光	175	177 org:top_members_employees 4.4471662E7
+香港 佛教 联合会	144	151 觉光	153	155 org:top_members_employees 4.4471662E7
+香港	62	64 港澳台	58	61 org:location_of_headquarters.RE 3860688.0
+香港 佛教 联合会	525	532 觉光	534	536 org:top_members_employees 4.4471662E7
+香港 佛教 联合会	260	267 觉光	269	271 org:top_members_employees 4.4471662E7
+香港	62	64 港澳台	58	61 org:location_of_headquarters.RE 3860688.0
+香港 佛教 联合会	299	306 觉光	308	310 org:top_members_employees 4.4471662E7
+香港 佛教 联合会	375	382 觉光	384	386 org:top_members_employees 4.4471662E7
+香港 佛教 联合会	295	302 齐晓飞	277	280 per:schools_attended.RE 1.5262544E7
+香港 特区	981	985 中 国 佛教 协会	973	980 org:location_of_headquarters.RE 4.5429782E7
+香港 特区	981	985 香港 佛教 联合会	993	1000 org:location_of_headquarters.RE 8.9286785E7
+香港 佛教 联合会	993	1000 香港 特区	981	985 org:location_of_headquarters 8.9561631E7
+香港 佛教 联合会	233	240 释觉光	242	245 org:top_members_employees 1.28065752E8
+香港	571	573 香港	567	569 location.location.contains 20155.0
+香港 培侨 中学 校友会	436	445 何英杰	419	422 organization.organization.founders 8379967.0
+香港 佛教 联合会	282	289 齐晓飞	264	267 per:schools_attended.RE 1.5262544E7
+香港 中华 总会	414	420 唐翔千	410	413 per:schools_attended.RE 1845686.0
+香港 佛教 联合会	188	195 觉光	197	199 org:top_members_employees 1.59760088E8
+香港 道教 联合会	482	489 汤伟奇	491	494 per:employee_or_member_of.RE 2.09567865E8
+香港 佛教 联合会	463	470 释永惺	473	476 org:top_members_employees 1.4380605E7
+香港 佛教 联合会	300	307 觉光	309	311 org:top_members_employees 4.4471662E7
+香港 佛教 联合会	194	201 永惺	204	206 org:top_members_employees 1.4380605E7
+香港	165	167 贵州省 铜仁 地区 旅游局	151	161 org:member_of 2.9386589E7
+
+SF14_CMN_TRAINING_030	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_030	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_030	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_030	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_030	org:country_of_headquarters	UWashington1	XIN_CMN_20090810.0194:251-267	台湾	XIN_CMN_20090810.0194:251-253	7.7133172E7
+SF14_CMN_TRAINING_030	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_030	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_030	org:founded_by	UWashington1	XIN_CMN_19960208.0082:419-445	何英杰	XIN_CMN_19960208.0082:419-422	8379967.0
+SF14_CMN_TRAINING_030	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_030	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_030	org:city_of_headquarters	UWashington1	XIN_CMN_20100909.0197:981-1000	香港 特区	XIN_CMN_20100909.0197:981-985	8.9561631E7
+SF14_CMN_TRAINING_030	org:member_of	UWashington1	XIN_CMN_20100810.0251:151-167	贵州省 铜仁 地区 旅游局	XIN_CMN_20100810.0251:151-161	2.9386589E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20071008.0118:253-264	觉光	XIN_CMN_20071008.0118:262-264	1.61442702E8
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20070225.0173:188-199	觉光	XIN_CMN_20070225.0173:197-199	1.59760088E8
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20030602.0081:703-714	觉光	XIN_CMN_20030602.0081:712-714	1.59760088E8
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	CNS_CMN_20100612.0637:774-785	觉光	CNS_CMN_20100612.0637:783-785	1.50092728E8
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_19970521.0108:233-245	释觉光	XIN_CMN_19970521.0108:242-245	1.28065752E8
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20090922.0276:382-393	觉光	XIN_CMN_20090922.0276:391-393	1.28065752E8
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20040531.0153:300-311	觉光	XIN_CMN_20040531.0153:309-311	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20070630.0158:375-386	觉光	XIN_CMN_20070630.0158:384-386	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_19960206.0028:299-310	觉光	XIN_CMN_19960206.0028:308-310	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20041222.0053:260-271	觉光	XIN_CMN_20041222.0053:269-271	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20060110.0165:525-536	觉光	XIN_CMN_20060110.0165:534-536	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20040524.0114:144-155	觉光	XIN_CMN_20040524.0114:153-155	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20041222.0114:165-177	觉光	XIN_CMN_20041222.0114:175-177	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20070427.0175:791-802	觉光	XIN_CMN_20070427.0175:800-802	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	CNS_CMN_20100521.1039:368-379	觉光	CNS_CMN_20100521.1039:377-379	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	PDA_CMN_20070227.0058:217-228	觉光	PDA_CMN_20070227.0058:226-228	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20040517.0164:540-551	觉光	XIN_CMN_20040517.0164:549-551	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20030710.0133:863-874	觉光	XIN_CMN_20030710.0133:872-874	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20040531.0011:528-539	觉光	XIN_CMN_20040531.0011:537-539	4.4471662E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	CNS_CMN_20100410.0101:194-206	永惺	CNS_CMN_20100410.0101:204-206	1.4380605E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	XIN_CMN_20010903.0112:463-476	释永惺	XIN_CMN_20010903.0112:473-476	1.4380605E7
+SF14_CMN_TRAINING_030	org:top_members_employees	UWashington1	CNS_CMN_20100412.1059:219-232	永惺	CNS_CMN_20100412.1059:230-232	1.4380605E7
+SF14_CMN_TRAINING_030	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_030	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_030	org:stateorprovince_of_headquarters	UWashington1	NIL
+茅以升 PER
+Number of Documents: 78
+
+All Extractions: 
+
+extraction: 江干区	875	878 茅以升 实验 学校	879	886 org:location_of_headquarters.RE 7926619.0
+extraction: 中华 工程师 学会	1387	1394 邝孙谋	1396	1399 org:top_members_employees 2.11853796E8
+extraction: 邝孙谋	1396	1399 中华 工程师 学会	1387	1394 org:top_members_employees.RE 8.8794105E7
+extraction: 詹天佑	1445	1448 交通部	1438	1441 organization.organization.founders.RE 6.02527E7
+extraction: 茅以新	1271	1274 茅以升	1282	1285 per:siblings 1.7059194E7
+extraction: 茅以升	1282	1285 茅以新	1271	1274 per:siblings 1.8071314E7
+extraction: 茅以升	284	287 中国	288	290 per:origin 1.2522351E7
+extraction: 吴晶晶	112	115 新华社	98	101 per:employee_or_member_of 1.6766832E7
+extraction: 钱塘江	447	450 茅以升	443	446 people.deceased_person.place_of_death.RE 1342653.0
+extraction: 叶叔华	191	194 全国 政协	175	179 organization.organization.board_members.RE 6.2224062E7
+extraction: 钱学森	320	323 周培源	316	319 per:origin 749.0
+extraction: 江苏	157	159 浙江 大学	166	170 org:location_of_headquarters.RE 8.8028643E7
+extraction: 浙江 大学	166	170 江苏	157	159 org:location_of_headquarters 5.2328903E7
+extraction: 海峡 两 岸 古 桥 学术 交流会	170	181 福建	187	189 org:location_of_headquarters 3.1262548E7
+extraction: 南京 军区 签约 高校 华东 交通 大学	225	239 徐钢	248	250 per:schools_attended.RE 9152437.0
+extraction: 徐钢	248	250 南京 军区 签约 高校 华东 交通 大学	225	239 per:schools_attended 2.2378706E7
+extraction: 重庆	191	193 张质	202	204 per:origin.RE 2.8564716E7
+extraction: 张质	202	204 重庆	191	193 per:origin 2.3799992E7
+extraction: 人民 大学	1305	1309 李雷	1320	1322 organization.organization.founders 8379967.0
+extraction: 茅以升	199	202 梁希	196	198 per:origin 749.0
+extraction: 茅以升	1139	1142 杨连第	1150	1153 people.person.parents 1234106.0
+extraction: 杨连第	1150	1153 茅以升	1139	1142 people.person.parents 1234106.0
+extraction: 中国	148	150 谢晋	154	156 per:origin.RE 8.8724516E7
+extraction: 谢晋	154	156 中国	148	150 per:origin 7.5197862E7
+extraction: 茅以升	244	247 茅玉麟	258	261 people.person.parents.RE 6.7435398E7
+extraction: 茅玉麟	258	261 茅以升	244	247 people.person.parents 4.2908312E7
+extraction: 茅以升	531	534 中国	535	537 per:origin 2.4490674E7
+extraction: 美国	569	571 康奈尔 大学	572	577 org:location_of_headquarters.RE 7.4257874E7
+extraction: 美国	146	148 康奈尔 大学	153	158 org:location_of_headquarters.RE 7.0364245E7
+extraction: 康奈尔 大学	153	158 美国	146	148 org:location_of_headquarters 6.040349E7
+extraction: 茅以升	573	576 康奈尔 大学	579	584 per:schools_attended 1.3033498E7
+extraction: 康奈尔 大学	579	584 茅以升	573	576 per:schools_attended.RE 3.0748037E7
+extraction: 人民 大学	1315	1319 李雷	1330	1332 organization.organization.founders 8379967.0
+extraction: 交通 大学 机械 工程系	213	222 钱学森	208	211 per:schools_attended.RE 3.9466958E7
+extraction: 钱学森	260	263 清华 大学	270	274 per:schools_attended 3.7663068E7
+extraction: 清华 大学	270	274 钱学森	260	263 per:schools_attended.RE 2.0955909E7
+extraction: 美	280	281 清华 大学	270	274 org:location_of_headquarters.RE 4.1766977E7
+extraction: 清华 大学	384	388 钱学森	380	383 per:schools_attended.RE 4.8278143E7
+extraction: 钱学森	410	413 清华 大学	427	431 per:schools_attended 2.0826029E7
+extraction: 北京	422	424 清华 大学	427	431 location.location.contains 5.7543768E7
+extraction: 清华 大学	427	431 钱学森	410	413 per:schools_attended.RE 4.6993305E7
+extraction: 清华 大学	427	431 北京	422	424 location.location.contains.RE 3.2344221E7
+extraction: 中国	815	817 钱学森	821	824 per:origin.RE 9.1033909E7
+extraction: 钱学森	821	824 中国	815	817 per:origin 4.5740069E7
+extraction: 钱学森	918	921 蒋英	923	925 people.person.spouse 1.10345422E8
+extraction: 蒋英	923	925 钱学森	918	921 people.person.spouse 4.5504873E7
+extraction: 上海 市委	917	921 上海	935	937 org:member_of.RE 2.4801305E7
+extraction: 中共 中央 政治局	241	248 邹家华	258	261 per:schools_attended.RE 9152437.0
+extraction: 邹家华	258	261 中共 中央 政治局	241	248 per:schools_attended 2.2378706E7
+
+Filtered Extractions: 
+
+茅以新	1271	1274 茅以升	1282	1285 per:siblings 1.7059194E7
+茅以升	1282	1285 茅以新	1271	1274 per:siblings 1.8071314E7
+茅以升	284	287 中国	288	290 per:origin 1.2522351E7
+茅以升	199	202 梁希	196	198 per:origin 749.0
+茅以升	1139	1142 杨连第	1150	1153 people.person.parents 1234106.0
+茅以升	244	247 茅玉麟	258	261 people.person.parents.RE 6.7435398E7
+茅玉麟	258	261 茅以升	244	247 people.person.parents 4.2908312E7
+茅以升	531	534 中国	535	537 per:origin 2.4490674E7
+茅以升	573	576 康奈尔 大学	579	584 per:schools_attended 1.3033498E7
+
+SF14_CMN_TRAINING_031	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:origin	UWashington1	CNS_CMN_20100310.1168:531-537	中国	CNS_CMN_20100310.1168:535-537	2.4490674E7
+SF14_CMN_TRAINING_031	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:schools_attended	UWashington1	XIN_CMN_20040629.0057:573-584	康奈尔 大学	XIN_CMN_20040629.0057:579-584	1.3033498E7
+SF14_CMN_TRAINING_031	per:parents	UWashington1	CNS_CMN_20100310.1168:244-261	茅玉麟	CNS_CMN_20100310.1168:258-261	6.7435398E7
+SF14_CMN_TRAINING_031	per:parents	UWashington1	CNS_CMN_20100310.1168:244-261	茅以升	CNS_CMN_20100310.1168:244-247	4.2908312E7
+SF14_CMN_TRAINING_031	per:parents	UWashington1	GMW_CMN_20091026.0013:1139-1153	杨连第	GMW_CMN_20091026.0013:1150-1153	1234106.0
+SF14_CMN_TRAINING_031	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_031	per:siblings	UWashington1	PDA_CMN_20101107.0052:1271-1285	茅以新	PDA_CMN_20101107.0052:1271-1274	1.8071314E7
+SF14_CMN_TRAINING_031	per:siblings	UWashington1	PDA_CMN_20101107.0052:1271-1285	茅以升	PDA_CMN_20101107.0052:1282-1285	1.7059194E7
+中国基督教协会 ORG
+Number of Documents: 112
+
+All Extractions: 
+
+extraction: 中国 基督教 协会	904	911 韩	913	914 org:top_members_employees 4.4471662E7
+extraction: 韩	913	914 中国 基督教 协会	904	911 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 道教 协会	925	931 闵智亭	933	936 org:top_members_employees 4.4471662E7
+extraction: 闵智亭	933	936 中国 道教 协会	925	931 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 伊 斯兰教 协会	937	946 陈广元	948	951 org:top_members_employees 3.4352058E8
+extraction: 中国 佛教 协会	952	958 嘉木 样・洛	961	966 org:top_members_employees 1.4380605E7
+extraction: 嘉木 样・洛	961	966 中国 佛教 协会	952	958 per:employee_or_member_of 1.9548167E7
+extraction: 嘉木 样・洛	961	966 圣辉	978	980 people.person.parents.RE 4.4165576E7
+extraction: 圣辉	978	980 中国 佛教 协会	952	958 per:employee_or_member_of 4.5767924E7
+extraction: 圣辉	978	980 曹	991	992 people.person.parents 1.4949614E7
+extraction: 中国 基督教 协会	981	988 曹	991	992 org:top_members_employees 1.4380605E7
+extraction: 曹	991	992 圣辉	978	980 people.person.parents.RE 2.1219036E7
+extraction: 曹	991	992 中国 基督教 协会	981	988 per:employee_or_member_of 1.9548167E7
+extraction: 中国 佛教 协会	962	968 赵朴初	970	973 org:top_members_employees 2.27634677E8
+extraction: 中国 基督教 协会	1018	1025 韩文藻	1027	1030 org:top_members_employees 2.27634677E8
+extraction: 中国 道教 协会	1072	1078 闵智亭	1080	1083 org:top_members_employees 2.27634677E8
+extraction: 中国 佛教 协会	234	240 赵朴初	242	245 org:top_members_employees 2.11853796E8
+extraction: 赵朴初	242	245 中国 佛教 协会	234	240 org:top_members_employees.RE 8.8794105E7
+extraction: 丁光训	276	279 中国 基督教 协会	266	273 org:top_members_employees.RE 8.65203E7
+extraction: 中国	346	348 法 律	363	366 location.location.adjoin 3.0945893E7
+extraction: 法 律	363	366 中国	346	348 location.location.adjoin 2.9242637E7
+extraction: 傅铁山	635	638 中国 天主教	623	628 organization.organization.founders.RE 4.3045083E7
+extraction: 中国 基督教 协会	641	648 韩文藻	650	653 org:top_members_employees 1.50846589E8
+extraction: 中国 道教 协会	664	670 闵智亭	672	675 org:top_members_employees 1.50846589E8
+extraction: 中国 伊斯兰 教 协会	676	685 陈广元	687	690 org:top_members_employees 1.73964009E8
+extraction: 中国 基督教 协会	720	727 尼玛	714	716 per:schools_attended.RE 1.5262544E7
+extraction: 曹圣洁	730	733 中国 基督教 协会	720	727 per:employee_or_member_of 3.1156797E7
+extraction: 孙本尧	110	113 新华社	94	97 per:employee_or_member_of 1.6766832E7
+extraction: 中国 佛教 协会	279	285 赵朴初	287	290 org:top_members_employees 4.4471662E7
+extraction: 赵朴初	287	290 中国 佛教 协会	279	285 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 基督教 协会	326	333 丁光训	335	338 org:top_members_employees 4.4471662E7
+extraction: 丁光训	335	338 中国 基督教 协会	326	333 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 道教 协会	405	411 黎遇航	413	416 org:top_members_employees 2.28388538E8
+extraction: 中国 基督教 协会	187	194 曹圣洁	196	199 org:top_members_employees 1.28065752E8
+extraction: 曹圣洁	196	199 中国 基督教 协会	187	194 org:top_members_employees.RE 5.7338435E7
+extraction: 中国 佛教 协 会	189	196 赵朴初	198	201 org:top_members_employees 4.6000392E7
+extraction: 中国 基督教 协会	709	717 韩文藻	719	722 org:top_members_employees 2.11853796E8
+extraction: 韩文藻	719	722 中国 基督教 协会	709	717 org:top_members_employees.RE 8.8794105E7
+extraction: 中国 道教 协会	730	736 张	739	740 org:top_members_employees 1.4380605E7
+extraction: 张	739	740 中国 道教 协会	730	736 per:employee_or_member_of 1.9548167E7
+extraction: 中国 基督教 协会	178	185 曹圣洁	187	190 org:top_members_employees 4.4471662E7
+extraction: 曹圣洁	187	190 中国 基督教 协会	178	185 org:top_members_employees.RE 3.2180447E7
+extraction: 香港 协进会	666	671 苏以葆	673	676 per:employee_or_member_of.RE 2.09567865E8
+extraction: 中国 佛教 协会	313	319 嘉木	322	324 org:top_members_employees 1.4380605E7
+extraction: 嘉木	322	324 中国 佛教 协会	313	319 per:employee_or_member_of 1.9548167E7
+extraction: 圣辉	352	354 中国 佛教 协会	343	349 org:top_members_employees.RE 7.2136224E7
+extraction: 中国 佛教 协会	395	401 中国 佛教 协会	377	383 government.governmental_jurisdiction.government_bodies.RE 4.0728979E7
+extraction: 中 国 道教 协会	827	834 任法融	836	839 org:top_members_employees 2.12607657E8
+extraction: 任法融	836	839 中 国 道教 协会	827	834 org:top_members_employees.RE 7.3566546E7
+extraction: 中国 伊斯兰教 协会	840	848 陈广元	850	853 org:top_members_employees 2.12607657E8
+extraction: 陈广元	850	853 中国 伊斯兰教 协会	840	848 org:top_members_employees.RE 7.3566546E7
+extraction: 王作安	162	165 政府	169	171 per:schools_attended 3.0135358E7
+extraction: 中国 国家 宗教 事务局	503	512 新加坡	516	519 organization.organization.place_founded 2.8499309E7
+extraction: 新加坡	516	519 中国 国家 宗教 事务局	503	512 organization.organization.place_founded.RE 2.8997835E7
+extraction: 中国 伊斯兰教	586	592 陈广元	594	597 org:top_members_employees 1.50846589E8
+extraction: 叶小文	309	312 国家 宗教局	302	307 organization.organization.founders.RE 6.02527E7
+extraction: 宗教 委员会	323	328 金鉴	330	332 org:top_members_employees 1.7248509E7
+extraction: 金鉴	330	332 宗教 委员会	323	328 org:top_members_employees.RE 4994921.0
+extraction: 中国 基督教 协会	383	390 曹圣洁	392	395 org:top_members_employees 4.4471662E7
+extraction: 曹圣洁	392	395 中国 基督教 协会	383	390 org:top_members_employees.RE 3.2180447E7
+extraction: 美国	1382	1384 张德培	1394	1397 per:origin.RE 2.7264422E7
+extraction: 德国	198	200 特尔绍市	209	213 location.location.contains 5.3326342E7
+extraction: 世界 差传 中心	403	409 赫尔 曼・福伦德	412	419 per:employee_or_member_of.RE 2.7475035E7
+extraction: 赫尔 曼・福伦德	412	419 世界 差传 中心	403	409 per:employee_or_member_of 3.2048995E7
+extraction: 中国 基督教 协会	865	872 曹圣洁	874	877 org:top_members_employees 4.4471662E7
+extraction: 曹圣洁	874	877 中国 基督教 协会	865	872 org:top_members_employees.RE 3.2180447E7
+extraction: 德国 新 教 教会 联盟	919	928 魏茨泽克	943	947 per:schools_attended.RE 2.113385E7
+extraction: 魏茨泽克	943	947 德国 新 教 教会 联盟	919	928 per:schools_attended 2.0172406E7
+extraction: 魏茨泽克	943	947 德国	937	939 per:origin 9.1380364E7
+extraction: 中国	687	689 中国 佛教 协会	695	701 org:location_of_headquarters.RE 1.2645397E7
+extraction: 中国	687	689 中国 伊 斯兰教 协会	702	711 org:location_of_headquarters.RE 1.2645397E7
+extraction: 香港	749	751 中国 基督教 协会	728	735 org:location_of_headquarters.RE 1.2645397E7
+extraction: 中国 基督教 协会	743	750 曹圣洁	752	755 org:top_members_employees 4.4471662E7
+extraction: 曹圣洁	752	755 中国 基督教 协会	743	750 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 基督教 协会	207	214 曹圣洁	216	219 org:top_members_employees 4.4471662E7
+extraction: 曹圣洁	216	219 中国 基督教 协会	207	214 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 伊斯兰教 协会	427	435 陈广元	437	440 org:top_members_employees 1.59760088E8
+extraction: 陈广元	437	440 中国 伊斯兰教 协会	427	435 org:top_members_employees.RE 1.20790642E8
+extraction: 中国 基督教 协会	161	168 曹圣洁	170	173 per:employee_or_member_of.RE 3.03308442E8
+extraction: 中共 中央 统战部	408	415 全国 政协	400	404 org:parents 3.1290223E7
+extraction: 张承志	113	116 新华社	99	102 per:employee_or_member_of 1.6766832E7
+extraction: 中国 基督教 协会	143	150 丁光训	152	155 org:top_members_employees 4.4471662E7
+extraction: 丁光训	152	155 中国 基督教 协会	143	150 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 基督教 协会	149	157 曹圣洁	159	162 org:top_members_employees 1.59760088E8
+extraction: 曹圣洁	159	162 中国 基督教 协会	149	157 org:top_members_employees.RE 1.20790642E8
+extraction: 北京	144	146 中共 中央 政 治局 常委	158	168 org:location_of_headquarters.RE 3.1694462E7
+extraction: 中共 中央 政 治局 常委	158	168 北京	144	146 org:location_of_headquarters 4.4654219E7
+extraction: 贾庆林	175	178 中共 中央 政 治局 常委	158	168 per:schools_attended 2.9281047E7
+extraction: 中国 道教 协会	1449	1455 任法融	1458	1461 org:top_members_employees 2.27634677E8
+extraction: 中国 伊斯兰教 协会	1462	1470 陈广元	1472	1475 org:top_members_employees 2.27634677E8
+extraction: 中国 基督教 协会	1854	1861 韩文藻	1863	1866 org:top_members_employees 2.27634677E8
+extraction: 中国 伊斯兰教 协会	1909	1917 陈广元	1919	1922 org:top_members_employees 2.27634677E8
+extraction: 美国	1266	1268 叶小文	1261	1264 per:origin.RE 2130217.0
+extraction: 中国 基督教 协会	1471	1478 韩文藻	1480	1483 org:top_members_employees 4.4471662E7
+extraction: 韩文藻	1480	1483 中国 基督教 协会	1471	1478 org:top_members_employees.RE 3.2180447E7
+extraction: 葛内顺	1583	1586 美国	1572	1574 per:origin 1.64315321E8
+extraction: 芝加哥	1617	1620 全国 祈祷 早餐会	1630	1637 location.location.contains 5.5282933E7
+extraction: 全国 祈祷 早餐会	1630	1637 芝加哥	1617	1620 location.location.contains.RE 4.0663265E7
+extraction: 中国 基督教 协会	292	299 丁光训	301	304 org:top_members_employees 2.11853796E8
+extraction: 丁光训	301	304 中国 基督教 协会	292	299 org:top_members_employees.RE 8.8794105E7
+extraction: 中国 伊斯兰教 协会	347	355 马贤	358	360 org:top_members_employees 1.0397016E7
+extraction: 马贤	358	360 中国 伊斯兰教 协会	347	355 per:employee_or_member_of 1.7689816E7
+extraction: 中国 基督教 协会	281	288 曹圣洁	290	293 org:top_members_employees 4.4471662E7
+extraction: 曹圣洁	290	293 中国 基督教 协会	281	288 org:top_members_employees.RE 3.2180447E7
+extraction: 德国	353	355 魏茨泽克	359	363 per:origin.RE 1.1450028E7
+extraction: 马桂花	116	119 新华社	101	104 per:employee_or_member_of 1.6766832E7
+extraction: 中国 基督教 协会	1361	1368 曹圣洁	1371	1374 org:top_members_employees 1.28065752E8
+extraction: 曹圣洁	1371	1374 中国 基督教 协会	1361	1368 org:top_members_employees.RE 5.7338435E7
+extraction: 德国	1488	1490 科隆 会展 中心	1503	1509 org:location_of_headquarters.RE 1.00219732E8
+extraction: 科隆 会展 中心	1503	1509 德国	1488	1490 org:location_of_headquarters 1.04015452E8
+extraction: 德国	248	250 特尔绍市	258	262 location.location.contains 5.3326342E7
+extraction: 世界 差传 中心	434	440 赫尔 曼・福伦德	443	450 per:employee_or_member_of.RE 2.7475035E7
+extraction: 赫尔 曼・福伦德	443	450 世界 差传 中心	434	440 per:employee_or_member_of 3.2048995E7
+extraction: 中国 基督教 协 会	866	874 曹圣洁	876	879 org:top_members_employees 4.4471662E7
+extraction: 曹圣洁	876	879 中国 基督教 协 会	866	874 org:top_members_employees.RE 2.4152681E7
+extraction: 德国	939	941 魏茨泽克	944	948 per:origin.RE 1.1450028E7
+extraction: 德国 巴伐利亚	964	970 基督教 星 期天 报	971	979 org:location_of_headquarters.RE 7.0757682E7
+extraction: 丁光训	340	343 中国 基督教 协会	331	338 org:top_members_employees.RE 7.5903014E7
+extraction: 中国 基督教 协会	152	159 曹圣洁	161	164 org:top_members_employees 1.28065752E8
+extraction: 曹圣洁	161	164 中国 基督教 协会	152	159 org:top_members_employees.RE 5.7338435E7
+extraction: 中国 基督教 协会	445	452 中央 统战部	458	463 org:parents.RE 2.7918683E7
+extraction: 中国 基督教 协会	445	452 国家 宗教局	471	476 org:parents.RE 1.7950058E7
+extraction: 回良玉	677	680 中国	685	687 per:origin 7387849.0
+extraction: 中国	685	687 回良玉	677	680 per:origin.RE 9549994.0
+extraction: 北京市 基督教 教务 委员会	148	160 于新粒	162	165 org:top_members_employees 4.4471662E7
+extraction: 于新粒	162	165 北京市 基督教 教务 委员会	148	160 org:top_members_employees.RE 3.2180447E7
+extraction: 北京市 基督教 教务 委员会	315	326 于新粒	328	331 org:top_members_employees 4.4471662E7
+extraction: 于新粒	328	331 北京市 基督教 教务 委员会	315	326 org:top_members_employees.RE 3.2180447E7
+extraction: 联合 圣经 公会 亚太 部	969	978 董 大卫	980	983 org:top_members_employees 1.326492E7
+extraction: 北约	335	337 美国	329	331 org:location_of_headquarters 7.461674E7
+extraction: 中国 佛教 协会	280	286 全国 政协	272	276 org:parents 3.1290223E7
+extraction: 赵朴初	289	292 中国 佛教 协会	280	286 organization.organization.founders.RE 3.7420318E7
+extraction: 中国 佛教 协会	984	990 赵朴初	993	996 org:top_members_employees 4.4471662E7
+extraction: 赵朴初	993	996 中国 佛教 协会	984	990 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 基督教 协会	1018	1025 韩文藻	1027	1030 org:top_members_employees 2.11853796E8
+extraction: 韩文藻	1027	1030 中国 基督教 协会	1018	1025 org:top_members_employees.RE 8.8794105E7
+extraction: 丁光训	216	219 中国 基督教 三 自 爱国 运动 委员会	189	203 organization.organization.founders.RE 5.0653664E7
+extraction: 丁光训	216	219 中国 基督教 协会	207	214 org:top_members_employees.RE 1.11881268E8
+extraction: 田雨	114	116 新华社	100	103 per:employee_or_member_of 1.6766832E7
+extraction: 潘云召	122	125 美国	109	111 per:origin 1.4599694E7
+extraction: 卡特	230	232 中国	234	236 per:origin 3.1213168E7
+extraction: 中国	234	236 卡特	230	232 per:origin.RE 1.7394768E7
+extraction: 中国 基督教 协会	658	665 曹圣洁	667	670 org:top_members_employees 4.4471662E7
+extraction: 曹圣洁	667	670 中国 基督教 协会	658	665 org:top_members_employees.RE 3.2180447E7
+extraction: 曹圣洁	667	670 中国 基督教 协会	686	693 per:employee_or_member_of 1.1964411E7
+extraction: 中国 基督教 协会	302	309 曹圣洁	312	315 org:top_members_employees 1.28065752E8
+extraction: 曹圣洁	312	315 中国 基督教 协会	302	309 org:top_members_employees.RE 5.7338435E7
+extraction: 中国	424	426 中国 基督徒	442	447 location.location.contains 2.0277108E7
+extraction: 中国 基督徒	442	447 中国	424	426 location.location.contains.RE 2.8965785E7
+extraction: 科隆	512	514 德国	518	520 location.location.contains.RE 2.053915E7
+extraction: 德国	518	520 科隆	512	514 location.location.contains 2319057.0
+extraction: 马桂花	118	121 新华社	103	106 per:employee_or_member_of 1.6766832E7
+extraction: 德国	159	161 科隆	165	167 location.location.contains 9.3594712E7
+extraction: 科隆	165	167 德国	159	161 location.location.contains.RE 1.00233088E8
+extraction: 中国 浙江	351	355 张 万隆	356	360 per:origin.RE 7.6377906E7
+extraction: 张 万隆	356	360 中国 浙江	351	355 per:origin 8.9285674E7
+extraction: 中国 基督教 协会	428	435 曹圣洁	437	440 org:top_members_employees 1.28065752E8
+extraction: 曹圣洁	437	440 中国 基督教 协会	428	435 org:top_members_employees.RE 5.7338435E7
+extraction: 中国 基督教 协会	57	64 曹圣洁	66	69 org:top_members_employees 1.28065752E8
+extraction: 曹圣洁	66	69 中国 基督教 协会	57	64 org:top_members_employees.RE 5.7338435E7
+extraction: 中国 基督教 协会	144	151 曹圣洁	153	156 org:top_members_employees 1.28065752E8
+extraction: 曹圣洁	153	156 中国 基督教 协会	144	151 org:top_members_employees.RE 5.7338435E7
+extraction: 唐述权	155	158 中国 佛教 协会	164	170 org:top_members_employees.RE 1.3952884E7
+extraction: 中国 佛教 协会	624	630 嘉木	633	635 org:top_members_employees 2.15745422E8
+extraction: 嘉木	633	635 中国 佛教 协会	624	630 organization.organization.founders.RE 4.4117356E7
+extraction: 刀述仁	720	723 中国 佛教 协会	711	717 org:top_members_employees.RE 7.2136224E7
+extraction: 中国 伊斯兰教 协会	795	803 陈广元	805	808 org:top_members_employees 1.50846589E8
+extraction: 魏武 熊聪茹	177	183 中国	195	197 per:origin 2.5700529E7
+extraction: 比亚	697	699 中国	715	717 per:origin 2.9336934E7
+extraction: 德国	184	186 莱比锡	191	194 location.location.contains 6.1828345E7
+extraction: 莱比锡	191	194 德国	184	186 location.location.contains.RE 7.7327834E7
+extraction: 中国 基督教 协会	709	716 曹圣洁	718	721 org:top_members_employees 1.59760088E8
+extraction: 曹圣洁	718	721 中国 基督教 协会	709	716 org:top_members_employees.RE 1.20790642E8
+extraction: 马桂花	114	117 新华社	99	102 per:employee_or_member_of 1.6766832E7
+extraction: 德国	155	157 科隆	161	163 location.location.contains 1.04647731E8
+extraction: 科隆	161	163 德国	155	157 location.location.contains.RE 9.2361673E7
+extraction: 南京	392	394 爱德 基金会	395	400 org:location_of_headquarters.RE 1.01155656E8
+extraction: 亚洲	527	529 欧本海姆	533	537 per:schools_attended.RE 9922.0
+extraction: 中国 佛 教 协会	793	800 学诚	803	805 org:top_members_employees 1.4380605E7
+extraction: 学诚	803	805 中国 佛 教 协会	793	800 per:employee_or_member_of 1.9548167E7
+extraction: 王薇	120	122 新华社	103	106 per:employee_or_member_of 1.6766832E7
+extraction: 国家 宗教 事务局	243	251 王作安	254	257 per:employee_or_member_of.RE 4255105.0
+extraction: 中国 伊斯兰教 协会	474	482 陈广元	484	487 org:top_members_employees 1.59760088E8
+extraction: 陈广元	484	487 中国 伊斯兰教 协会	474	482 org:top_members_employees.RE 1.20790642E8
+extraction: 北京	174	176 国务院	187	190 organization.organization.founders.RE 3.0775716E7
+extraction: 谢宗信	373	376 中国 道教 协会	364	370 org:top_members_employees.RE 3.7706254E7
+extraction: 中国 伊斯兰教 协会	382	390 夏米西丁	393	397 org:top_members_employees 1.4380605E7
+extraction: 夏米西丁	393	397 中国 伊斯兰教 协会	382	390 per:employee_or_member_of 1.9548167E7
+extraction: 中国 基督教 协会	441	448 韩文藻	450	453 org:top_members_employees 1.59760088E8
+extraction: 韩文藻	450	453 中国 基督教 协会	441	448 org:top_members_employees.RE 1.20790642E8
+extraction: 宗教 研究 中心	859	865 赵匡为	867	870 org:top_members_employees 1.7248509E7
+extraction: 赵匡为	867	870 宗教 研究 中心	859	865 org:top_members_employees.RE 4994921.0
+extraction: 座堂	181	183 纽约	170	172 per:origin 5.7223785E7
+extraction: 中国 基督教 协会	198	205 曹圣洁	207	210 org:top_members_employees 4.4471662E7
+extraction: 曹圣洁	207	210 中国 基督教 协会	198	205 org:top_members_employees.RE 3.2180447E7
+extraction: 美国 圣经 公会	508	514 保罗・欧文	516	521 org:top_members_employees 1.28065752E8
+extraction: 保罗・欧文	516	521 美国 圣经 公会	508	514 org:top_members_employees.RE 5.7338435E7
+extraction: 亚特 兰大	804	809 中国 基 督教 三 自 爱国 运动 委员会	777	792 org:parents.RE 1.8213952E7
+extraction: 中国 佛教 协会	669	675 传印	677	679 org:top_members_employees 1.50846589E8
+extraction: 中国 道教 协会	680	686 任法融	688	691 org:top_members_employees 1.50846589E8
+extraction: 中国 伊斯兰教 协会	692	700 陈广元	702	705 org:top_members_employees 1.50846589E8
+extraction: 香港 华人 基督教 联会	300	309 蒋坚永	292	295 per:schools_attended.RE 4.8278143E7
+extraction: 香港 民政 事务局	482	489 温兰子	503	506 per:schools_attended.RE 1.5262544E7
+extraction: 香港 民政 事务局	482	489 中央 政府	507	511 government.governmental_jurisdiction.government_bodies 1.5543182E7
+extraction: 中国 基督教 协会	167	174 曹圣洁	176	179 org:top_members_employees 6.8390921E7
+extraction: 美国	307	309 洛杉矶	310	313 location.location.contains 5.1797207E7
+extraction: 中国 基督教 协会	544	551 曹圣洁	553	556 org:top_members_employees 4.4471662E7
+extraction: 曹圣洁	553	556 中国 基督教 协会	544	551 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 基督教 协会	580	587 阚保平	590	593 per:employee_or_member_of.RE 8.2725262E7
+extraction: 贾庆林	161	164 英国	173	175 per:origin 7.6570659E7
+
+Filtered Extractions: 
+
+中国 基督教 协会	904	911 韩	913	914 org:top_members_employees 4.4471662E7
+中国 道教 协会	925	931 闵智亭	933	936 org:top_members_employees 4.4471662E7
+中国 伊 斯兰教 协会	937	946 陈广元	948	951 org:top_members_employees 3.4352058E8
+中国 佛教 协会	952	958 嘉木 样・洛	961	966 org:top_members_employees 1.4380605E7
+中国 基督教 协会	981	988 曹	991	992 org:top_members_employees 1.4380605E7
+中国 佛教 协会	962	968 赵朴初	970	973 org:top_members_employees 2.27634677E8
+中国 基督教 协会	1018	1025 韩文藻	1027	1030 org:top_members_employees 2.27634677E8
+中国 道教 协会	1072	1078 闵智亭	1080	1083 org:top_members_employees 2.27634677E8
+中国 佛教 协会	234	240 赵朴初	242	245 org:top_members_employees 2.11853796E8
+中国	346	348 法 律	363	366 location.location.adjoin 3.0945893E7
+中国 基督教 协会	641	648 韩文藻	650	653 org:top_members_employees 1.50846589E8
+中国 道教 协会	664	670 闵智亭	672	675 org:top_members_employees 1.50846589E8
+中国 伊斯兰 教 协会	676	685 陈广元	687	690 org:top_members_employees 1.73964009E8
+中国 基督教 协会	720	727 尼玛	714	716 per:schools_attended.RE 1.5262544E7
+中国 佛教 协会	279	285 赵朴初	287	290 org:top_members_employees 4.4471662E7
+中国 基督教 协会	326	333 丁光训	335	338 org:top_members_employees 4.4471662E7
+中国 道教 协会	405	411 黎遇航	413	416 org:top_members_employees 2.28388538E8
+中国 基督教 协会	187	194 曹圣洁	196	199 org:top_members_employees 1.28065752E8
+中国 佛教 协 会	189	196 赵朴初	198	201 org:top_members_employees 4.6000392E7
+中国 基督教 协会	709	717 韩文藻	719	722 org:top_members_employees 2.11853796E8
+中国 道教 协会	730	736 张	739	740 org:top_members_employees 1.4380605E7
+中国 基督教 协会	178	185 曹圣洁	187	190 org:top_members_employees 4.4471662E7
+中国 佛教 协会	313	319 嘉木	322	324 org:top_members_employees 1.4380605E7
+中国 佛教 协会	395	401 中国 佛教 协会	377	383 government.governmental_jurisdiction.government_bodies.RE 4.0728979E7
+中 国 道教 协会	827	834 任法融	836	839 org:top_members_employees 2.12607657E8
+中国 伊斯兰教 协会	840	848 陈广元	850	853 org:top_members_employees 2.12607657E8
+中国 国家 宗教 事务局	503	512 新加坡	516	519 organization.organization.place_founded 2.8499309E7
+中国 伊斯兰教	586	592 陈广元	594	597 org:top_members_employees 1.50846589E8
+中国 基督教 协会	383	390 曹圣洁	392	395 org:top_members_employees 4.4471662E7
+中国 基督教 协会	865	872 曹圣洁	874	877 org:top_members_employees 4.4471662E7
+中国	687	689 中国 佛教 协会	695	701 org:location_of_headquarters.RE 1.2645397E7
+中国	687	689 中国 伊 斯兰教 协会	702	711 org:location_of_headquarters.RE 1.2645397E7
+中国 基督教 协会	743	750 曹圣洁	752	755 org:top_members_employees 4.4471662E7
+中国 基督教 协会	207	214 曹圣洁	216	219 org:top_members_employees 4.4471662E7
+中国 伊斯兰教 协会	427	435 陈广元	437	440 org:top_members_employees 1.59760088E8
+中国 基督教 协会	161	168 曹圣洁	170	173 per:employee_or_member_of.RE 3.03308442E8
+中共 中央 统战部	408	415 全国 政协	400	404 org:parents 3.1290223E7
+中国 基督教 协会	143	150 丁光训	152	155 org:top_members_employees 4.4471662E7
+中国 基督教 协会	149	157 曹圣洁	159	162 org:top_members_employees 1.59760088E8
+中共 中央 政 治局 常委	158	168 北京	144	146 org:location_of_headquarters 4.4654219E7
+中国 道教 协会	1449	1455 任法融	1458	1461 org:top_members_employees 2.27634677E8
+中国 伊斯兰教 协会	1462	1470 陈广元	1472	1475 org:top_members_employees 2.27634677E8
+中国 基督教 协会	1854	1861 韩文藻	1863	1866 org:top_members_employees 2.27634677E8
+中国 伊斯兰教 协会	1909	1917 陈广元	1919	1922 org:top_members_employees 2.27634677E8
+中国 基督教 协会	1471	1478 韩文藻	1480	1483 org:top_members_employees 4.4471662E7
+中国 基督教 协会	292	299 丁光训	301	304 org:top_members_employees 2.11853796E8
+中国 伊斯兰教 协会	347	355 马贤	358	360 org:top_members_employees 1.0397016E7
+中国 基督教 协会	281	288 曹圣洁	290	293 org:top_members_employees 4.4471662E7
+中国 基督教 协会	1361	1368 曹圣洁	1371	1374 org:top_members_employees 1.28065752E8
+中国 基督教 协 会	866	874 曹圣洁	876	879 org:top_members_employees 4.4471662E7
+中国 基督教 协会	152	159 曹圣洁	161	164 org:top_members_employees 1.28065752E8
+中国 基督教 协会	445	452 中央 统战部	458	463 org:parents.RE 2.7918683E7
+中国 基督教 协会	445	452 国家 宗教局	471	476 org:parents.RE 1.7950058E7
+中国	685	687 回良玉	677	680 per:origin.RE 9549994.0
+中国 佛教 协会	280	286 全国 政协	272	276 org:parents 3.1290223E7
+中国 佛教 协会	984	990 赵朴初	993	996 org:top_members_employees 4.4471662E7
+中国 基督教 协会	1018	1025 韩文藻	1027	1030 org:top_members_employees 2.11853796E8
+中国	234	236 卡特	230	232 per:origin.RE 1.7394768E7
+中国 基督教 协会	658	665 曹圣洁	667	670 org:top_members_employees 4.4471662E7
+中国 基督教 协会	302	309 曹圣洁	312	315 org:top_members_employees 1.28065752E8
+中国	424	426 中国 基督徒	442	447 location.location.contains 2.0277108E7
+中国 基督徒	442	447 中国	424	426 location.location.contains.RE 2.8965785E7
+中国 浙江	351	355 张 万隆	356	360 per:origin.RE 7.6377906E7
+中国 基督教 协会	428	435 曹圣洁	437	440 org:top_members_employees 1.28065752E8
+中国 基督教 协会	57	64 曹圣洁	66	69 org:top_members_employees 1.28065752E8
+中国 基督教 协会	144	151 曹圣洁	153	156 org:top_members_employees 1.28065752E8
+中国 佛教 协会	624	630 嘉木	633	635 org:top_members_employees 2.15745422E8
+中国 伊斯兰教 协会	795	803 陈广元	805	808 org:top_members_employees 1.50846589E8
+中国 基督教 协会	709	716 曹圣洁	718	721 org:top_members_employees 1.59760088E8
+中国 佛 教 协会	793	800 学诚	803	805 org:top_members_employees 1.4380605E7
+中国 伊斯兰教 协会	474	482 陈广元	484	487 org:top_members_employees 1.59760088E8
+中国 伊斯兰教 协会	382	390 夏米西丁	393	397 org:top_members_employees 1.4380605E7
+中国 基督教 协会	441	448 韩文藻	450	453 org:top_members_employees 1.59760088E8
+中国 基督教 协会	198	205 曹圣洁	207	210 org:top_members_employees 4.4471662E7
+中国 佛教 协会	669	675 传印	677	679 org:top_members_employees 1.50846589E8
+中国 道教 协会	680	686 任法融	688	691 org:top_members_employees 1.50846589E8
+中国 伊斯兰教 协会	692	700 陈广元	702	705 org:top_members_employees 1.50846589E8
+中国 基督教 协会	167	174 曹圣洁	176	179 org:top_members_employees 6.8390921E7
+中国 基督教 协会	544	551 曹圣洁	553	556 org:top_members_employees 4.4471662E7
+中国 基督教 协会	580	587 阚保平	590	593 per:employee_or_member_of.RE 8.2725262E7
+
+SF14_CMN_TRAINING_032	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:city_of_headquarters	UWashington1	PDA_CMN_20070212.0157:144-168	北京	PDA_CMN_20070212.0157:144-146	4.4654219E7
+SF14_CMN_TRAINING_032	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20000905.0052:937-951	陈广元	XIN_CMN_20000905.0052:948-951	3.4352058E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19920128.0191:405-416	黎遇航	XIN_CMN_19920128.0191:413-416	2.28388538E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20000131.0042:1909-1922	陈广元	XIN_CMN_20000131.0042:1919-1922	2.27634677E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20000131.0042:1854-1866	韩文藻	XIN_CMN_20000131.0042:1863-1866	2.27634677E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	PDA_CMN_20070212.0157:1462-1475	陈广元	PDA_CMN_20070212.0157:1472-1475	2.27634677E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	PDA_CMN_20070212.0157:1449-1461	任法融	PDA_CMN_20070212.0157:1458-1461	2.27634677E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19990211.0055:1072-1083	闵智亭	XIN_CMN_19990211.0055:1080-1083	2.27634677E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19990211.0055:1018-1030	韩文藻	XIN_CMN_19990211.0055:1027-1030	2.27634677E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19990211.0055:962-973	赵朴初	XIN_CMN_19990211.0055:970-973	2.27634677E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	PDA_CMN_20100201.0348:624-635	嘉木	PDA_CMN_20100201.0348:633-635	2.15745422E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20100201.0228:840-853	陈广元	XIN_CMN_20100201.0228:850-853	2.12607657E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20100201.0228:827-839	任法融	XIN_CMN_20100201.0228:836-839	2.12607657E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19970130.0025:1018-1030	韩文藻	XIN_CMN_19970130.0025:1027-1030	2.11853796E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19960307.0039:292-304	丁光训	XIN_CMN_19960307.0039:301-304	2.11853796E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19990211.0032:709-722	韩文藻	XIN_CMN_19990211.0032:719-722	2.11853796E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19940129.0025:234-245	赵朴初	XIN_CMN_19940129.0025:242-245	2.11853796E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20000816.0081:676-690	陈广元	XIN_CMN_20000816.0081:687-690	1.73964009E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19970806.0067:441-453	韩文藻	XIN_CMN_19970806.0067:450-453	1.59760088E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20031224.0099:474-487	陈广元	XIN_CMN_20031224.0099:484-487	1.59760088E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20060613.0026:709-721	曹圣洁	XIN_CMN_20060613.0026:718-721	1.59760088E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20060418.0102:149-162	曹圣洁	XIN_CMN_20060418.0102:159-162	1.59760088E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20060522.0167:427-440	陈广元	XIN_CMN_20060522.0167:437-440	1.59760088E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	CNS_CMN_20100410.0332:692-705	陈广元	CNS_CMN_20100410.0332:702-705	1.50846589E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	CNS_CMN_20100410.0332:680-691	任法融	CNS_CMN_20100410.0332:688-691	1.50846589E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	CNS_CMN_20100410.0332:669-679	传印	CNS_CMN_20100410.0332:677-679	1.50846589E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	PDA_CMN_20100201.0348:795-808	陈广元	PDA_CMN_20100201.0348:805-808	1.50846589E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20091218.0122:586-597	陈广元	XIN_CMN_20091218.0122:594-597	1.50846589E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20000816.0081:664-675	闵智亭	XIN_CMN_20000816.0081:672-675	1.50846589E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20000816.0081:641-653	韩文藻	XIN_CMN_20000816.0081:650-653	1.50846589E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20040808.0096:144-156	曹圣洁	XIN_CMN_20040808.0096:153-156	1.28065752E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20040808.0096:57-69	曹圣洁	XIN_CMN_20040808.0096:66-69	1.28065752E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20070607.0174:428-440	曹圣洁	XIN_CMN_20070607.0174:437-440	1.28065752E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20070528.0056:302-315	曹圣洁	XIN_CMN_20070528.0056:312-315	1.28065752E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20040806.0256:152-164	曹圣洁	XIN_CMN_20040806.0256:161-164	1.28065752E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20070608.0165:1361-1374	曹圣洁	XIN_CMN_20070608.0165:1371-1374	1.28065752E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20060418.0072:187-199	曹圣洁	XIN_CMN_20060418.0072:196-199	1.28065752E8
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20070412.0249:167-179	曹圣洁	XIN_CMN_20070412.0249:176-179	6.8390921E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19990211.0032:189-201	赵朴初	XIN_CMN_19990211.0032:198-201	4.6000392E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20060418.0043:544-556	曹圣洁	XIN_CMN_20060418.0043:553-556	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20060606.0029:198-210	曹圣洁	XIN_CMN_20060606.0029:207-210	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20060520.0011:658-670	曹圣洁	XIN_CMN_20060520.0011:667-670	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19970130.0025:984-996	赵朴初	XIN_CMN_19970130.0025:993-996	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20070615.0007:866-879	曹圣洁	XIN_CMN_20070615.0007:876-879	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	PDA_CMN_20070614.0331:281-293	曹圣洁	PDA_CMN_20070614.0331:290-293	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19980207.0068:1471-1483	韩文藻	XIN_CMN_19980207.0068:1480-1483	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19930416.0206:143-155	丁光训	XIN_CMN_19930416.0206:152-155	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	PDA_CMN_20070413.0346:207-219	曹圣洁	PDA_CMN_20070413.0346:216-219	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20060520.0042:743-755	曹圣洁	XIN_CMN_20060520.0042:752-755	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	PDA_CMN_20070615.0293:865-877	曹圣洁	PDA_CMN_20070615.0293:874-877	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20060428.0030:383-395	曹圣洁	XIN_CMN_20060428.0030:392-395	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	PDA_CMN_20071014.0018:178-190	曹圣洁	PDA_CMN_20071014.0018:187-190	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19920128.0191:326-338	丁光训	XIN_CMN_19920128.0191:335-338	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19920128.0191:279-290	赵朴初	XIN_CMN_19920128.0191:287-290	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20000905.0052:925-936	闵智亭	XIN_CMN_20000905.0052:933-936	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20000905.0052:904-914	韩	XIN_CMN_20000905.0052:913-914	4.4471662E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19970806.0067:382-397	夏米西丁	XIN_CMN_19970806.0067:393-397	1.4380605E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20070615.0024:793-805	学诚	XIN_CMN_20070615.0024:803-805	1.4380605E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20100201.0228:313-324	嘉木	XIN_CMN_20100201.0228:322-324	1.4380605E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19990211.0032:730-740	张	XIN_CMN_19990211.0032:739-740	1.4380605E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20000905.0052:981-992	曹	XIN_CMN_20000905.0052:991-992	1.4380605E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_20000905.0052:952-966	嘉木 样・洛	XIN_CMN_20000905.0052:961-966	1.4380605E7
+SF14_CMN_TRAINING_032	org:top_members_employees	UWashington1	XIN_CMN_19960307.0039:347-360	马贤	XIN_CMN_19960307.0039:358-360	1.0397016E7
+SF14_CMN_TRAINING_032	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_032	org:stateorprovince_of_headquarters	UWashington1	NIL

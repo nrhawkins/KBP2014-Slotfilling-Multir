@@ -1,0 +1,301 @@
+王宁 PER
+Number of Documents: 429
+
+All Extractions: 
+
+extraction: 王宁	559	561 国家 体育 总局 登山 运动 管理 中心	565	579 per:employee_or_member_of 3.8552163E7
+extraction: 新疆	229	231 政府	216	218 org:location_of_headquarters.RE 2.1208304E7
+extraction: 常委会	192	195 欧广源	197	200 org:top_members_employees 1.7248509E7
+extraction: 欧广源	197	200 常委会	192	195 org:top_members_employees.RE 4994921.0
+extraction: 西城区	878	881 西城区	844	847 location.location.adjoin 5291539.0
+extraction: 莫大康	245	248 国际 半导体 设备 暨 材 料 协会	218	231 per:employee_or_member_of 2.3888497E7
+extraction: 朱颖	757	759 南联盟	772	775 people.person.place_of_birth 2.4954479E7
+extraction: 顾玉龙	777	780 南联盟	772	775 per:origin 2.7307979E7
+extraction: 黄华华	727	730 中共 广东 省委	740	746 per:schools_attended 1.1109811E7
+extraction: 中共 广东 省委	740	746 黄华华	727	730 per:schools_attended.RE 3447691.0
+extraction: 魏旋君	271	274 省委 信访局	286	291 per:schools_attended 1.9931236E7
+extraction: 省委 信访局	286	291 江西	277	279 org:location_of_headquarters 1.05522937E8
+extraction: 方明	418	420 中央 人民 广播 电台	423	431 per:schools_attended 4.7680705E7
+extraction: 中央 人民 广播 电台	423	431 方明	418	420 per:schools_attended.RE 4.2386905E7
+extraction: 神州 泰岳	498	502 王宁	505	507 per:employee_or_member_of.RE 2.24832964E8
+extraction: 广发 证券 投资 银行部	677	686 钮华明	689	692 organization.organization.board_members 3.3865506E7
+extraction: 钮华明	689	692 广发 证券 投资 银行部	677	686 per:employee_or_member_of 1.1073932E7
+extraction: 30% 特锐德	832	848 于德翔	851	854 per:employee_or_member_of.RE 1.84426255E8
+extraction: 方晓哺	1724	1727 四川 日报	1741	1745 org:top_members_employees.RE 1.725777E7
+extraction: 四川省	232	235 栾军	252	254 per:origin.RE 6.1039653E7
+extraction: 华中	282	284 西北	279	281 location.location.contains.RE 3936770.0
+extraction: 四川	285	287 西北	279	281 location.location.contains.RE 3936770.0
+extraction: 人事局	468	471 北京	464	466 org:location_of_headquarters 1.62880992E8
+extraction: 中组部	1553	1556 北京 市委 组织部	1570	1577 org:parents.RE 1.269118E7
+extraction: 北京 市委 组织部	1570	1577 中组部	1553	1556 org:parents 4.817558E7
+extraction: 东城区	1801	1804 刘晓晨	1807	1810 per:schools_attended.RE 9922.0
+extraction: 邓亚萍	2097	2100 团市委	2103	2106 per:employee_or_member_of 1.6766832E7
+extraction: 港澳台	58	61 香港	62	64 org:location_of_headquarters 4098926.0
+extraction: 香港	62	64 港澳台	58	61 org:location_of_headquarters.RE 3860688.0
+extraction: 国家 大剧院	70	75 港澳台	58	61 location.administrative_division.country 1.1736118E7
+extraction: 李健南	174	177 南京	153	155 per:origin 5.1192425E7
+extraction: 杨波	345	347 四川	342	344 per:origin 1.10087563E8
+extraction: 四川	383	385 杨波	386	388 per:origin.RE 4.1115303E7
+extraction: 杨波	386	388 四川	383	385 per:origin 5.2559815E7
+extraction: 赵法乔	393	396 青岛	390	392 per:origin 1.10087563E8
+extraction: 新华社	98	101 王宁	131	133 per:employee_or_member_of.RE 3.5710042E7
+extraction: 北京	140	142 农工党	120	123 org:member_of 3.5329289E7
+extraction: 中国 重汽 绵阳 专用 车 公司	160	171 中国 重汽 集团 绵阳 专用 车 有限 公司	191	206 organization.organization.acquisition.RE 5.0789521E7
+extraction: 中国 重汽 集团 绵阳 专用 车 有限 公司	191	206 中国 重汽 绵阳 专用 车 公司	160	171 organization.organization.acquisition 4.6740767E7
+extraction: 省 人大 常委会	234	240 刘奇葆	242	245 org:top_members_employees 1.7248509E7
+extraction: 刘奇葆	242	245 省 人大 常委会	234	240 org:top_members_employees.RE 4994921.0
+extraction: 中国 重汽 集团 党委	1116	1124 韦志海	1127	1130 per:schools_attended.RE 2.7313762E7
+extraction: 韦志海	1127	1130 中国 重汽 集团 党委	1116	1124 per:schools_attended 3.9038286E7
+extraction: 陈小川	194	197 广东省	133	136 per:origin 5.1497328E7
+extraction: 宋海	237	239 广东省	133	136 per:origin 5.7698556E7
+extraction: 张东升	192	195 四川省	133	136 per:origin 5.914195E7
+extraction: 黄彦蓉	238	241 四川省	133	136 per:origin 5.914195E7
+extraction: 张作哈	245	248 四川省	133	136 per:origin 5.914195E7
+extraction: 李	223	224 北京 信息 科技 大学	227	235 per:schools_attended 1.4715319E7
+extraction: 王宁霞	281	284 西南 科技 大学 法学院 应用 心理学 教研室	285	302 per:schools_attended 1.1109811E7
+extraction: 西南 科技 大学 法学院 应用 心理学 教研室	285	302 王宁霞	281	284 per:schools_attended.RE 3447691.0
+extraction: 中国 电子 商会	863	869 中国	872	874 org:location_of_headquarters 2.6229791E7
+extraction: 美国	1278	1280 美国 消费 电子 协会	1299	1307 org:location_of_headquarters.RE 3.7328383E7
+extraction: 美国 消费 电子 协会	1299	1307 美国	1278	1280 org:location_of_headquarters 2.7400878E7
+extraction: 神州 泰岳	265	269 李立	272	274 organization.organization.board_members 3.3865506E7
+extraction: 李立	272	274 神州 泰岳	265	269 per:employee_or_member_of 1.1073932E7
+extraction: 王宁生	306	309 广州 中医药 大学	296	303 org:top_members_employees.RE 7.7214679E7
+extraction: 俄罗斯	459	462 米尔	467	469 per:origin.RE 6.4306905E7
+extraction: 米尔	467	469 俄罗斯	459	462 per:origin 9.3898425E7
+extraction: IBM 集团	274	279 王宁	306	308 organization.organization.founders 8379967.0
+extraction: 成都 铁路局	349	354 四川省	331	334 org:location_of_headquarters 7.6921603E7
+extraction: 唐	191	192 湖南省	180	183 per:origin 2.0827219E7
+extraction: 姜峰	152	154 北京 西城区	162	167 per:origin 2.7885151E7
+extraction: 北京 西城区	162	167 姜峰	152	154 per:origin.RE 1.5144413E7
+extraction: 广东省 人大 常委会	1249	1257 黄乃钊	1245	1248 organization.organization.founders 1.1868705E7
+extraction: 上海	171	173 杨泉以	175	178 per:origin.RE 1.2987297E7
+extraction: 杨泉以	175	178 上海	171	173 per:origin 1.1718775E7
+extraction: 辽宁	209	211 张英宁	214	217 per:origin.RE 8.0897143E7
+extraction: 张英宁	214	217 辽宁	209	211 per:origin 8.4776614E7
+extraction: 辽宁	291	293 张英宁	295	298 per:origin.RE 1.2987297E7
+extraction: 张英宁	295	298 辽宁	291	293 per:origin 1.1718775E7
+extraction: 中国	353	355 高淑英	357	360 per:origin.RE 1.4838362E7
+extraction: 高淑英	357	360 中国	353	355 per:origin 2.2728698E7
+extraction: 王宁	686	688 福建	682	684 per:origin 7.1384014E7
+extraction: 童笑梅	695	698 浙江	691	693 per:origin 9.7496793E7
+extraction: 童笑梅	695	698 四川	713	715 per:origin 3.3366266E7
+extraction: 四川	713	715 尹华龙	717	720 per:origin.RE 1.2987297E7
+extraction: 尹华龙	717	720 四川	713	715 per:origin 1.1718775E7
+extraction: 庄文强	449	452 麦兆辉	445	448 per:origin.RE 6.2405841E7
+extraction: 陈畅	123	125 新华社	108	111 per:employee_or_member_of 1.6766832E7
+extraction: 马云	453	455 鲁伟鼎	460	463 people.person.spouse 27258.0
+extraction: 马云	453	455 王育莲	467	470 people.person.spouse 27258.0
+extraction: 江南春	456	459 王育莲	467	470 people.person.spouse 27258.0
+extraction: 鲁伟鼎	460	463 马云	453	455 people.person.spouse 27258.0
+extraction: 鲁伟鼎	460	463 王育莲	467	470 people.person.spouse 27258.0
+extraction: 王育莲	467	470 马云	453	455 people.person.spouse 27258.0
+extraction: 王育莲	467	470 江南春	456	459 people.person.spouse 27258.0
+extraction: 王育莲	467	470 鲁伟鼎	460	463 people.person.spouse 27258.0
+extraction: 徐成	1155	1157 日本 野村	1145	1149 per:origin 3.5394473E7
+extraction: 中国 农工 民主党	130	137 杨震	202	204 per:schools_attended.RE 4.3106887E7
+extraction: 陈宗兴 张大宁	166	172 刘晓峰 陈述涛	186	192 per:siblings 3.9220479E7
+extraction: 刘晓峰 陈述涛	186	192 陈宗兴 张大宁	166	172 per:siblings 3.1733613E7
+extraction: 杨震	202	204 何维	197	199 per:siblings 8797844.0
+extraction: 王宁	864	866 北京	870	872 per:origin 9590451.0
+extraction: 北京	870	872 王宁	864	866 per:origin.RE 9196842.0
+extraction: 东盟	630	632 中国	626	628 org:member_of.RE 5616787.0
+extraction: 焦暘	3642	3644 柴进	3655	3657 location.location.adjoin 2.5292699E7
+extraction: 陈明栋	3645	3648 焦暘	3642	3644 per:origin 749.0
+extraction: 成都 铁路局	278	283 四川省	260	263 org:location_of_headquarters 7.6921603E7
+extraction: 中国 作协	57	61 李太银	69	72 per:schools_attended.RE 1.1980094E7
+extraction: 李太银	69	72 中国 作协	57	61 per:schools_attended 1.9063188E7
+extraction: 青年 联合会	170	175 北京市	166	169 org:location_of_headquarters 2.18459426E8
+extraction: 人民 大学	611	615 澳门	620	622 location.administrative_division.country 5.1249353E7
+extraction: 北京	57	59 王宁	69	71 per:origin.RE 2.2726327E7
+extraction: 王宁	69	71 北京	57	59 per:origin 3.380161E7
+extraction: 北京 师范 大学	1098	1104 杨玉圣	1107	1110 per:schools_attended.RE 2.1987986E7
+extraction: 杨玉圣	1107	1110 北京 师范 大学	1098	1104 per:schools_attended 2.3585963E7
+extraction: 社会 科学 委员会 学风 建设 委员会	1674	1688 教育部	1667	1670 location.administrative_division.country 1.1736118E7
+extraction: null	137	140 null	1167	1170 per:schools_attended.RE 4.3106887E7
+extraction: 王忠军	944	947 王忠磊	948	951 per:siblings 2.8782827E7
+extraction: 本报讯	151	154 陈超	164	166 people.person.parents.RE 5.4764678E7
+extraction: 新疆	348	350 亚欧大陆	352	356 location.location.contains.RE 6656.0
+extraction: 霍尔果斯	861	865 开发区	867	870 location.location.contains 8.7818984E7
+extraction: 霍尔果斯	1526	1530 北疆	1542	1544 location.location.contains 1.9328787E7
+extraction: 欧广源	656	659 省 人大 常委会	648	654 organization.organization.founders.RE 5.6456931E7
+extraction: 亚太区	372	375 王宁国	377	380 per:schools_attended.RE 9922.0
+extraction: 环球 时报	502	506 王宁	480	482 per:schools_attended.RE 8.6850294E7
+extraction: 王宁利	247	250 北京 同仁 医院	238	244 org:top_members_employees.RE 1.09933732E8
+extraction: 成都	652	654 四川	649	651 location.location.contains.RE 3.35562012E8
+extraction: 广汉	658	660 广西 南宁	637	641 location.location.contains 2.8214184E7
+extraction: 广汉	658	660 成都	652	654 location.location.contains 2.8214184E7
+extraction: 黄丽满	199	202 省 人大 常委会	191	197 organization.organization.founders.RE 5.6456931E7
+extraction: 成都 铁路局	319	324 四川省	301	304 org:location_of_headquarters 7.6921603E7
+extraction: 贵州	584	586 王宁	587	589 per:origin.RE 4.9532957E7
+extraction: 王宁	587	589 贵州	584	586 per:origin 5.9935368E7
+extraction: 广东	175	177 孙	179	180 per:origin.RE 1.4838362E7
+extraction: 孙	179	180 广东	175	177 per:origin 2.2728698E7
+extraction: 广东	331	333 孙彩云	338	341 per:origin.RE 2.4487828E7
+extraction: 广州	405	407 钟桂清	409	412 per:origin.RE 7.4809057E7
+extraction: 钟桂清	409	412 广州	405	407 per:origin 8.2910556E7
+extraction: 上海	604	606 牛健	608	610 per:origin.RE 7.9205611E7
+extraction: 牛健	608	610 上海	604	606 per:origin 9.4405238E7
+extraction: 马北北	400	403 杨黎黎	394	397 per:siblings 8797844.0
+extraction: 广州	176	178 郭莹玉	186	189 per:origin.RE 4.2017937E7
+extraction: 郭莹玉	186	189 广州	176	178 per:origin 4.349355E7
+extraction: 喻京英	652	655 教育部	658	661 per:schools_attended 1.9903838E7
+extraction: 浙江省	586	589 新昌 中学	596	600 org:location_of_headquarters.RE 3.7328383E7
+extraction: 新昌 中学	596	600 浙江省	586	589 org:location_of_headquarters 2.7400878E7
+extraction: 阿里巴巴	591	595 马云	597	599 organization.organization.founders 2.4889713E7
+extraction: 马云	597	599 阿里巴巴	591	595 per:employee_or_member_of 2.1956681E7
+extraction: 王宁和	825	828 李力	835	837 people.person.parents.RE 2.1219036E7
+extraction: 李力	835	837 王宁和	825	828 people.person.parents 1.4949614E7
+extraction: 四川	634	636 王宁滨	675	678 per:origin.RE 9.2504624E7
+extraction: 王宁滨	675	678 四川	634	636 per:origin 9.1883766E7
+extraction: 中央 委员会	211	216 农工 民主党	203	208 org:parents 3.0837423E7
+extraction: 上海	795	797 淮海路	798	801 location.location.contains 4.4989069E7
+extraction: 淮海路	798	801 上海	795	797 location.location.contains.RE 5.1171811E7
+extraction: 农工 民主党	746	751 全国 政协	738	742 org:parents 3.4886222E7
+extraction: 蒲忠杰	692	695 张月娥	699	702 people.person.spouse 2.311615E7
+extraction: 马云	478	480 鲁伟鼎	485	488 people.person.spouse 27258.0
+extraction: 马云	478	480 王育莲	492	495 people.person.spouse 27258.0
+extraction: 江南春	481	484 王育莲	492	495 people.person.spouse 27258.0
+extraction: 鲁伟鼎	485	488 马云	478	480 people.person.spouse 27258.0
+extraction: 鲁伟鼎	485	488 王育莲	492	495 people.person.spouse 27258.0
+extraction: 王育莲	492	495 马云	478	480 people.person.spouse 27258.0
+extraction: 王育莲	492	495 江南春	481	484 people.person.spouse 27258.0
+extraction: 王育莲	492	495 鲁伟鼎	485	488 people.person.spouse 27258.0
+extraction: 王宁	575	577 张兰镇 党委	568	573 per:employee_or_member_of 1.6766832E7
+extraction: 欧广源	656	659 省 人大 常委会	648	654 organization.organization.founders.RE 5.6456931E7
+extraction: 蒲忠杰	692	695 张月娥	699	702 people.person.spouse 2.311615E7
+extraction: 巴黎	494	496 法国	504	506 location.location.contains.RE 3.8066426E7
+extraction: 关公	216	218 山西省 运城市	194	200 people.person.place_of_birth 1.8433895E7
+extraction: 194 苏宁 中共 四川 省委	376	398 王宁等	416	419 per:employee_or_member_of.RE 3.95425205E8
+extraction: 省 人大 常委会	401	407 刘奇葆	409	412 org:top_members_employees 1.7248509E7
+extraction: 省 人大 常委会	401	407 王宁等	416	419 per:employee_or_member_of.RE 3.95425205E8
+extraction: 刘奇葆	409	412 省 人大 常委会	401	407 org:top_members_employees.RE 4994921.0
+extraction: 宜宾	1123	1125 西南	1109	1111 location.location.contains.RE 1.2832674E7
+extraction: 王忠军	882	885 王忠磊	886	889 per:siblings 2.8782827E7
+extraction: 浙江省	507	510 新昌 中学	517	521 org:location_of_headquarters.RE 6.0920455E7
+extraction: 新昌 中学	517	521 浙江省	507	510 org:location_of_headquarters 5.2564425E7
+extraction: 蒲忠杰	546	549 张月娥	553	556 people.person.spouse 3.4018336E7
+extraction: 张月娥	553	556 蒲忠杰	546	549 people.person.spouse 3.2398476E7
+extraction: 张晓颖	406	409 西安队	412	415 organization.organization.founders.RE 1.5656384E7
+extraction: 西安队	412	415 张晓颖	406	409 organization.organization.founders 3855806.0
+extraction: 辽宁	670	672 傅胜军	675	678 per:origin.RE 1.4838362E7
+extraction: 傅胜军	675	678 辽宁	670	672 per:origin 2.2728698E7
+extraction: 西安	722	724 王宁滨	732	735 per:origin.RE 1.33469428E8
+extraction: 王宁滨	732	735 西安	722	724 per:origin 1.61950755E8
+extraction: 王宁滨	732	735 青岛	729	731 per:origin 1.0572381E8
+extraction: 广东	756	758 唐华	760	762 per:origin.RE 9.7809583E7
+extraction: 唐华	760	762 广东	756	758 per:origin 9.9351851E7
+extraction: 孙晓胜	118	121 陈思武	124	127 per:siblings 4.5607829E7
+extraction: 陈思武	124	127 孙晓胜	118	121 per:siblings 2.1556456E7
+extraction: 乔纳森・刘	180	185 英国	139	141 per:origin 3.7337449E7
+extraction: 南方 都市报	948	953 新浪网	957	960 org:location_of_headquarters 3778952.0
+extraction: 徐成	1159	1161 日本 野村	1149	1153 per:origin 3.5394473E7
+extraction: 南开 科技 大学	216	222 成嘉玲	225	228 per:employee_or_member_of.RE 1.84426255E8
+extraction: 王宁	594	596 全 国 人大	579	583 org:top_members_employees.RE 4.5857915E7
+extraction: 王宁	594	596 民建 山西 省委	586	592 org:top_members_employees.RE 4.5857915E7
+extraction: 袁隆平	221	224 邓则	227	229 people.person.spouse 2.648364E7
+extraction: 邓则	227	229 袁隆平	221	224 people.person.spouse 2.654466E7
+extraction: 台湾	549	551 龚鹏程	555	558 per:origin.RE 7.2024989E7
+extraction: 龚鹏程	555	558 台湾	549	551 per:origin 5.6483554E7
+extraction: 本报讯	155	158 陈云	172	174 people.person.parents.RE 5.2920822E7
+extraction: 杨建平	267	270 山西	264	266 per:origin 8.8967793E7
+extraction: 杨波以	435	438 四川	432	434 per:origin 8.1073561E7
+extraction: 河南	455	457 李智勇	458	461 per:origin.RE 9.1359078E7
+extraction: 李智勇	458	461 河南	455	457 per:origin 1.10963959E8
+extraction: 福建	401	403 陈秋斌	406	409 per:origin.RE 4.7622572E7
+extraction: 美国	319	321 小 歌星	324	327 org:location_of_headquarters.RE 4.9944706E7
+extraction: 亚洲	76	78 刘翔	81	83 per:schools_attended.RE 12060.0
+extraction: 山东	1022	1024 姜冰	1026	1028 per:origin.RE 7.8549823E7
+extraction: 姜冰	1026	1028 山东	1022	1024 per:origin 7.961375E7
+extraction: 福建	1067	1069 王宁明	1071	1074 per:origin.RE 6.3765143E7
+extraction: 王宁明	1071	1074 福建	1067	1069 per:origin 7.9978203E7
+extraction: 上海队	1204	1207 黄潇潇	1193	1196 people.person.parents 1.5438935E7
+extraction: 广西	1283	1285 浙江队	1294	1297 per:origin.RE 3.4658733E7
+extraction: 浙江队	1294	1297 广西	1283	1285 per:origin 4.1218016E7
+extraction: 内蒙古	1338	1341 王浩再	1343	1346 per:origin.RE 5.9333719E7
+extraction: 王浩再	1343	1346 内蒙古	1338	1341 per:origin 7.8566592E7
+extraction: 德国	458	460 巴赫	469	471 per:origin.RE 1.24251924E8
+extraction: 穆特·拉赫曼	495	501 德国	491	493 per:origin 2.5829033E7
+extraction: null	136	139 null	1082	1085 per:schools_attended.RE 4.3106887E7
+extraction: 中央 军委	125	129 澳大利亚 国防 部长	139	147 org:parents.RE 1.9349504E7
+extraction: 澳	823	824 陆克文	826	829 government.governmental_jurisdiction.governing_officials 3.9103269E7
+extraction: 陆克文	826	829 澳	823	824 government.governmental_jurisdiction.governing_officials.RE 5.4942081E7
+extraction: 广州	897	899 徐粉林	904	907 people.deceased_person.place_of_death.RE 1.8626389E7
+extraction: 徐粉林	904	907 广州	897	899 people.deceased_person.place_of_death 1.8807829E7
+extraction: 钱利华	961	964 王宁少	974	977 people.person.spouse 1.5376916E7
+extraction: 王宁少	974	977 钱利华	961	964 people.person.spouse 8853689.0
+extraction: 阿里巴巴	556	560 马云	562	564 organization.organization.founders 2.4889713E7
+extraction: 马云	562	564 阿里巴巴	556	560 per:employee_or_member_of 2.1956681E7
+extraction: 王宁和	790	793 李力	800	802 people.person.parents.RE 2.1219036E7
+extraction: 李力	800	802 王宁和	790	793 people.person.parents 1.4949614E7
+extraction: 王忠军	872	875 王忠磊	876	879 per:siblings 2.8782827E7
+extraction: 农工党	371	374 中央 经济 工作 会议	379	388 government.governmental_jurisdiction.government_bodies 2.030547E7
+extraction: 桑国卫	232	235 全 国 人大 常委会	212	219 organization.organization.founders.RE 5.8271256E7
+extraction: 政府	298	300 王	308	309 org:top_members_employees 1.1353344E7
+extraction: 纽约 星岛日报	534	540 旧金 山 星岛 日报 总 编辑 梁建锋	546	560 government.governmental_jurisdiction.government_bodies 1.5543182E7
+
+Filtered Extractions: 
+
+王宁	559	561 国家 体育 总局 登山 运动 管理 中心	565	579 per:employee_or_member_of 3.8552163E7
+王宁霞	281	284 西南 科技 大学 法学院 应用 心理学 教研室	285	302 per:schools_attended 1.1109811E7
+王宁生	306	309 广州 中医药 大学	296	303 org:top_members_employees.RE 7.7214679E7
+王宁	686	688 福建	682	684 per:origin 7.1384014E7
+王育莲	467	470 马云	453	455 people.person.spouse 27258.0
+王育莲	467	470 江南春	456	459 people.person.spouse 27258.0
+王育莲	467	470 鲁伟鼎	460	463 people.person.spouse 27258.0
+王宁	864	866 北京	870	872 per:origin 9590451.0
+王宁	69	71 北京	57	59 per:origin 3.380161E7
+王忠军	944	947 王忠磊	948	951 per:siblings 2.8782827E7
+王宁利	247	250 北京 同仁 医院	238	244 org:top_members_employees.RE 1.09933732E8
+王宁	587	589 贵州	584	586 per:origin 5.9935368E7
+王宁和	825	828 李力	835	837 people.person.parents.RE 2.1219036E7
+王宁滨	675	678 四川	634	636 per:origin 9.1883766E7
+王育莲	492	495 马云	478	480 people.person.spouse 27258.0
+王育莲	492	495 江南春	481	484 people.person.spouse 27258.0
+王育莲	492	495 鲁伟鼎	485	488 people.person.spouse 27258.0
+王宁	575	577 张兰镇 党委	568	573 per:employee_or_member_of 1.6766832E7
+王忠军	882	885 王忠磊	886	889 per:siblings 2.8782827E7
+王宁滨	732	735 西安	722	724 per:origin 1.61950755E8
+王宁滨	732	735 青岛	729	731 per:origin 1.0572381E8
+王宁	594	596 全 国 人大	579	583 org:top_members_employees.RE 4.5857915E7
+王宁	594	596 民建 山西 省委	586	592 org:top_members_employees.RE 4.5857915E7
+王宁明	1071	1074 福建	1067	1069 per:origin 7.9978203E7
+王浩再	1343	1346 内蒙古	1338	1341 per:origin 7.8566592E7
+王宁少	974	977 钱利华	961	964 people.person.spouse 8853689.0
+王宁和	790	793 李力	800	802 people.person.parents.RE 2.1219036E7
+王忠军	872	875 王忠磊	876	879 per:siblings 2.8782827E7
+
+SF14_CMN_TRAINING_026	per:spouse	UWashington1	XIN_CMN_20100514.0073:961-977	钱利华	XIN_CMN_20100514.0073:961-964	8853689.0
+SF14_CMN_TRAINING_026	per:spouse	UWashington1	CNS_CMN_20091014.0436:485-495	鲁伟鼎	CNS_CMN_20091014.0436:485-488	27258.0
+SF14_CMN_TRAINING_026	per:spouse	UWashington1	CNS_CMN_20091014.0436:481-495	江南春	CNS_CMN_20091014.0436:481-484	27258.0
+SF14_CMN_TRAINING_026	per:spouse	UWashington1	CNS_CMN_20091014.0436:478-495	马云	CNS_CMN_20091014.0436:478-480	27258.0
+SF14_CMN_TRAINING_026	per:spouse	UWashington1	CNS_CMN_20091019.0546:460-470	鲁伟鼎	CNS_CMN_20091019.0546:460-463	27258.0
+SF14_CMN_TRAINING_026	per:spouse	UWashington1	CNS_CMN_20091019.0546:456-470	江南春	CNS_CMN_20091019.0546:456-459	27258.0
+SF14_CMN_TRAINING_026	per:spouse	UWashington1	CNS_CMN_20091019.0546:453-470	马云	CNS_CMN_20091019.0546:453-455	27258.0
+SF14_CMN_TRAINING_026	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:origin	UWashington1	XIN_CMN_19990430.0042:722-735	西安	XIN_CMN_19990430.0042:722-724	1.61950755E8
+SF14_CMN_TRAINING_026	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:employee_or_member_of	UWashington1	XIN_CMN_20060418.0153:559-579	国家 体育 总局 登山 运动 管理 中心	XIN_CMN_20060418.0153:565-579	3.8552163E7
+SF14_CMN_TRAINING_026	per:employee_or_member_of	UWashington1	CNS_CMN_20091104.0108:568-577	张兰镇 党委	CNS_CMN_20091104.0108:568-573	1.6766832E7
+SF14_CMN_TRAINING_026	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:schools_attended	UWashington1	PDA_CMN_20100521.0286:281-302	西南 科技 大学 法学院 应用 心理学 教研室	PDA_CMN_20100521.0286:285-302	1.1109811E7
+SF14_CMN_TRAINING_026	per:parents	UWashington1	CNS_CMN_20090930.0324:790-802	李力	CNS_CMN_20090930.0324:800-802	2.1219036E7
+SF14_CMN_TRAINING_026	per:parents	UWashington1	PDA_CMN_20090930.0159:825-837	李力	PDA_CMN_20090930.0159:835-837	2.1219036E7
+SF14_CMN_TRAINING_026	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_026	per:siblings	UWashington1	PDA_CMN_20091102.0049:872-879	王忠磊	PDA_CMN_20091102.0049:876-879	2.8782827E7
+SF14_CMN_TRAINING_026	per:siblings	UWashington1	CNS_CMN_20091101.0099:882-889	王忠磊	CNS_CMN_20091101.0099:886-889	2.8782827E7
+SF14_CMN_TRAINING_026	per:siblings	UWashington1	PDA_CMN_20091101.0133:944-951	王忠磊	PDA_CMN_20091101.0133:948-951	2.8782827E7

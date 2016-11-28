@@ -1,0 +1,44 @@
+高秀敏 PER
+Number of Documents: 18
+
+All Extractions: 
+
+extraction: 国家 卫生部 疾控局	298	306 孔灵芝	309	312 per:employee_or_member_of.RE 4255105.0
+extraction: 江苏省 人民 医院 心脏科	423	433 曹克将	435	438 organization.organization.founders 3631374.0
+extraction: 中国 医师 协会	1449	1456 殷大奎	1458	1461 org:top_members_employees 1.28065752E8
+extraction: 殷大奎	1458	1461 中国 医师 协会	1449	1456 org:top_members_employees.RE 5.7338435E7
+extraction: 中	235	236 陈水扁	239	242 per:origin.RE 5.6803064E7
+extraction: 陈水扁	239	242 中	235	236 per:origin 5.6310619E7
+extraction: 杭州	257	259 中国	263	265 location.location.contains.RE 4066247.0
+extraction: 中国	263	265 杭州	257	259 location.location.contains 3785165.0
+extraction: 江苏省 人民 医院 心脏科	563	573 曹克将	575	578 org:top_members_employees 1.7248509E7
+extraction: 曹克将	575	578 江苏省 人民 医院 心脏科	563	573 org:top_members_employees.RE 4994921.0
+
+Filtered Extractions: 
+
+
+SF14_CMN_TRAINING_004	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:siblings	UWashington1	NIL

@@ -1,0 +1,35 @@
+林传凯 PER
+Number of Documents: 3
+
+All Extractions: 
+
+extraction: 蔡依林	182	185 林传凯	230	233 people.person.parents.RE 4.7279329E7
+
+Filtered Extractions: 
+
+
+SF14_CMN_TRAINING_024	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:siblings	UWashington1	NIL

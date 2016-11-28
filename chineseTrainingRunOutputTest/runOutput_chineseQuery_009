@@ -1,0 +1,50 @@
+世界福建青年联会 ORG
+Number of Documents: 9
+
+All Extractions: 
+
+extraction: 南美 侨报	166	170 巴西 福建	178	182 org:location_of_headquarters 1.5982413E7
+extraction: 巴西 福建	178	182 南美 侨报	166	170 org:location_of_headquarters.RE 1.9123486E7
+extraction: 世界 福建 青年 联会 巴西 分会	520	532 孙孝钦	534	537 org:top_members_employees 4.4471662E7
+extraction: 孙孝钦	534	537 世界 福建 青年 联会 巴西 分会	520	532 org:top_members_employees.RE 3.2180447E7
+extraction: 巴西	164	166 广东 同乡 总会	181	187 location.location.contains 1.9312613E7
+extraction: 巴西 广东 同乡 总会	348	356 陈荣	358	360 org:top_members_employees 4.4471662E7
+extraction: 陈荣	358	360 巴西 广东 同乡 总会	348	356 org:top_members_employees.RE 3.2180447E7
+extraction: 巴西	733	735 巴西 华人 工商 联合会	753	762 org:location_of_headquarters.RE 2.5504558E7
+extraction: 广东 同乡 总会	844	851 陈荣正	853	856 org:top_members_employees 1.50846589E8
+extraction: 中华 书法 学会	857	863 刘树德	865	868 org:top_members_employees 1.50846589E8
+extraction: 阿根廷	166	169 新 大陆 周刊	170	175 org:location_of_headquarters.RE 8.1873606E7
+extraction: 阿根廷 福州 十 邑 同乡会	344	355 严盛龙	357	360 org:top_members_employees 4.4471662E7
+extraction: 严盛龙	357	360 阿根廷 福州 十 邑 同乡会	344	355 org:top_members_employees.RE 3.2180447E7
+extraction: 阿根廷 华人 气功 协会	361	370 钱兰根	372	375 org:top_members_employees 3.3867872E7
+extraction: 钱兰根	372	375 阿根廷 华人 气功 协会	361	370 org:top_members_employees.RE 2.5583784E7
+extraction: 福建 同乡会	317	322 何安	324	326 org:top_members_employees 4.4471662E7
+extraction: 何安	324	326 福建 同乡会	317	322 org:top_members_employees.RE 3.2180447E7
+extraction: 巴西 福建 同乡会	465	472 何安	474	476 org:top_members_employees 1.28065752E8
+extraction: 何安	474	476 巴西 福建 同乡会	465	472 org:top_members_employees.RE 5.7338435E7
+extraction: 巴西	799	801 威廉巫	805	808 per:origin.RE 3502913.0
+extraction: 威廉巫	805	808 巴西	799	801 per:origin 1.1037132E7
+extraction: 巴西 华人 协会	809	815 吴耀宙	817	820 org:top_members_employees 1.28065752E8
+extraction: 吴耀宙	817	820 巴西 华人 协会	809	815 org:top_members_employees.RE 5.7338435E7
+extraction: 厦门 代表团	496	501 圣保罗	476	479 org:location_of_headquarters 4.4718195E7
+extraction: 福建 同乡 总会	511	518 石长荣	522	525 per:schools_attended.RE 2.3588123E7
+
+Filtered Extractions: 
+
+
+SF14_CMN_TRAINING_009	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:stateorprovince_of_headquarters	UWashington1	NIL

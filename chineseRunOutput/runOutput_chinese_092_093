@@ -1,0 +1,42 @@
+SF14_CMN_092	per:spouse	UWashington1	NIL
+SF14_CMN_092	per:religion	UWashington1	NIL
+SF14_CMN_092	per:city_of_death	UWashington1	NIL
+SF14_CMN_092	per:other_family	UWashington1	NIL
+SF14_CMN_092	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_092	per:country_of_death	UWashington1	NIL
+SF14_CMN_092	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_092	per:title	UWashington1	NIL
+SF14_CMN_092	per:children	UWashington1	NIL
+SF14_CMN_092	per:origin	UWashington1	GMW_CMN_20100506.0250:954-963	中国	GMW_CMN_20100506.0250:954-956	4.5740069E7
+SF14_CMN_092	per:city_of_birth	UWashington1	NIL
+SF14_CMN_092	per:date_of_death	UWashington1	NIL
+SF14_CMN_092	per:age	UWashington1	NIL
+SF14_CMN_092	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_092	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_092	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_092	per:cause_of_death	UWashington1	NIL
+SF14_CMN_092	per:alternate_names	UWashington1	NIL
+SF14_CMN_092	per:charges	UWashington1	NIL
+SF14_CMN_092	per:country_of_birth	UWashington1	NIL
+SF14_CMN_092	per:schools_attended	UWashington1	XIN_CMN_20101207.0255:157-179	中国 天府 可乐 集团 公司	XIN_CMN_20101207.0255:169-179	4.4089032E7
+SF14_CMN_092	per:schools_attended	UWashington1	CNS_CMN_20091029.0168:229-247	中国 文字 著作权 协会	CNS_CMN_20091029.0168:229-238	3.9038286E7
+SF14_CMN_092	per:parents	UWashington1	NIL
+SF14_CMN_092	per:date_of_birth	UWashington1	NIL
+SF14_CMN_092	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_092	per:siblings	UWashington1	NIL
+SF14_CMN_093	org:subsidiaries	UWashington1	NIL
+SF14_CMN_093	org:alternate_names	UWashington1	NIL
+SF14_CMN_093	org:date_founded	UWashington1	NIL
+SF14_CMN_093	org:website	UWashington1	NIL
+SF14_CMN_093	org:country_of_headquarters	UWashington1	CNS_CMN_20100203.0174:3676-3691	中国	CNS_CMN_20100203.0174:3676-3678	4.7159315E7
+SF14_CMN_093	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_093	org:date_dissolved	UWashington1	NIL
+SF14_CMN_093	org:founded_by	UWashington1	NIL
+SF14_CMN_093	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_093	org:shareholders	UWashington1	NIL
+SF14_CMN_093	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_093	org:member_of	UWashington1	NIL
+SF14_CMN_093	org:top_members_employees	UWashington1	CNS_CMN_20100113.0761:204-227	张洪波	CNS_CMN_20100113.0761:224-227	6.5095403E7
+SF14_CMN_093	org:parents	UWashington1	NIL
+SF14_CMN_093	org:members	UWashington1	NIL
+SF14_CMN_093	org:stateorprovince_of_headquarters	UWashington1	NIL

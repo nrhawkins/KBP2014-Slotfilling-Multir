@@ -1,0 +1,1117 @@
+郭全宝
+
+extraction: 新华社	97	100 秦杰	112	114 organization.organization.founders 5.3641012E7
+extraction: 郭全宝	68	71 中国	57	59 per:origin 5.9312295E7
+extraction: 新华社	95	98 丛亚平	110	113 org:top_members_employees 1.2897898E7
+extraction: 新华社	95	98 丛亚平	110	113 org:top_members_employees 1.2897898E7
+SF14_CMN_TRAINING_001	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_001	per:siblings	UWashington1	NIL
+云南省 职业经理人协会
+
+extraction: 新华社	97	100 李舒	112	114 org:top_members_employees 1.2897898E7
+extraction: 新华社	97	100 李舒	112	114 org:top_members_employees 1.2897898E7
+SF14_CMN_TRAINING_002	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_002	org:stateorprovince_of_headquarters	UWashington1	NIL
+卓琳
+
+extraction: 爱德华・希	1801	1806 英国	1796	1798 per:origin 4.0253741E7
+extraction: 周恩来	213	216 重庆	217	219 people.person.place_lived 29395.0
+extraction: 周恩来	213	216 重庆	217	219 people.person.place_lived 29395.0
+extraction: 周恩来	213	216 重庆	217	219 people.person.place_lived 29395.0
+extraction: 刘少奇	1058	1061 李富春	1066	1069 people.person.spouse 3898992.0
+extraction: 刘少奇	1058	1061 李富春	1066	1069 people.person.spouse 3898992.0
+extraction: 刘少奇	1058	1061 李富春	1066	1069 people.person.spouse 3898992.0
+extraction: 刘少奇	1058	1061 李富春	1066	1069 people.person.spouse 3898992.0
+extraction: 刘少奇	1058	1061 李富春	1066	1069 people.person.spouse 3898992.0
+extraction: 刘少奇	1058	1061 李富春	1066	1069 people.person.spouse 3898992.0
+extraction: 刘少奇	1058	1061 李富春	1066	1069 people.person.spouse 3898992.0
+extraction: 新华社	105	108 王思海	120	123 org:top_members_employees 1.2897898E7
+extraction: 新华社	105	108 王思海	120	123 org:top_members_employees 1.2897898E7
+extraction: 卓琳	1719	1721 北京 大学 物理系	1748	1755 per:schools_attended 2.0388372E7
+extraction: 江泽民	210	213 香港	222	224 people.person.parents 1.1711308E7
+extraction: 毛泽东	254	257 海口	179	181 per:origin 2.9501045E7
+extraction: 毛泽东	254	257 海口	179	181 per:origin 2.9501045E7
+extraction: 邓小平	306	309 卓琳	311	313 people.person.spouse 1.24160464E8
+extraction: 邓小平	306	309 卓琳	311	313 people.person.spouse 1.24160464E8
+extraction: 邓小平	306	309 卓琳	311	313 people.person.spouse 1.24160464E8
+extraction: 邓小平	306	309 卓琳	311	313 people.person.spouse 1.24160464E8
+extraction: 邓小平	162	165 卓琳	167	169 people.person.spouse 4.1662988E7
+extraction: 邓小平	840	843 卓琳	845	847 people.person.spouse 4.1662988E7
+extraction: 邓小平	497	500 卓琳	502	504 people.person.spouse 1.20504149E8
+extraction: 邓小平	497	500 卓琳	502	504 people.person.spouse 1.20504149E8
+extraction: 邓小平	497	500 卓琳	502	504 people.person.spouse 1.20504149E8
+extraction: 卓琳	548	550 香港	561	563 per:origin 8430190.0
+extraction: 卓琳	548	550 香港	561	563 per:origin 8430190.0
+extraction: 邓小平	208	211 卓琳	213	215 people.person.spouse 3.3371069E7
+extraction: 邓小平	208	211 卓琳	213	215 people.person.spouse 3.3371069E7
+extraction: 邓小平	208	211 卓琳	213	215 people.person.spouse 3.3371069E7
+extraction: 徐梦琪	451	454 中国	457	459 per:origin 1.7130011E7
+extraction: 新华社	102	105 张敏	117	119 org:top_members_employees 1.2897898E7
+extraction: 新华社	102	105 张敏	117	119 org:top_members_employees 1.2897898E7
+extraction: 新华社	178	181 李凯 邓小平	191	206 organization.organization.founders 5.7518806E7
+extraction: 新华社	178	181 李凯 邓小平	191	206 organization.organization.founders 5.7518806E7
+extraction: 范阿赫特	335	339 荷兰	331	333 per:origin 9.2568258E7
+extraction: 邓小平	780	783 邓楠 向邓	786	790 people.person.children 1.5032598E7
+extraction: 邓小平	780	783 邓楠 向邓	786	790 people.person.children 1.5032598E7
+extraction: 邓小平	780	783 邓楠 向邓	786	790 people.person.children 1.5032598E7
+extraction: 陈光标	162	165 卓琳	166	168 per:siblings 5.7284878E7
+extraction: 陈光标	162	165 卓琳	166	168 per:siblings 5.7284878E7
+extraction: 陈光标	162	165 卓琳	166	168 per:siblings 5.7284878E7
+extraction: 陈光标	162	165 卓琳	166	168 per:siblings 5.7284878E7
+extraction: 胡錦濤	189	192 鄧 小平 遺孀 卓琳 告別式	160	171 per:schools_attended 9621392.0
+extraction: 新华社	89	92 徐京跃	104	107 org:top_members_employees 1.2897898E7
+extraction: 周兆军 邓小平	214	230 卓琳	232	234 people.person.spouse 4.1672512E7
+extraction: 周兆军 邓小平	214	230 卓琳	232	234 people.person.spouse 4.1672512E7
+extraction: 平果 希望 小学	146	152 周标亮	155	158 org:top_members_employees 9211445.0
+extraction: 新华社	168	171 何平 刘思扬	173	179 org:top_members_employees 6.4123012E7
+extraction: 新华社	168	171 何平 刘思扬	173	179 org:top_members_employees 6.4123012E7
+extraction: 邓小平	807	810 卓琳	811	813 people.person.spouse 2.518588E7
+extraction: 邓小平	807	810 卓琳	811	813 people.person.spouse 2.518588E7
+extraction: 沙 西线 郫县 团结镇	768	776 长征 东方 赛车 俱乐部	781	790 org:subsidiaries 2.0449211E7
+extraction: 沙 西线 郫县 团结镇	768	776 长征 东方 赛车 俱乐部	781	790 org:subsidiaries 2.0449211E7
+extraction: 沙 西线 郫县 团结镇	768	776 长征 东方 赛车 俱乐部	781	790 org:subsidiaries 2.0449211E7
+extraction: 新华社	103	106 崔清新	119	122 org:top_members_employees 1.2897898E7
+extraction: 新华社	103	106 崔清新	119	122 org:top_members_employees 1.2897898E7
+extraction: 新华社	103	106 崔清新	119	122 org:top_members_employees 1.2897898E7
+extraction: 邓小平	173	176 卓琳	178	180 people.person.spouse 3.3371069E7
+extraction: 邓小平	173	176 卓琳	178	180 people.person.spouse 3.3371069E7
+extraction: 新华社	118	121 徐京跃	133	136 org:top_members_employees 1.2897898E7
+extraction: 邓小平	313	316 卓琳	319	321 people.person.spouse 1.5613774E7
+extraction: 邓小平	313	316 卓琳	319	321 people.person.spouse 1.5613774E7
+extraction: 苏州 共建 研究生院	147	155 西安 交通 大学 苏州 研究生院	260	272 org:parents 1.7160413E7
+extraction: 新华社	104	107 邱红杰	119	122 org:top_members_employees 1.2897898E7
+extraction: 新华社	104	107 邱红杰	119	122 org:top_members_employees 1.2897898E7
+extraction: 新华社	104	107 邱红杰	119	122 org:top_members_employees 1.2897898E7
+extraction: 邓小平	204	207 卓琳	210	212 people.person.spouse 1.9492003E7
+extraction: 邓小平	204	207 卓琳	210	212 people.person.spouse 1.9492003E7
+extraction: 邓小平	204	207 卓琳	210	212 people.person.spouse 1.9492003E7
+extraction: 黄智成	1060	1063 维多利亚湾	1044	1049 people.person.place_lived 2508.0
+extraction: 省委	241	243 省政府	311	314 org:parents 1.2414967E7
+extraction: 福田赳夫	277	281 日本	273	275 per:origin 9.6304937E7
+extraction: 福田赳夫	277	281 日本	273	275 per:origin 9.6304937E7
+extraction: 福田赳夫	277	281 日本	273	275 per:origin 9.6304937E7
+extraction: 福田赳夫	277	281 日本	273	275 per:origin 9.6304937E7
+extraction: 浦绍基	276	279 中共	280	282 per:origin 3398282.0
+extraction: 浦绍基	276	279 中共	280	282 per:origin 3398282.0
+SF14_CMN_TRAINING_003	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_003	per:siblings	UWashington1	NIL
+高秀敏
+
+extraction: 新华社	94	97 张颖	109	111 org:top_members_employees 1.2897898E7
+SF14_CMN_TRAINING_004	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_004	per:siblings	UWashington1	NIL
+洪一峰
+
+extraction: 台北	102	104 中央社	90	93 org:member_of 30051.0
+extraction: 高雄縣	1989	1992 小 林村 組合屋 活動 中心	1978	1988 per:schools_attended 3697731.0
+extraction: 新大學 管理 學院	2186	2193 世新 傳播資料庫	2165	2172 org:stateorprovince_of_headquarters 2.5316181E7
+extraction: 新大學 管理 學院	2186	2193 世新 傳播資料庫	2165	2172 org:stateorprovince_of_headquarters 2.5316181E7
+extraction: 行政 院长	162	166 台	160	161 org:location_of_headquarters 5.56564815E8
+extraction: 高雄縣	1989	1992 小 林村 組合屋 活動 中心	1978	1988 per:schools_attended 3697731.0
+extraction: 港澳台	58	61 台湾	62	64 org:city_of_headquarters 1.4861147E7
+extraction: 中央社	148	151 台湾	145	147 org:location_of_headquarters 1.860876E7
+extraction: 中时 电子报	180	185 台湾	176	178 org:location_of_headquarters 3.31053663E8
+extraction: 中时 电子报	180	185 台湾	176	178 org:location_of_headquarters 3.31053663E8
+extraction: 中时 电子报	180	185 台湾	176	178 org:location_of_headquarters 3.31053663E8
+extraction: 内政部	891	894 台湾	888	890 org:location_of_headquarters 1.860876E7
+extraction: 总统府	194	197 中新网	152	155 org:subsidiaries 1.7663084E7
+extraction: 平沼	468	470 中華民國	454	458 per:origin 4.584358E7
+extraction: 黃耀明	884	887 香港	880	882 per:origin 1.0696383E7
+extraction: 新大學 管理 學院	2186	2193 世新 傳播資料庫	2165	2172 org:stateorprovince_of_headquarters 2.5316181E7
+extraction: 新大學 管理 學院	2186	2193 世新 傳播資料庫	2165	2172 org:stateorprovince_of_headquarters 2.5316181E7
+extraction: 洪一峰兩	334	338 總統府 公共 事務 室主任 陳永豐說	275	289 per:schools_attended 1.5006805E7
+extraction: 蔡英文	507	510 行政院 長吳敦義	494	501 org:member_of 88850.0
+extraction: 蔡英文	507	510 行政院 長吳敦義	494	501 org:member_of 88850.0
+SF14_CMN_TRAINING_005	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_005	per:siblings	UWashington1	NIL
+华泰财产保险股份有限公司
+
+extraction: 新华社	95	98 毛晓梅	110	113 organization.organization.founders 5.3641012E7
+extraction: 新华社	95	98 毛晓梅	110	113 organization.organization.founders 5.3641012E7
+extraction: 郭为	1275	1277 上海	1278	1280 people.person.place_of_birth 3.1032623E7
+extraction: 新华社	102	105 钱春弦	117	120 org:top_members_employees 1.2897898E7
+extraction: 新华社	98	101 钱春弦	113	116 org:top_members_employees 1.2897898E7
+extraction: 上海 证券报	1393	1398 办法 》 对 保险 集团 公司	1400	1410 org:subsidiaries 1.1916832E7
+extraction: 李	1170	1171 平安 保险 公司 安排 北京 分公司	1146	1159 org:member_of 88850.0
+extraction: 李	1170	1171 平安 保险 公司 安排 北京 分公司	1146	1159 org:member_of 88850.0
+extraction: 新华社	104	107 钱春弦	119	122 org:top_members_employees 1.2897898E7
+SF14_CMN_TRAINING_006	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:stateorprovince_of_headquarters	UWashington1	NIL
+武衡
+
+extraction: 国防 工业 大学	355	361 新 中国	349	352 org:location_of_headquarters 3.26710099E8
+extraction: 国防 工业 大学	355	361 新 中国	349	352 org:location_of_headquarters 3.26710099E8
+extraction: 国防 工业 大学	355	361 新 中国	349	352 org:location_of_headquarters 3.26710099E8
+extraction: 国防 工业 大学	355	361 新 中国	349	352 org:location_of_headquarters 3.26710099E8
+extraction: 新华社	95	98 王世焕	111	114 org:top_members_employees 1.2897898E7
+extraction: 张志军	250	253 旅顺	239	241 per:origin 6.217546E7
+extraction: 徐特立	162	165 延安 聚会	155	159 org:member_of 44425.0
+extraction: 张光斗	1429	1432 党 中央	1462	1465 per:employee_or_member_of 6150565.0
+extraction: 张光斗	1429	1432 党 中央	1462	1465 per:employee_or_member_of 6150565.0
+extraction: 张光斗	1429	1432 党 中央	1462	1465 per:employee_or_member_of 6150565.0
+extraction: 张光斗	1429	1432 党 中央	1462	1465 per:employee_or_member_of 6150565.0
+extraction: 新华社	92	95 卓培荣	107	110 org:top_members_employees 1.2897898E7
+extraction: 新华社	92	95 卓培荣	107	110 org:top_members_employees 1.2897898E7
+extraction: 中国 发明 协会	267	273 武衡	275	277 organization.organization.founders 6.1488509E7
+extraction: 新华社	110	113 张玉英	126	129 org:top_members_employees 1.2897898E7
+extraction: 新华社	110	113 张玉英	126	129 org:top_members_employees 1.2897898E7
+extraction: 新华社	110	113 张玉英	126	129 org:top_members_employees 1.2897898E7
+extraction: 新华社	97	100 杨焕勤	113	116 org:top_members_employees 1.2897898E7
+extraction: 铁道部 电 化局 电磁 兼容 设计院	139	153 北京	156	158 org:location_of_headquarters 2.1436888E7
+extraction: 铁道部 电 化局 电磁 兼容 设计院	139	153 北京	156	158 org:location_of_headquarters 2.1436888E7
+extraction: 新华社	96	99 李斌	111	113 org:top_members_employees 1.2897898E7
+extraction: 新华社	96	99 李斌	111	113 org:top_members_employees 1.2897898E7
+extraction: 新华社	96	99 李斌	111	113 org:top_members_employees 1.2897898E7
+extraction: 新华社	96	99 李斌	111	113 org:top_members_employees 1.2897898E7
+extraction: 新华社	93	96 张继民	108	111 org:top_members_employees 1.2897898E7
+extraction: 中国 发明 协会	269	275 武衡	277	279 organization.organization.founders 6.1488509E7
+extraction: 新华社	86	89 李晓建	101	104 organization.organization.founders 5.3641012E7
+extraction: 新华社	97	100 张景勇	112	115 org:top_members_employees 1.2897898E7
+SF14_CMN_TRAINING_007	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:siblings	UWashington1	NIL
+英国华人青年联会
+
+extraction: 日本 新 华侨 华人 联合会	400	410 李国夫	412	415 org:top_members_employees 1.5149002E7
+extraction: 日本 新 华侨 华人 联合会	400	410 李国夫	412	415 org:top_members_employees 1.5149002E7
+extraction: 日本 新 华侨 华人 联合会	400	410 李国夫	412	415 org:top_members_employees 1.5149002E7
+extraction: 日本 新 华侨 华人 联合会	400	410 李国夫	412	415 org:top_members_employees 1.5149002E7
+extraction: 英国 华人 青年 联会	156	164 港	146	147 org:location_of_headquarters 5.0036169E7
+extraction: 湖北 同乡会	1089	1094 柯松轩	1096	1099 org:top_members_employees 4.4242387E7
+extraction: 湖北 同乡会	1089	1094 柯松轩	1096	1099 org:top_members_employees 4.4242387E7
+extraction: 湖北 同乡会	1089	1094 柯松轩	1096	1099 org:top_members_employees 4.4242387E7
+SF14_CMN_TRAINING_008	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_008	org:stateorprovince_of_headquarters	UWashington1	NIL
+世界福建青年联会
+
+extraction: 世界 福建 青年 联会 巴西 分会	520	532 孙孝钦	534	537 org:top_members_employees 1.5149002E7
+extraction: 世界 福建 青年 联会 巴西 分会	520	532 孙孝钦	534	537 org:top_members_employees 1.5149002E7
+extraction: 广东 同乡 总会	181	187 中国	190	192 org:country_of_headquarters 1.7946595E7
+extraction: 广东 同乡 总会	181	187 中国	190	192 org:country_of_headquarters 1.7946595E7
+extraction: 广东 同乡 总会	181	187 中国	190	192 org:country_of_headquarters 1.7946595E7
+extraction: 广东 同乡 总会	181	187 中国	190	192 org:country_of_headquarters 1.7946595E7
+extraction: 广东 同乡 总会	181	187 中国	190	192 org:country_of_headquarters 1.7946595E7
+extraction: 集美 大学	144	148 福清	151	153 org:country_of_headquarters 1.7946595E7
+extraction: 阿根廷 华人 华侨 联合 总会	327	338 钱兰根	372	375 organization.organization.founders 5.8753713E7
+extraction: 阿根廷 华人 华侨 联合 总会	327	338 钱兰根	372	375 organization.organization.founders 5.8753713E7
+extraction: 阿根廷 华人 华侨 联合 总会	327	338 钱兰根	372	375 organization.organization.founders 5.8753713E7
+extraction: 阿根廷 华人 华侨 联合 总会	327	338 钱兰根	372	375 organization.organization.founders 5.8753713E7
+extraction: 阿根廷 华人 华侨 联合 总会	327	338 钱兰根	372	375 organization.organization.founders 5.8753713E7
+extraction: 新华社	97	100 胡苏	111	113 org:top_members_employees 1.2897898E7
+extraction: 威廉巫	228	231 巴西	222	224 per:origin 6.6641261E7
+extraction: 威廉巫	228	231 巴西	222	224 per:origin 6.6641261E7
+extraction: 威廉巫	228	231 巴西	222	224 per:origin 6.6641261E7
+extraction: 威廉巫	228	231 巴西	222	224 per:origin 6.6641261E7
+extraction: 厦门 代表团	496	501 圣保罗	476	479 org:country_of_headquarters 6.3260897E7
+SF14_CMN_TRAINING_009	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:stateorprovince_of_headquarters	UWashington1	NIL
+陈妙华
+
+SF14_CMN_TRAINING_010	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:siblings	UWashington1	NIL
+中国摄影家协会
+
+extraction: 湖南省 摄影家 协会	796	804 湖南省	790	793 org:location_of_headquarters 1.20684667E8
+extraction: 佩尔•伏尔廓孜	233	240 美国	222	224 per:origin 3.4057571E7
+extraction: 佩尔•伏尔廓孜	233	240 美国	222	224 per:origin 3.4057571E7
+extraction: 佩尔•伏尔廓孜	233	240 美国	222	224 per:origin 3.4057571E7
+extraction: 佩尔•伏尔廓孜	233	240 美国	222	224 per:origin 3.4057571E7
+extraction: 新华社	94	97 周玮	109	111 org:top_members_employees 1.2897898E7
+extraction: 新华社	102	105 曲志红	117	120 org:top_members_employees 1.2897898E7
+extraction: 毛岸青	1651	1654 邵华	1657	1659 people.person.spouse 3.3743536E7
+extraction: 毛岸青	1651	1654 邵华	1657	1659 people.person.spouse 3.3743536E7
+extraction: 毛岸青	1651	1654 邵华	1657	1659 people.person.spouse 3.3743536E7
+extraction: 毛岸青	1651	1654 邵华	1657	1659 people.person.spouse 3.3743536E7
+extraction: 毛岸青	1651	1654 邵华	1657	1659 people.person.spouse 3.3743536E7
+extraction: 毛岸青	1651	1654 邵华	1657	1659 people.person.spouse 3.3743536E7
+extraction: 毛岸青	1651	1654 邵华	1657	1659 people.person.spouse 3.3743536E7
+extraction: 新华社	106	109 刘黎	121	123 org:top_members_employees 1.2897898E7
+extraction: 新华社	98	101 德吉	113	115 org:top_members_employees 1.2897898E7
+extraction: ADK 株式会社 摄影 部	490	501 日本	485	487 org:location_of_headquarters 1124374.0
+extraction: 新华社	99	102 林红梅	115	118 org:top_members_employees 1.2897898E7
+extraction: 中国 文联	291	295 amp	303	306 org:parents 4843295.0
+extraction: 中国 文联	291	295 amp	303	306 org:parents 4843295.0
+extraction: 中国 文联	291	295 amp	303	306 org:parents 4843295.0
+extraction: 新华社	102	105 刘钢	117	119 org:top_members_employees 1.2897898E7
+extraction: 新华社	102	105 刘钢	117	119 org:top_members_employees 1.2897898E7
+extraction: 邵华	298	300 毛泽东	301	304 people.person.place_of_birth 4710971.0
+extraction: 新华社	102	105 刘钢	117	119 org:top_members_employees 1.2897898E7
+extraction: 毛泽东	638	641 毛岸青	678	681 people.person.children 1.4460596E7
+extraction: 毛泽东	638	641 毛岸青	678	681 people.person.children 1.4460596E7
+extraction: 毛泽东	638	641 毛岸青	678	681 people.person.children 1.4460596E7
+extraction: 毛泽东	638	641 毛岸青	678	681 people.person.children 1.4460596E7
+extraction: 毛泽东	638	641 毛岸青	678	681 people.person.children 1.4460596E7
+extraction: 毛泽东	638	641 毛岸青	678	681 people.person.children 1.4460596E7
+extraction: 毛泽东	638	641 毛岸青	678	681 people.person.children 1.4460596E7
+extraction: 毛泽东	638	641 毛岸青	678	681 people.person.children 1.4460596E7
+extraction: 毛泽东	638	641 毛岸青	678	681 people.person.children 1.4460596E7
+extraction: 毛泽东	638	641 毛岸青	678	681 people.person.children 1.4460596E7
+extraction: 毛泽东	638	641 毛岸青	678	681 people.person.children 1.4460596E7
+extraction: 新华社	105	108 彭川平	119	122 org:top_members_employees 1.2897898E7
+extraction: 新华社	105	108 彭川平	119	122 org:top_members_employees 1.2897898E7
+extraction: 新华社	101	104 王凡凡	117	120 org:top_members_employees 1.2897898E7
+extraction: 毛岸青	57	60 邵华	62	64 people.person.spouse 1.20504149E8
+extraction: 毛岸青	57	60 邵华	62	64 people.person.spouse 1.20504149E8
+extraction: 毛岸青	57	60 邵华	62	64 people.person.spouse 1.20504149E8
+extraction: 全国 政协	558	562 钱运录	569	572 org:top_members_employees 3.1844727E7
+extraction: 中国 摄影家 协会	680	688 李前光	695	698 org:top_members_employees 1.35274871E8
+extraction: 中国 摄影家 协会	680	688 李前光	695	698 org:top_members_employees 1.35274871E8
+extraction: 毛新宇	280	283 邵华	275	277 people.person.parents 1.8045029E7
+extraction: 新华社	108	111 陈威华	123	126 org:top_members_employees 1.2897898E7
+extraction: 新华社	108	111 陈威华	123	126 org:top_members_employees 1.2897898E7
+extraction: 京	117	118 新华社	130	133 org:member_of 33948.0
+extraction: 贵州省 少儿 艺术 委员会	267	278 贵阳市	248	251 org:location_of_headquarters 1.36633132E8
+extraction: 贵州省 少儿 艺术 委员会	267	278 贵阳市	248	251 org:location_of_headquarters 1.36633132E8
+extraction: 北美 中文网	175	180 明报	203	205 org:parents 2.6625478E7
+extraction: 北美 中文网	175	180 明报	203	205 org:parents 2.6625478E7
+extraction: 中俄 友协	242	246 陈昊苏	248	251 org:top_members_employees 1.5149002E7
+extraction: 中俄 友协	242	246 陈昊苏	248	251 org:top_members_employees 1.5149002E7
+extraction: 孙	282	283 宋庆龄	285	288 people.person.spouse 3.3371069E7
+extraction: 孙	282	283 宋庆龄	285	288 people.person.spouse 3.3371069E7
+extraction: 郎琦	713	715 吉林省	699	702 per:origin 5.2960414E7
+extraction: 毛岸青	479	482 杨开慧	472	475 people.person.parents 1.3076521E7
+extraction: 中国 摄影家 协会	610	617 中国 摄影 金像奖 组委会	621	631 org:subsidiaries 1.1916832E7
+extraction: 新华社	105	108 丁若亭	120	123 org:top_members_employees 1.2897898E7
+extraction: 新华社	99	102 陈淑萍	115	118 org:top_members_employees 1.2897898E7
+extraction: 新华社	91	94 朱治德	107	110 org:top_members_employees 1.2897898E7
+extraction: 广 联 实业 有限 公司	197	206 陕西	216	218 org:location_of_headquarters 1.169646345E9
+extraction: 广 联 实业 有限 公司	197	206 陕西	216	218 org:location_of_headquarters 1.169646345E9
+extraction: 平遥 国际 摄影节	367	374 法	380	381 org:members 1.503481E7
+extraction: 平遥 国际 摄影节	367	374 法	380	381 org:members 1.503481E7
+extraction: 平遥 国际 摄影节	367	374 法	380	381 org:members 1.503481E7
+extraction: 平遥 国际 摄影节	367	374 法	380	381 org:members 1.503481E7
+extraction: 平遥 国际 摄影节	367	374 法	380	381 org:members 1.503481E7
+extraction: 新华社	95	98 孙玉波	110	113 org:top_members_employees 1.2897898E7
+extraction: 中央 军委	256	260 总政治部	263	267 org:parents 3790167.0
+extraction: 中央 军委	256	260 总政治部	263	267 org:parents 3790167.0
+extraction: 毛 岸青	362	366 邵华	357	359 people.person.place_lived 9974041.0
+extraction: 新华社	101	104 杜斌	117	119 org:top_members_employees 1.2897898E7
+extraction: 中国 摄影家 协会	156	163 中国 摄影 金像奖 组委会	167	177 org:subsidiaries 1.1916832E7
+extraction: 福建 摄影家 协会	291	298 中国 摄影家 协会	239	246 org:parents 3.1712927E7
+extraction: 福建 摄影家 协会	291	298 中国 摄影家 协会	239	246 org:parents 3.1712927E7
+extraction: 欧阳星凯	946	950 长沙	951	953 people.person.place_of_birth 3868619.0
+extraction: 欧阳星凯	946	950 长沙	951	953 people.person.place_of_birth 3868619.0
+extraction: 新华社	103	106 谭旭	118	120 org:top_members_employees 1.2897898E7
+extraction: 新华社	103	106 谭旭	118	120 org:top_members_employees 1.2897898E7
+extraction: 海部	675	677 日本	670	672 per:origin 9.9749788E7
+extraction: 人民 日报	190	195 中国 新闻 摄影 学会 学术部	200	211 org:subsidiaries 1.0313919E7
+extraction: 人民 日报	190	195 中国 新闻 摄影 学会 学术部	200	211 org:subsidiaries 1.0313919E7
+extraction: 新华社	92	95 冯源	107	109 org:top_members_employees 1.2897898E7
+extraction: 新华社	102	105 贺劲松	117	120 org:top_members_employees 1.2897898E7
+extraction: 新华社	102	105 贺劲松	117	120 org:top_members_employees 1.2897898E7
+extraction: 中国 文联	277	281 amp	289	292 org:parents 4843295.0
+extraction: 中国 文联	277	281 amp	289	292 org:parents 4843295.0
+extraction: 中国 文联	277	281 amp	289	292 org:parents 4843295.0
+extraction: 大理州 人民 政府	448	455 云南省	434	437 org:location_of_headquarters 1.20684667E8
+extraction: 新华社	98	101 吴巍	110	112 org:top_members_employees 1.2897898E7
+extraction: 中国 摄影 著作权 协会	712	721 国务院	706	709 org:location_of_headquarters 7916501.0
+extraction: 新华社	103	106 佟丹	119	121 org:top_members_employees 1.2897898E7
+extraction: 新华社	103	106 佟丹	119	121 org:top_members_employees 1.2897898E7
+extraction: 中国 摄影 著作权 协会	776	785 国务院	770	773 org:location_of_headquarters 7916501.0
+extraction: 新华社	97	100 李建敏	111	114 org:top_members_employees 1.2897898E7
+extraction: 冯学敏	269	272 日	273	274 people.person.place_lived 29395.0
+extraction: 冯学敏	269	272 日	273	274 people.person.place_lived 29395.0
+extraction: 朱哲琴	2669	2672 中国	2657	2659 per:origin 5.9312295E7
+extraction: 新华社	103	106 孙晓胜	119	122 organization.organization.founders 5.3641012E7
+extraction: 人大 政协	2479	2483 大庆	2470	2472 org:members 5.7383876E7
+extraction: 港澳台	58	61 香港	62	64 org:city_of_headquarters 1.4861147E7
+extraction: 中国 摄影家 协会	803	810 浙江省	792	795 org:location_of_headquarters 2.4387366E7
+extraction: 中国 摄影家 协会	148	155 中国 摄影 金像奖 组委会	159	169 org:subsidiaries 1.1916832E7
+extraction: 阿克斯	425	428 索马里	420	423 per:origin 7469601.0
+extraction: 新华社	105	108 谭晶晶	120	123 org:top_members_employees 1.2897898E7
+extraction: 邵华	148	150 毛泽东	142	145 per:siblings 5012308.0
+extraction: 邵华	148	150 毛泽东	142	145 per:siblings 5012308.0
+extraction: 邵华	148	150 毛泽东	142	145 per:siblings 5012308.0
+extraction: 邵华	148	150 毛泽东	142	145 per:siblings 5012308.0
+extraction: 中国 摄影家 协会	2889	2896 世界 华人 摄影 学会	2902	2910 org:subsidiaries 1.0313919E7
+extraction: 中国 摄影家 协会	2889	2896 世界 华人 摄影 学会	2902	2910 org:subsidiaries 1.0313919E7
+extraction: 吴兆祥	477	480 最高 人民 法院 研究室	481	490 per:origin 3398282.0
+extraction: 吴兆祥	477	480 最高 人民 法院 研究室	481	490 per:origin 3398282.0
+extraction: 新华社	97	100 曲志红	112	115 org:top_members_employees 1.2897898E7
+extraction: 美术 学院	266	270 共青团 中央	225	230 org:member_of 2.4949427E7
+extraction: 新华社	95	98 崔俐莎	110	113 org:top_members_employees 1.2897898E7
+extraction: 新华社	91	94 徐发兴	106	109 org:top_members_employees 1.2897898E7
+extraction: 新华社	91	94 徐发兴	106	109 org:top_members_employees 1.2897898E7
+extraction: 新华社	101	104 车玉明	116	119 org:top_members_employees 1.2897898E7
+extraction: 新华社	101	104 车玉明	116	119 org:top_members_employees 1.2897898E7
+extraction: 新华社	101	104 车玉明	116	119 org:top_members_employees 1.2897898E7
+extraction: 中央 军委	218	222 总政治部	225	229 org:parents 3790167.0
+extraction: 中央 军委	218	222 总政治部	225	229 org:parents 3790167.0
+extraction: 新华社	104	107 朱振国	120	123 org:top_members_employees 1.2897898E7
+extraction: 新华社	101	104 何大隆	115	118 org:top_members_employees 1.2897898E7
+extraction: 中国 艺术 摄影 学会	360	368 刘雷	370	372 org:top_members_employees 1.1226594E7
+extraction: 新华社	90	93 赵长春	106	109 org:top_members_employees 1.2897898E7
+extraction: 新华社	90	93 赵长春	106	109 org:top_members_employees 1.2897898E7
+extraction: 政协	229	231 中国	225	227 org:location_of_headquarters 2.73979461E8
+extraction: 政协	229	231 中国	225	227 org:location_of_headquarters 2.73979461E8
+extraction: 新华社	119	122 顾瑞珍于春生	131	137 org:top_members_employees 1.2897898E7
+extraction: 任世琛	1917	1920 兰州	1908	1910 per:origin 6.2094816E7
+extraction: 毛泽东	366	369 毛 岸青	371	375 people.person.children 3.8411052E7
+extraction: 毛泽东	366	369 毛 岸青	371	375 people.person.children 3.8411052E7
+extraction: 毛泽东	366	369 毛 岸青	371	375 people.person.children 3.8411052E7
+extraction: 毛泽东	366	369 毛 岸青	371	375 people.person.children 3.8411052E7
+extraction: 新华社	98	101 张焕利	112	115 org:top_members_employees 1.2897898E7
+extraction: 新华社	98	101 张焕利	112	115 org:top_members_employees 1.2897898E7
+extraction: 张伯苓	642	645 美国	608	610 per:origin 7.6592108E7
+extraction: 托特	198	200 罗马尼亚 摄影家 协会	116	125 per:schools_attended 1.4939431E7
+extraction: 新华社	102	105 曲志红	117	120 org:top_members_employees 1.2897898E7
+extraction: 中国 戏剧家 协 会	516	524 中国 摄影家 协会	533	540 org:subsidiaries 1.2372349E7
+extraction: 中国 戏剧家 协 会	516	524 中国 摄影家 协会	533	540 org:subsidiaries 1.2372349E7
+extraction: 中国 戏剧家 协 会	516	524 中国 摄影家 协会	533	540 org:subsidiaries 1.2372349E7
+extraction: 新华社	103	106 张永青	117	120 org:top_members_employees 1.2897898E7
+extraction: 贵州省 少儿 艺术 委员会	179	189 贵阳市	159	162 org:location_of_headquarters 1.36633132E8
+extraction: 新华社	106	109 潘小珠	121	124 org:top_members_employees 1.2897898E7
+extraction: 新华社	106	109 潘小珠	121	124 org:top_members_employees 1.2897898E7
+extraction: ADK 株式会社	391	398 日本	386	388 org:location_of_headquarters 4.03423659E8
+extraction: ADK 株式会社	391	398 日本	386	388 org:location_of_headquarters 4.03423659E8
+extraction: 邵华	325	327 新宇	390	392 per:employee_or_member_of 9991704.0
+extraction: 邵华	325	327 新宇	390	392 per:employee_or_member_of 9991704.0
+extraction: 新华社	98	101 李光茹	113	116 org:top_members_employees 1.2897898E7
+extraction: 陕西省 摄影家 协会	158	166 中国 摄 影家 协会	187	195 org:member_of 6731194.0
+extraction: 新华社	103	106 张严平	119	122 org:top_members_employees 1.2897898E7
+extraction: 日本 尼康 公司	509	515 日本	502	504 org:country_of_headquarters 1.6713952E7
+extraction: 新华社	96	99 邵建武	111	114 org:top_members_employees 1.2897898E7
+extraction: 新华社	96	99 邵建武	111	114 org:top_members_employees 1.2897898E7
+extraction: 新华社	91	94 钞文	106	108 org:top_members_employees 1.2897898E7
+extraction: 澳洲	700	702 香港 文学 艺术界 联合会	687	697 org:member_of 28172.0
+extraction: 澳洲	700	702 香港 文学 艺术界 联合会	687	697 org:member_of 28172.0
+extraction: 崔新华	236	239 中国 文联	173	177 per:schools_attended 2.5983916E7
+extraction: 李锐	959	961 山西	955	957 per:origin 1.26235662E8
+extraction: 新华社	98	101 黄彩虹	113	116 org:top_members_employees 1.2897898E7
+extraction: 中国 摄影家 协会	154	161 中国 摄影 金像奖 组委会	167	177 org:subsidiaries 1.1916832E7
+extraction: 新华社	96	99 蒋鹏	112	114 org:top_members_employees 1.2897898E7
+extraction: 中国 摄影家 协会	844	851 浙江省	833	836 org:location_of_headquarters 2.4387366E7
+extraction: 新华社	102	105 李努尔	117	120 organization.organization.founders 5.3641012E7
+extraction: 中国 摄影 金像奖 组委会	121	131 新华社	101	104 org:parents 1.0628481E7
+extraction: 中国 摄影 金像奖 组委会	121	131 新华社	101	104 org:parents 1.0628481E7
+extraction: 政协	199	201 中国	195	197 org:location_of_headquarters 2.55644633E8
+extraction: 政协	199	201 中国	195	197 org:location_of_headquarters 2.55644633E8
+extraction: 政协	199	201 中国	195	197 org:location_of_headquarters 2.55644633E8
+extraction: 政协	199	201 中国	195	197 org:location_of_headquarters 2.55644633E8
+extraction: 新华社	91	94 邢静	107	109 organization.organization.founders 5.3641012E7
+extraction: 光明 日报	120	124 吴晶晶	115	118 organization.organization.founders 3159567.0
+extraction: 光明 日报	120	124 吴晶晶	115	118 organization.organization.founders 3159567.0
+extraction: 光明 日报	120	124 吴晶晶	115	118 organization.organization.founders 3159567.0
+extraction: 光明 日报	120	124 吴晶晶	115	118 organization.organization.founders 3159567.0
+extraction: 西藏 自治区 党委 宣传部	157	167 中国 西藏	182	186 org:location_of_headquarters 2.9265117E7
+extraction: 朱庆华	271	274 杨东旭	263	266 people.person.spouse 2.5182254E7
+extraction: 朱庆华	271	274 杨东旭	263	266 people.person.spouse 2.5182254E7
+extraction: 新华社	101	104 吕诺	116	118 org:top_members_employees 1.2897898E7
+extraction: 新华社	101	104 吕诺	116	118 org:top_members_employees 1.2897898E7
+extraction: 新华社	101	104 吕诺	116	118 org:top_members_employees 1.2897898E7
+extraction: 新华社	101	104 吕诺	116	118 org:top_members_employees 1.2897898E7
+extraction: 俄	247	248 中国 驻 俄罗斯 大使馆	225	234 org:member_of 5073.0
+extraction: 全国 政协	354	358 刘大为	379	382 org:top_members_employees 1.8946829E7
+extraction: 全国 政协	354	358 刘大为	379	382 org:top_members_employees 1.8946829E7
+SF14_CMN_TRAINING_011	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_011	org:stateorprovince_of_headquarters	UWashington1	NIL
+厦门市职业经理人协会
+
+extraction: 台湾 中小 企业 经理人 协会	352	363 台湾	375	377 org:location_of_headquarters 2.551618E7
+extraction: 台湾 中小 企业 经理人 协会	352	363 台湾	375	377 org:location_of_headquarters 2.551618E7
+SF14_CMN_TRAINING_012	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:stateorprovince_of_headquarters	UWashington1	NIL
+徐子淇
+
+extraction: 子淇 同时 代表 智行 基金会	229	241 智行 基金会	188	193 org:parents 3.2117077E7
+extraction: 成都 商报	2810	2814 四川省 妇幼 保健院	2819	2827 org:members 9874186.0
+extraction: 成都 商报	2810	2814 四川省 妇幼 保健院	2819	2827 org:members 9874186.0
+extraction: 军中 人权 促进会	385	392 黄妈妈	394	397 org:top_members_employees 1.7274262E7
+extraction: 军中 人权 促进会	385	392 黄妈妈	394	397 org:top_members_employees 1.7274262E7
+extraction: 李家杰	420	423 李兆基	415	418 people.person.parents 3.8412452E7
+extraction: 李家杰	420	423 李兆基	415	418 people.person.parents 3.8412452E7
+extraction: 梁洛施	758	761 李泽楷	766	769 people.person.children 8436171.0
+extraction: 长春 市政府	201	206 朱彤顺	223	226 org:top_members_employees 7.6236848E7
+extraction: 李兆基	467	470 徐子淇	461	464 people.person.parents 1.3076521E7
+extraction: 徐子淇	455	458 仁安 医院	462	466 per:schools_attended 1.876798E7
+extraction: 李家诚	857	860 澳洲	862	864 people.deceased_person.place_of_death 2.7019184E7
+extraction: 徐子淇	149	152 香港	145	147 per:origin 5764588.0
+extraction: 徐子淇	149	152 香港	145	147 per:origin 5764588.0
+extraction: 东方 日报	271	275 香港	268	270 org:location_of_headquarters 5.58675863E8
+extraction: 道教 协会	791	795 任法融代	797	801 org:top_members_employees 1.5149002E7
+extraction: 道教 协会	791	795 任法融代	797	801 org:top_members_employees 1.5149002E7
+SF14_CMN_TRAINING_013	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_013	per:siblings	UWashington1	NIL
+秦厚修
+
+extraction: 马英九	264	267 周美青	269	272 people.person.spouse 1.16576128E8
+extraction: 马英九	264	267 周美青	269	272 people.person.spouse 1.16576128E8
+extraction: 中广 新闻网	167	172 台湾	164	166 org:location_of_headquarters 2.5863037E7
+extraction: 中央社	468	471 台湾	465	467 org:location_of_headquarters 1.860876E7
+extraction: 马英九	524	527 马鹤凌	530	533 people.person.parents 2.1341119E7
+extraction: 马英九	524	527 马鹤凌	530	533 people.person.parents 2.1341119E7
+extraction: 国民党	157	160 台北	132	134 org:location_of_headquarters 2.5157632E7
+extraction: 监察院	461	464 台湾	458	460 org:location_of_headquarters 1.860876E7
+extraction: 陈水扁 吕秀莲	210	216 马英九	219	222 per:other_family 9004641.0
+extraction: 陈水扁 吕秀莲	210	216 马英九	219	222 per:other_family 9004641.0
+extraction: 陈水扁 吕秀莲	210	216 马英九	219	222 per:other_family 9004641.0
+extraction: 蔡绍中	473	476 旺旺 中时 集团	464	470 per:employee_or_member_of 3933650.0
+extraction: 中央社	147	150 台湾	144	146 org:location_of_headquarters 1.860876E7
+extraction: 马秀如	509	512 马振聪	515	518 people.person.parents 2.0428035E7
+extraction: 马秀如	509	512 马振聪	515	518 people.person.parents 2.0428035E7
+SF14_CMN_TRAINING_014	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_014	per:siblings	UWashington1	NIL
+王梓木
+
+extraction: 新华社	96	99 汪洪洋	112	115 org:top_members_employees 1.2897898E7
+extraction: 新华社	96	99 汪洪洋	112	115 org:top_members_employees 1.2897898E7
+extraction: 郭为	1275	1277 上海	1278	1280 people.person.place_of_birth 3.1032623E7
+extraction: 新华社	101	104 李安定	116	119 org:top_members_employees 1.2897898E7
+extraction: 新华社	102	105 钱春弦	117	120 org:top_members_employees 1.2897898E7
+extraction: 新华社	109	112 刘诗平	123	126 org:top_members_employees 1.2897898E7
+extraction: 市 人大	207	210 北京	213	215 org:members 2.5178569E7
+extraction: 市 人大	207	210 北京	213	215 org:members 2.5178569E7
+extraction: 市 人大	207	210 北京	213	215 org:members 2.5178569E7
+extraction: 市 人大	207	210 北京	213	215 org:members 2.5178569E7
+extraction: 缪建民	1598	1601 中国 人寿 资产 管理 公司	1585	1595 per:employee_or_member_of 6.9737385E7
+SF14_CMN_TRAINING_015	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:siblings	UWashington1	NIL
+海峡两岸医药卫生交流协会
+
+extraction: 海峡 两 岸 医药 卫生 交流 协会 心血管 专业 委员会	156	176 厦门	181	183 organization.organization.founders 1.5463016E7
+extraction: 李钟熙	432	435 台湾 财团 法人 生物 技术 开发 中心	415	429 per:employee_or_member_of 6.9737385E7
+extraction: 新华社	100	103 冯秀菊	114	117 org:top_members_employees 1.2897898E7
+extraction: 海西 地区	643	647 台湾	636	638 per:origin 1877.0
+extraction: 海西 地区	762	766 台湾	755	757 per:origin 1877.0
+SF14_CMN_TRAINING_016	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:stateorprovince_of_headquarters	UWashington1	NIL
+香港教育工作者联会
+
+extraction: 香港 教育 工作者 联会	132	141 杨	143	144 org:top_members_employees 2.4293617E7
+extraction: 香港 教统局	434	439 黄鸿超	444	447 org:top_members_employees 9.5507053E7
+extraction: 香港 教统局	434	439 黄鸿超	444	447 org:top_members_employees 9.5507053E7
+extraction: 新华社	92	95 何自力	106	109 org:top_members_employees 1.2897898E7
+extraction: 新华社	92	95 何自力	106	109 org:top_members_employees 1.2897898E7
+extraction: 新华社	92	95 何自力	106	109 org:top_members_employees 1.2897898E7
+extraction: 香港 教 联会	222	227 杨耀忠	229	232 org:top_members_employees 1.5149002E7
+extraction: 香港 教 联会	222	227 杨耀忠	229	232 org:top_members_employees 1.5149002E7
+extraction: 新华社	101	104 孙承斌	117	120 org:top_members_employees 1.2897898E7
+extraction: 新华社	101	104 孙承斌	117	120 org:top_members_employees 1.2897898E7
+extraction: 金利 来 有 限 公司	303	311 亚视 董事局	348	353 org:parents 1.6371431E7
+extraction: 港澳台	58	61 香港	62	64 org:city_of_headquarters 1.4861147E7
+extraction: 港澳台	58	61 香港	62	64 org:city_of_headquarters 1.4861147E7
+extraction: 新华社	98	101 李恒娟	113	116 org:top_members_employees 1.2897898E7
+extraction: 新华社	98	101 李海堂	113	116 org:top_members_employees 1.2897898E7
+extraction: 港 联盟	1120	1123 香港	1115	1117 org:location_of_headquarters 1.655629E7
+extraction: 港 联盟	1120	1123 香港	1115	1117 org:location_of_headquarters 1.655629E7
+extraction: 新华社	104	107 李海堂	119	122 org:top_members_employees 1.2897898E7
+extraction: 新界	263	265 香港	247	249 per:origin 1877.0
+extraction: 新华社	108	111 罗政	121	123 org:top_members_employees 1.2897898E7
+extraction: 新华社	94	97 叶奇元	109	112 org:top_members_employees 1.2897898E7
+extraction: 新华社	97	100 杨丽萍	114	117 org:top_members_employees 1.2897898E7
+extraction: 薛永兴	435	438 香港	326	328 per:origin 7.2050722E7
+extraction: 教 联会	277	280 杨耀忠	282	285 org:top_members_employees 1.5149002E7
+extraction: 教 联会	277	280 杨耀忠	282	285 org:top_members_employees 1.5149002E7
+extraction: 梁振英	312	315 香港 特区	301	305 people.person.place_of_birth 1.4310671E7
+extraction: 新华社	105	108 许雪毅	120	123 org:top_members_employees 1.2897898E7
+extraction: 新华社	93	96 梁金雄	108	111 org:top_members_employees 1.2897898E7
+extraction: 新华社	93	96 梁金雄	108	111 org:top_members_employees 1.2897898E7
+extraction: 新华社	93	96 梁金雄	108	111 org:top_members_employees 1.2897898E7
+extraction: 新华社	94	97 何自力	109	112 org:top_members_employees 1.2897898E7
+extraction: 杨耀忠	461	464 英国	499	501 per:origin 5.4652005E7
+extraction: 新华社	94	97 胡晓梦	110	113 org:top_members_employees 1.2897898E7
+extraction: 新华社	94	97 胡晓梦	110	113 org:top_members_employees 1.2897898E7
+extraction: 新华社	106	109 朱华颖	120	123 org:top_members_employees 1.2897898E7
+extraction: 董建	223	225 香港 特区	215	219 people.person.place_lived 3397085.0
+extraction: 澳门 中华 教育会	364	371 台湾 明道 高级 中学	379	387 org:subsidiaries 1.0313919E7
+extraction: 澳门 中华 教育会	364	371 台湾 明道 高级 中学	379	387 org:subsidiaries 1.0313919E7
+extraction: 新华社	99	102 杨丽萍	115	118 org:top_members_employees 1.2897898E7
+extraction: 港岛 东区	273	277 汉华 中学	278	282 org:member_of 603.0
+extraction: 新华社	108	111 李少山	122	125 org:top_members_employees 1.2897898E7
+extraction: 新华社	108	111 李少山	122	125 org:top_members_employees 1.2897898E7
+extraction: 教 联会	259	262 杨耀忠	264	267 org:top_members_employees 1.5149002E7
+extraction: 教 联会	259	262 杨耀忠	264	267 org:top_members_employees 1.5149002E7
+extraction: 新华社	104	107 何自力	119	122 org:top_members_employees 1.2897898E7
+extraction: 新华社	104	107 何自力	119	122 org:top_members_employees 1.2897898E7
+extraction: 基督教 协进会	645	651 香港	636	638 org:location_of_headquarters 1.4829983E7
+extraction: 新华社	100	103 罗政	116	118 org:top_members_employees 1.2897898E7
+extraction: 新华社	100	103 罗政	116	118 org:top_members_employees 1.2897898E7
+extraction: 新华社	100	103 罗政	116	118 org:top_members_employees 1.2897898E7
+extraction: 新华社	97	100 叶奇元	111	114 org:top_members_employees 1.2897898E7
+extraction: 新华社	103	106 徐波	116	118 org:top_members_employees 1.2897898E7
+extraction: 新华社	106	109 孙承斌	120	123 org:top_members_employees 1.2897898E7
+extraction: 新华社	106	109 孙承斌	120	123 org:top_members_employees 1.2897898E7
+extraction: 新华社	106	109 孙承斌	120	123 org:top_members_employees 1.2897898E7
+extraction: 国民 教育 系列 学习 交流团	133	145 香港	156	158 org:location_of_headquarters 1.8613047E7
+extraction: 国民 教育 系列 学习 交流团	133	145 香港	156	158 org:location_of_headquarters 1.8613047E7
+extraction: 新华社	102	105 李凯	116	118 org:top_members_employees 1.2897898E7
+extraction: 新华社	102	105 李凯	116	118 org:top_members_employees 1.2897898E7
+extraction: 新华社	102	105 李凯	116	118 org:top_members_employees 1.2897898E7
+extraction: 新华社	94	97 杨丽萍	109	112 org:top_members_employees 1.2897898E7
+extraction: 李福善	900	903 香港	904	906 people.person.place_of_birth 470593.0
+extraction: 新华社	111	114 刘刚	125	127 org:top_members_employees 1.2897898E7
+SF14_CMN_TRAINING_017	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_017	org:stateorprovince_of_headquarters	UWashington1	NIL
+周南中学
+
+extraction: 恒丰 纱厂	2440	2444 沪	2437	2438 org:location_of_headquarters 7.6017327E7
+extraction: 共产党	1003	1006 周恩来	993	996 organization.organization.founders 526526.0
+extraction: 马英九	524	527 马鹤凌	530	533 people.person.parents 2.1341119E7
+extraction: 马英九	524	527 马鹤凌	530	533 people.person.parents 2.1341119E7
+extraction: 张莹	170	172 教育局	183	186 org:member_of 88850.0
+SF14_CMN_TRAINING_018	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_018	org:stateorprovince_of_headquarters	UWashington1	NIL
+敬一丹
+
+extraction: 中央 电视台	168	173 白岩松	174	177 organization.organization.founders 7614829.0
+extraction: 孝感 学院	409	413 湖北	428	430 org:location_of_headquarters 2.6804686E7
+extraction: 孝感 学院	438	442 湖北	457	459 org:location_of_headquarters 2.6804686E7
+extraction: 林依轮	813	816 沈傲君	807	810 people.person.spouse 3.4339065E7
+extraction: 林依轮	822	825 沈傲君	816	819 people.person.spouse 3.4339065E7
+extraction: 郭为	1275	1277 上海	1278	1280 people.person.place_of_birth 3.1032623E7
+extraction: 中科院	1033	1036 北京 师范 大学	1015	1021 org:subsidiaries 3653041.0
+extraction: 陈若菊	1094	1097 周令钊	1090	1093 people.person.spouse 5.076799E7
+extraction: 陈若菊	1094	1097 周令钊	1090	1093 people.person.spouse 5.076799E7
+extraction: 北京 大学	434	438 汤一介	444	447 org:top_members_employees 5.966127E7
+extraction: 樊馨蔓	268	271 樊馨蔓	284	287 per:other_family 9004641.0
+SF14_CMN_TRAINING_019	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_019	per:siblings	UWashington1	NIL
+肖毅
+
+extraction: 道教 文化 促进会	347	354 李军	344	346 organization.organization.founders 1.017496E7
+extraction: 道教 文化 促进会	347	354 李军	344	346 organization.organization.founders 1.017496E7
+extraction: 道教 文化 促进会	347	354 李军	344	346 organization.organization.founders 1.017496E7
+extraction: 飞虎队 ” 协会	303	309 迪克罗	311	314 org:top_members_employees 1.5149002E7
+extraction: 飞虎队 ” 协会	303	309 迪克罗	311	314 org:top_members_employees 1.5149002E7
+extraction: 林依轮	813	816 沈傲君	807	810 people.person.spouse 3.4339065E7
+extraction: 通领 科技 集团	361	367 美国	382	384 org:location_of_headquarters 2.1608389E7
+extraction: 通领 科技 集团	361	367 美国	382	384 org:location_of_headquarters 2.1608389E7
+extraction: 林依轮	822	825 沈傲君	816	819 people.person.spouse 3.4339065E7
+extraction: 北碚区 保护 道教 文化 促进会	720	732 李军	717	719 organization.organization.founders 3901153.0
+extraction: 国民 政府	320	324 日本	313	315 org:location_of_headquarters 5.6755504E7
+extraction: 东莞	551	553 山东 烟台	554	558 org:members 73.0
+extraction: 曾华国	123	126 刘健	117	119 per:siblings 2.7273224E7
+extraction: 新华社	93	96 姜微	107	109 org:top_members_employees 1.2897898E7
+extraction: 沈菁	122	124 徐金鹏	115	118 per:siblings 2.7273224E7
+extraction: 民盟 中央	1339	1343 中国 人民 大学 市场 营销 研究 中心	1346	1360 org:parents 3790167.0
+extraction: 民盟 中央	1339	1343 中国 人民 大学 市场 营销 研究 中心	1346	1360 org:parents 3790167.0
+extraction: 南亚	869	871 印度	857	859 per:origin 1877.0
+extraction: 南亚	869	871 印度	857	859 per:origin 1877.0
+extraction: 骆宪炳	684	687 湖南 湘天 地产	675	681 per:employee_or_member_of 3933650.0
+SF14_CMN_TRAINING_020	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_020	per:siblings	UWashington1	NIL
+李修平
+
+extraction: 深圳 广播 电影 电视 集团	429	439 北京	418	420 org:location_of_headquarters 8.8347191E7
+extraction: 張春賢	673	676 李	679	680 people.person.spouse 1.5481334E7
+extraction: 張春賢	673	676 李	679	680 people.person.spouse 1.5481334E7
+SF14_CMN_TRAINING_021	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_021	per:siblings	UWashington1	NIL
+朱剑凡
+
+extraction: 恒丰 纱厂	2440	2444 沪	2437	2438 org:location_of_headquarters 7.6017327E7
+extraction: 洪庚飏	585	588 日本	589	591 people.person.place_lived 29395.0
+extraction: 王稼祥	431	434 朱仲丽	437	440 people.person.spouse 1.9492003E7
+extraction: 王稼祥	431	434 朱仲丽	437	440 people.person.spouse 1.9492003E7
+extraction: 王稼祥	431	434 朱仲丽	437	440 people.person.spouse 1.9492003E7
+extraction: 马英九	524	527 马鹤凌	530	533 people.person.parents 2.1341119E7
+extraction: 马英九	524	527 马鹤凌	530	533 people.person.parents 2.1341119E7
+SF14_CMN_TRAINING_022	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_022	per:siblings	UWashington1	NIL
+闽台经济合作促进委员会
+
+extraction: 港澳台	58	61 台 港 澳	68	71 org:stateorprovince_of_headquarters 2.145765E7
+extraction: 港澳台	58	61 台 港 澳	68	71 org:stateorprovince_of_headquarters 2.145765E7
+extraction: 台湾 统安 旅行社	1345	1352 台湾	1366	1368 org:location_of_headquarters 2.9185492E7
+extraction: 台湾 友达 光电 公 司	1302	1311 厦门	1313	1315 org:country_of_headquarters 2.1472045E7
+extraction: 新华社	105	108 王凡凡	121	124 org:top_members_employees 1.2897898E7
+extraction: 新华社	105	108 王凡凡	121	124 org:top_members_employees 1.2897898E7
+extraction: 黄小晶	168	171 海峡 西岸	178	182 people.person.place_lived 2508.0
+extraction: 海峡 西岸 经济区	154	161 闽 台 经 济 合作 促进会	172	182 per:schools_attended 1187822.0
+SF14_CMN_TRAINING_023	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_023	org:stateorprovince_of_headquarters	UWashington1	NIL
+林传凯
+
+extraction: 林传凯	230	233 蔡依林	157	160 people.person.children 1.4947626E7
+SF14_CMN_TRAINING_024	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_024	per:siblings	UWashington1	NIL
+台湾发明人协会
+
+extraction: 日本	749	751 美国 微软	766	771 org:member_of 3002058.0
+extraction: 日本	749	751 美国 微软	766	771 org:member_of 3002058.0
+extraction: 日本	749	751 美国 微软	766	771 org:member_of 3002058.0
+extraction: 新华社	93	96 杨跃萍	108	111 org:top_members_employees 1.2897898E7
+extraction: 新华社	93	96 杨跃萍	108	111 org:top_members_employees 1.2897898E7
+extraction: 新华社	93	96 杨跃萍	108	111 org:top_members_employees 1.2897898E7
+extraction: 新华社	93	96 杨跃萍	108	111 org:top_members_employees 1.2897898E7
+extraction: 新华社	93	96 杨跃萍	108	111 org:top_members_employees 1.2897898E7
+extraction: 新华社	93	96 杨跃萍	108	111 org:top_members_employees 1.2897898E7
+SF14_CMN_TRAINING_025	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_025	org:stateorprovince_of_headquarters	UWashington1	NIL
+王宁
+

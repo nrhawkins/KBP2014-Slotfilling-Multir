@@ -1,0 +1,290 @@
+华泰财产保险股份有限公司 ORG
+Number of Documents: 13
+
+All Extractions: 
+
+extraction: 毛晓梅	110	113 新华社	95	98 per:employee_or_member_of 1.6766832E7
+extraction: 许戈辉	172	175 墨	178	179 per:origin 1.9744224E7
+extraction: 阳光 卫视	1001	1005 杨澜	984	986 per:schools_attended.RE 8.6850294E7
+extraction: 兰州 大学 化学 系	1111	1118 美	1126	1127 org:location_of_headquarters 2.1733632E7
+extraction: 华泰 财产 保险 股份 有限 公司	314	326 王梓木	330	333 per:employee_or_member_of.RE 4.9443684E7
+extraction: 王梓木	330	333 华泰 财产 保险 股份 有限 公司	314	326 per:employee_or_member_of 1.9907178E7
+extraction: SOHO 中国 有限 公司	635	645 张欣说	649	652 organization.organization.founders 1.82206896E8
+extraction: 张欣说	649	652 SOHO 中国 有限 公司	635	645 organization.organization.founders.RE 5.2996714E7
+extraction: 办法 》 所 指 保险 集团 公司	687	698 中国 保监会	700	705 org:parents 496732.0
+
+Filtered Extractions: 
+
+华泰 财产 保险 股份 有限 公司	314	326 王梓木	330	333 per:employee_or_member_of.RE 4.9443684E7
+
+SF14_CMN_TRAINING_006	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_006	org:stateorprovince_of_headquarters	UWashington1	NIL
+武衡 PER
+Number of Documents: 23
+
+All Extractions: 
+
+extraction: 延安 聚会	155	159 徐特立	162	165 per:schools_attended.RE 7890137.0
+extraction: 徐特立	162	165 延安 聚会	155	159 per:schools_attended 3929847.0
+extraction: 陈云	175	177 浙江 人民 出 版社	161	169 per:schools_attended 1.4528866E7
+extraction: 中国 发明 协会	267	273 武衡	275	277 per:employee_or_member_of.RE 2.03711458E8
+extraction: 武衡	275	277 中国 发明 协会	267	273 org:top_members_employees.RE 3.6664275E7
+extraction: 中国 专利局	342	347 任建新	361	364 per:schools_attended.RE 1.5262544E7
+extraction: 中国 发明 协会	709	715 武衡	717	719 org:top_members_employees 4.4471662E7
+extraction: 武衡	717	719 中国 发明 协会	709	715 org:top_members_employees.RE 3.2180447E7
+extraction: 中国 发 明 协会	744	751 张开逊	754	757 org:top_members_employees 1.4380605E7
+extraction: 张开逊	754	757 中国 发 明 协会	744	751 per:employee_or_member_of 1.9548167E7
+extraction: 北京	127	129 江泽民	97	100 people.person.place_lived.RE 1.8599324E7
+extraction: 中国 发明 协会	141	148 武衡	150	152 org:top_members_employees 1.28065752E8
+extraction: 武衡	150	152 中国 发明 协会	141	148 org:top_members_employees.RE 5.7338435E7
+extraction: 国际 发明家 协会 联合会	179	189 中国	201	203 org:member_of.RE 2225256.0
+extraction: 中国 专利局 首任 局长	540	549 武衡	535	537 per:employee_or_member_of.RE 1.7341283E7
+extraction: 铁道部 电 化局 电磁 兼容 设计院	139	153 北京	156	158 org:location_of_headquarters 2.8084333E7
+extraction: 北京	156	158 铁道部 电 化局 电磁 兼容 设计院	139	153 org:location_of_headquarters.RE 1.8234779E7
+extraction: 郑武线	410	413 铁道部	415	418 organization.organization.founders.RE 1.5280395E7
+extraction: 京郑	471	473 哈大	478	480 org:location_of_headquarters.RE 1.8109945E7
+extraction: 中国 发明 协会	652	658 武衡	660	662 org:top_members_employees 4.4471662E7
+extraction: 武衡	660	662 中国 发明 协会	652	658 org:top_members_employees.RE 3.2180447E7
+extraction: 中华 全国 总工会	838	845 北京市	846	849 org:location_of_headquarters 5.0942879E7
+extraction: 北京市	846	849 中国 科学 技术 发展 基金会	866	877 org:location_of_headquarters.RE 7.8430416E7
+extraction: 高卢麟	938	941 中国 专利局	931	936 organization.organization.founders.RE 6.02527E7
+extraction: 中国 发明 协会	269	275 武衡	277	279 per:employee_or_member_of.RE 2.03711458E8
+extraction: 武衡	277	279 中国 发明 协会	269	275 org:top_members_employees.RE 3.6664275E7
+
+Filtered Extractions: 
+
+武衡	275	277 中国 发明 协会	267	273 org:top_members_employees.RE 3.6664275E7
+武衡	717	719 中国 发明 协会	709	715 org:top_members_employees.RE 3.2180447E7
+武衡	150	152 中国 发明 协会	141	148 org:top_members_employees.RE 5.7338435E7
+武衡	660	662 中国 发明 协会	652	658 org:top_members_employees.RE 3.2180447E7
+武衡	277	279 中国 发明 协会	269	275 org:top_members_employees.RE 3.6664275E7
+
+SF14_CMN_TRAINING_007	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_007	per:siblings	UWashington1	NIL
+世界福建青年联会 ORG
+Number of Documents: 9
+
+All Extractions: 
+
+extraction: 南美 侨报	166	170 巴西 福建	178	182 org:location_of_headquarters 1.5982413E7
+extraction: 巴西 福建	178	182 南美 侨报	166	170 org:location_of_headquarters.RE 1.9123486E7
+extraction: 世界 福建 青年 联会 巴西 分会	520	532 孙孝钦	534	537 org:top_members_employees 4.4471662E7
+extraction: 孙孝钦	534	537 世界 福建 青年 联会 巴西 分会	520	532 org:top_members_employees.RE 3.2180447E7
+extraction: 巴西	164	166 广东 同乡 总会	181	187 location.location.contains 1.9312613E7
+extraction: 巴西 广东 同乡 总会	348	356 陈荣	358	360 org:top_members_employees 4.4471662E7
+extraction: 陈荣	358	360 巴西 广东 同乡 总会	348	356 org:top_members_employees.RE 3.2180447E7
+extraction: 巴西	733	735 巴西 华人 工商 联合会	753	762 org:location_of_headquarters.RE 2.5504558E7
+extraction: 广东 同乡 总会	844	851 陈荣正	853	856 org:top_members_employees 1.50846589E8
+extraction: 中华 书法 学会	857	863 刘树德	865	868 org:top_members_employees 1.50846589E8
+extraction: 阿根廷	166	169 新 大陆 周刊	170	175 org:location_of_headquarters.RE 8.1873606E7
+extraction: 阿根廷 福州 十 邑 同乡会	344	355 严盛龙	357	360 org:top_members_employees 4.4471662E7
+extraction: 严盛龙	357	360 阿根廷 福州 十 邑 同乡会	344	355 org:top_members_employees.RE 3.2180447E7
+extraction: 阿根廷 华人 气功 协会	361	370 钱兰根	372	375 org:top_members_employees 3.3867872E7
+extraction: 钱兰根	372	375 阿根廷 华人 气功 协会	361	370 org:top_members_employees.RE 2.5583784E7
+extraction: 福建 同乡会	317	322 何安	324	326 org:top_members_employees 4.4471662E7
+extraction: 何安	324	326 福建 同乡会	317	322 org:top_members_employees.RE 3.2180447E7
+extraction: 巴西 福建 同乡会	465	472 何安	474	476 org:top_members_employees 1.28065752E8
+extraction: 何安	474	476 巴西 福建 同乡会	465	472 org:top_members_employees.RE 5.7338435E7
+extraction: 巴西	799	801 威廉巫	805	808 per:origin.RE 3502913.0
+extraction: 威廉巫	805	808 巴西	799	801 per:origin 1.1037132E7
+extraction: 巴西 华人 协会	809	815 吴耀宙	817	820 org:top_members_employees 1.28065752E8
+extraction: 吴耀宙	817	820 巴西 华人 协会	809	815 org:top_members_employees.RE 5.7338435E7
+extraction: 厦门 代表团	496	501 圣保罗	476	479 org:location_of_headquarters 4.4718195E7
+extraction: 福建 同乡 总会	511	518 石长荣	522	525 per:schools_attended.RE 2.3588123E7
+
+Filtered Extractions: 
+
+世界 福建 青年 联会 巴西 分会	520	532 孙孝钦	534	537 org:top_members_employees 4.4471662E7
+
+SF14_CMN_TRAINING_009	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:top_members_employees	UWashington1	CNS_CMN_20100901.0422:520-537	孙孝钦	CNS_CMN_20100901.0422:534-537	4.4471662E7
+SF14_CMN_TRAINING_009	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_009	org:stateorprovince_of_headquarters	UWashington1	NIL
+陈妙华 PER
+Number of Documents: 1
+
+All Extractions: 
+
+
+Filtered Extractions: 
+
+
+SF14_CMN_TRAINING_010	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:employee_or_member_of	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_010	per:siblings	UWashington1	NIL
+厦门市职业经理人协会 ORG
+Number of Documents: 1
+
+All Extractions: 
+
+extraction: 厦门	178	180 厦门市 职业 经理人 协会	184	194 location.location.contains 2.4158675E7
+extraction: 厦门市 职业 经理人 协会	184	194 厦门	178	180 location.location.contains.RE 3.5590338E7
+extraction: 台湾 中小 企业 经理人 协会	352	363 台湾	375	377 org:location_of_headquarters 2.7125032E7
+extraction: 台湾	375	377 台湾 中小 企业 经理人 协会	352	363 org:location_of_headquarters.RE 2.6270566E7
+extraction: 经济部 中小 企业处	379	387 台湾	375	377 org:location_of_headquarters 1.28672103E8
+
+Filtered Extractions: 
+
+厦门	178	180 厦门市 职业 经理人 协会	184	194 location.location.contains 2.4158675E7
+厦门市 职业 经理人 协会	184	194 厦门	178	180 location.location.contains.RE 3.5590338E7
+
+SF14_CMN_TRAINING_012	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:city_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_012	org:stateorprovince_of_headquarters	UWashington1	NIL
+王梓木 PER
+Number of Documents: 11
+
+All Extractions: 
+
+extraction: 北京	364	366 华泰 保险 公司	367	373 org:location_of_headquarters.RE 1.11901773E8
+extraction: 华泰 保险 公司	367	373 北京	364	366 org:location_of_headquarters 9.1455524E7
+extraction: 许戈辉	172	175 墨	178	179 per:origin 1.9744224E7
+extraction: 阳光 卫视	1001	1005 杨澜	984	986 per:schools_attended.RE 8.6850294E7
+extraction: 兰州 大学 化学 系	1111	1118 美	1126	1127 org:location_of_headquarters 2.1733632E7
+extraction: 华泰 财产 保险 股份 有限 公司	314	326 王梓木	330	333 per:employee_or_member_of.RE 4.9443684E7
+extraction: 王梓木	330	333 华泰 财产 保险 股份 有限 公司	314	326 per:employee_or_member_of 1.9907178E7
+extraction: SOHO 中国 有限 公司	635	645 张欣说	649	652 organization.organization.founders 1.82206896E8
+extraction: 张欣说	649	652 SOHO 中国 有限 公司	635	645 organization.organization.founders.RE 5.2996714E7
+extraction: 郭金龙	219	222 市 人大	207	210 organization.organization.founders.RE 5.8271256E7
+
+Filtered Extractions: 
+
+王梓木	330	333 华泰 财产 保险 股份 有限 公司	314	326 per:employee_or_member_of 1.9907178E7
+
+SF14_CMN_TRAINING_015	per:spouse	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:religion	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:city_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:other_family	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:countries_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:country_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:stateorprovince_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:title	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:children	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:origin	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:city_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:date_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:age	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:cities_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:employee_or_member_of	UWashington1	XIN_CMN_20030525.0053:314-333	华泰 财产 保险 股份 有限 公司	XIN_CMN_20030525.0053:314-326	1.9907178E7
+SF14_CMN_TRAINING_015	per:stateorprovince_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:cause_of_death	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:charges	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:country_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:schools_attended	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:parents	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:date_of_birth	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:statesorprovinces_of_residence	UWashington1	NIL
+SF14_CMN_TRAINING_015	per:siblings	UWashington1	NIL
+海峡两岸医药卫生交流协会 ORG
+Number of Documents: 13
+
+All Extractions: 
+
+extraction: 海峡 两 岸 医药 卫生 交流 协会 心血管 专业 委员会	156	176 厦门	181	183 org:location_of_headquarters 3097360.0
+extraction: 厦门	181	183 海峡 两 岸 医药 卫生 交流 协会 心血管 专业 委员会	156	176 org:location_of_headquarters.RE 3498012.0
+
+Filtered Extractions: 
+
+海峡 两 岸 医药 卫生 交流 协会 心血管 专业 委员会	156	176 厦门	181	183 org:location_of_headquarters 3097360.0
+
+SF14_CMN_TRAINING_016	org:subsidiaries	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:alternate_names	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:date_founded	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:website	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:country_of_headquarters	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:number_of_employees_members	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:date_dissolved	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:founded_by	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:political_religious_affiliation	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:shareholders	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:city_of_headquarters	UWashington1	GMW_CMN_20101209.0039:156-183	厦门	GMW_CMN_20101209.0039:181-183	3097360.0
+SF14_CMN_TRAINING_016	org:member_of	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:top_members_employees	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:parents	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:members	UWashington1	NIL
+SF14_CMN_TRAINING_016	org:stateorprovince_of_headquarters	UWashington1	NIL
